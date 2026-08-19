@@ -14,31 +14,31 @@
 - **LIVE_THIRD_PARTY_APPLY** — current exact third-party application route, no better employer route established.
 - Salary `UNKNOWN` means exactly that; no fake estimate is inserted.
 
-## Live pool
+## Live pool — tap the role or Apply
 
-| Pri | Score | Type | Company / Role | Salary | Work / access | Freshness | Interview |
-|---|---:|---|---|---|---|---|---|
-| A | **88** | CORE | Khazar Engineering — Accountant | Unknown | Baku / local | LIVE_THIRD_PARTY_APPLY | HIGH |
-| A | **86** | CORE | Xsolla — Finance Coordinator | Unknown | Baku / on-site | LIVE_ATS | MEDIUM_HIGH |
-| A | **84** | ADJACENT | INFUSE — Data-Focused Project Coordinator | Candidate states ask | Remote / Azerbaijan | LIVE_ATS | MEDIUM_HIGH |
-| B | **82** | ADJACENT | Xsolla — HR Project Coordinator | Unknown | Baku / hybrid | LIVE_ATS | MEDIUM_HIGH |
-| B | **80** | ADJACENT | Fairmont — Cost Controller | Unknown | Baku / on-site | LIVE_EMPLOYER | MEDIUM |
-| B | **79** | ADJACENT | Unibank — Financial Efficiency Lead/Chief Specialist | Unknown | Baku / local | LIVE_EMPLOYER | MEDIUM |
-| C | **74** | STRETCH | Xsolla — Delivery Manager, Self-Service | **USD 30k–80k/year** | Remote / Baku explicit | LIVE_ATS | LOW_MEDIUM |
-| C | **71** | STRETCH | Bolt — Operations Manager | Unknown | Baku / on-site | LIVE_EMPLOYER | LOW_MEDIUM |
+| Pri | Score | Type | Company / Role | Salary | Work / access | Freshness | Interview | Apply |
+|---|---:|---|---|---|---|---|---|---|
+| A | **88** | CORE | [Khazar Engineering — Accountant](https://classic.jobsearch.az/vacancies/khazar-engineering-accountant-146345?hl=en) | Unknown | Baku / local | LIVE_THIRD_PARTY_APPLY | HIGH | **[Apply ↗](https://classic.jobsearch.az/vacancies/khazar-engineering-accountant-146345?hl=en)** |
+| A | **86** | CORE | [Xsolla — Finance Coordinator](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb) | Unknown | Baku / on-site | LIVE_ATS | MEDIUM_HIGH | **[Apply ↗](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb)** |
+| A | **84** | ADJACENT | [INFUSE — Data-Focused Project Coordinator](https://job-boards.greenhouse.io/infuse/jobs/4720132005) | Candidate states ask | Remote / Azerbaijan | LIVE_ATS | MEDIUM_HIGH | **[Apply ↗](https://job-boards.greenhouse.io/infuse/jobs/4720132005)** |
+| B | **82** | ADJACENT | [Xsolla — HR Project Coordinator](https://jobs.lever.co/xsolla/2ebd9a85-2fcb-4a70-a9be-93df0c4e3795) | Unknown | Baku / hybrid | LIVE_ATS | MEDIUM_HIGH | **[Apply ↗](https://jobs.lever.co/xsolla/2ebd9a85-2fcb-4a70-a9be-93df0c4e3795)** |
+| B | **80** | ADJACENT | [Fairmont — Cost Controller](https://careers.accor.com/global/en/job/cost-controller-in-fairmont-baku-flame-towers-baku-azerbaijan-jid-92463) | Unknown | Baku / on-site | LIVE_EMPLOYER | MEDIUM | **[Apply ↗](https://careers.accor.com/global/en/job/cost-controller-in-fairmont-baku-flame-towers-baku-azerbaijan-jid-92463)** |
+| B | **79** | ADJACENT | [Unibank — Financial Efficiency Lead/Chief Specialist](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29) | Unknown | Baku / local | LIVE_EMPLOYER | MEDIUM | **[Apply ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29)** |
+| C | **74** | STRETCH | [Xsolla — Delivery Manager, Self-Service](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31) | **USD 30k–80k/year** | Remote / Baku explicit | LIVE_ATS | LOW_MEDIUM | **[Apply ↗](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31)** |
+| C | **71** | STRETCH | [Bolt — Operations Manager](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/) | Unknown | Baku / on-site | LIVE_EMPLOYER | LOW_MEDIUM | **[Apply ↗](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/)** |
 
 ---
 
 <details>
 <summary><strong>88/100 — Khazar Engineering & Fabrication — Accountant — Priority A</strong></summary>
 
+**Open vacancy:** **[Apply / vacancy page ↗](https://classic.jobsearch.az/vacancies/khazar-engineering-accountant-146345?hl=en)**  
 **Salary:** Unknown  
 **Location:** Baku, on-site  
 **Hiring:** Local Azerbaijan; listing explicitly says open to citizens of Azerbaijan  
 **Deadline:** 21 Aug 2026  
 **Freshness:** LIVE_THIRD_PARTY_APPLY  
-**Interview chance:** HIGH  
-**Apply:** https://classic.jobsearch.az/vacancies/khazar-engineering-accountant-146345?hl=en
+**Interview chance:** HIGH
 
 ### Why 88/100
 | Component | Score | Reason |
@@ -58,12 +58,12 @@
 <details>
 <summary><strong>86/100 — Xsolla — Finance Coordinator — Priority A</strong></summary>
 
+**Open vacancy:** **[Apply / Lever page ↗](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb)**  
 **Salary:** Unknown  
 **Location:** Baku, on-site  
 **Hiring:** Local Azerbaijan  
-**Freshness:** LIVE_ATS (Lever exact job page)  
-**Interview chance:** MEDIUM_HIGH  
-**Apply:** https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb
+**Freshness:** LIVE_ATS  
+**Interview chance:** MEDIUM_HIGH
 
 ### Why 86/100
 | Component | Score | Reason |
@@ -83,12 +83,12 @@
 <details>
 <summary><strong>84/100 — INFUSE — Data-Focused Project Coordinator — Priority A</strong></summary>
 
+**Open vacancy:** **[Apply / Greenhouse page ↗](https://job-boards.greenhouse.io/infuse/jobs/4720132005)**  
 **Salary:** employer asks candidate for expected compensation; no published range confirmed  
 **Work:** Remote contract  
 **Hiring:** Azerbaijan accepted in the application flow  
-**Freshness:** LIVE_ATS (Greenhouse exact application)  
-**Interview chance:** MEDIUM_HIGH  
-**Apply:** https://job-boards.greenhouse.io/infuse/jobs/4720132005
+**Freshness:** LIVE_ATS  
+**Interview chance:** MEDIUM_HIGH
 
 ### Why 84/100
 | Component | Score | Reason |
@@ -108,12 +108,12 @@
 <details>
 <summary><strong>82/100 — Xsolla — HR Project Coordinator — Priority B</strong></summary>
 
+**Open vacancy:** **[Apply / Lever page ↗](https://jobs.lever.co/xsolla/2ebd9a85-2fcb-4a70-a9be-93df0c4e3795)**  
 **Salary:** Unknown  
 **Location:** Baku, hybrid  
 **Hiring:** Local Azerbaijan  
-**Freshness:** LIVE_ATS (exact Lever page verified)  
-**Interview chance:** MEDIUM_HIGH  
-**Apply:** https://jobs.lever.co/xsolla/2ebd9a85-2fcb-4a70-a9be-93df0c4e3795
+**Freshness:** LIVE_ATS  
+**Interview chance:** MEDIUM_HIGH
 
 ### Why 82/100
 | Component | Score | Reason |
@@ -133,11 +133,11 @@
 <details>
 <summary><strong>80/100 — Fairmont Baku — Cost Controller — Priority B</strong></summary>
 
+**Open vacancy:** **[Apply / Accor careers ↗](https://careers.accor.com/global/en/job/cost-controller-in-fairmont-baku-flame-towers-baku-azerbaijan-jid-92463)**  
 **Salary:** Unknown  
 **Location:** Baku, on-site  
-**Freshness:** LIVE_EMPLOYER (Accor careers)  
-**Interview chance:** MEDIUM  
-**Apply:** https://careers.accor.com/global/en/job/cost-controller-in-fairmont-baku-flame-towers-baku-azerbaijan-jid-92463
+**Freshness:** LIVE_EMPLOYER  
+**Interview chance:** MEDIUM
 
 ### Why 80/100
 | Component | Score | Reason |
@@ -157,12 +157,12 @@
 <details>
 <summary><strong>79/100 — Unibank — Financial Efficiency Lead/Chief Specialist — Priority B</strong></summary>
 
+**Open vacancy:** **[Apply / employer vacancy page ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29)**  
 **Salary:** Unknown  
 **Location:** Baku  
 **Deadline:** 04 Sep 2026  
 **Freshness:** LIVE_EMPLOYER  
-**Interview chance:** MEDIUM  
-**Apply / current employer vacancy list:** https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29
+**Interview chance:** MEDIUM
 
 ### Why 79/100
 | Component | Score | Reason |
@@ -182,12 +182,12 @@
 <details>
 <summary><strong>74/100 — Xsolla — Delivery Manager, Self-Service — Priority C</strong></summary>
 
+**Open vacancy:** **[Apply / Lever page ↗](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31)**  
 **Salary:** **USD 30,000–80,000/year published**  
 **Work:** Remote  
 **Eligible locations:** explicitly includes Baku  
 **Freshness:** LIVE_ATS  
-**Interview chance:** LOW_MEDIUM  
-**Apply:** https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31
+**Interview chance:** LOW_MEDIUM
 
 ### Why 74/100
 | Component | Score | Reason |
@@ -207,11 +207,11 @@
 <details>
 <summary><strong>71/100 — Bolt — Operations Manager — Priority C</strong></summary>
 
+**Open vacancy:** **[Apply / Bolt careers ↗](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/)**  
 **Salary:** Unknown  
 **Location:** Baku, on-site  
 **Freshness:** LIVE_EMPLOYER  
-**Interview chance:** LOW_MEDIUM  
-**Apply:** https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/
+**Interview chance:** LOW_MEDIUM
 
 ### Why 71/100
 | Component | Score | Reason |
