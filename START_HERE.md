@@ -3,38 +3,38 @@
 This repository is the source of truth for the autonomous job-search project.
 
 ## User interface
-Open **`DASHBOARD.md`** first. It is the human-readable view of the search: live count, salary, clickable apply links, freshness, fit breakdown, interview chance, gaps and priority.
+Open **`DASHBOARD.md`** first. It shows the 100-candidate progress, browser-confirmed live subset, salary/access, clickable links and scores.
 
-`VACANCIES.csv` is the machine-readable ledger of vacancies that currently pass the strict live-route rule.  
-`REJECTED.csv` stores closed, expired, conflicting, inaccessible and watch leads so they are not repeatedly rediscovered.  
-`STATUS.md` stores exact progress and NEXT ACTION.  
-`RUN_LOCK.md` prevents the manual chat and scheduled-task chat from writing at the same time.
+`CANDIDATES.csv` — master pool of strong candidate vacancies counting toward 100.  
+`VACANCIES.csv` — subset personally confirmed live by the user in a normal browser.  
+`REJECTED.csv` — closed, expired, inaccessible, duplicate or seriously conflicted leads.  
+`STATUS.md` — exact progress and NEXT ACTION.  
+`RUN_LOCK.md` — prevents the manual chat and scheduled-task chat from writing at the same time.
 
 ## Goal
-Find up to 100 **verified, realistically attainable** job opportunities for Mikayil in Baku or accessible from Azerbaijan, with target compensation of at least **2,500 AZN net/month equivalent**, preferably materially higher.
+Build **100 strong, scored candidate vacancies** for Mikayil in Baku or accessible from Azerbaijan, with target compensation of at least **2,500 AZN net/month equivalent**, preferably materially higher.
+
+Browser freshness is a separate field because ChatGPT web can expose stale crawl snapshots. The user will manually open whichever candidates look attractive; do not block autonomous progress waiting for browser confirmation.
 
 ## Search philosophy
-Search by transferable skills, not only by current title.
-
-Candidate profile is defined in `PROFILE.md`.  
-Search, freshness and scoring rules are defined in `SEARCH_RULES.md`.
+Search by transferable skills, not only by current title. Candidate profile is in `PROFILE.md`; scoring/freshness rules are in `SEARCH_RULES.md`.
 
 ## Mandatory run procedure
-1. Read `RUN_LOCK.md` first and acquire the lock exactly as its protocol requires. If another non-expired run owns it, do not start.
-2. After acquiring the lock, read `START_HERE.md`, `PROFILE.md`, `SEARCH_RULES.md`, `STATUS.md`, `VACANCIES.csv`, `REJECTED.csv`, and `DASHBOARD.md`.
+1. Read `RUN_LOCK.md` first and acquire the lock. If another non-expired run owns it, do not start.
+2. Read `START_HERE.md`, `PROFILE.md`, `SEARCH_RULES.md`, `STATUS.md`, `CANDIDATES.csv`, `VACANCIES.csv`, `REJECTED.csv`, and `DASHBOARD.md`.
 3. Resume from `STATUS.md` → `NEXT ACTION`.
-4. Search current public job sources and resolve the most exact live employer/ATS application route possible.
-5. Verify current availability, location/work model, Baku hiring access, compensation evidence, skill fit, gaps, workload/risk and apply route.
-6. Deduplicate against accepted and rejected/watch ledgers.
-7. Count a role only if it passes the strict freshness rule. Discovery snippets do not count.
-8. Store all six scoring components so `fit_score` is transparent arithmetic.
-9. Update `VACANCIES.csv`, `REJECTED.csv`, `DASHBOARD.md`, and `STATUS.md` before ending the run.
-10. Release `RUN_LOCK.md` back to `FREE` after all run writes are complete.
+4. Search broadly across Baku/local, explicit Azerbaijan remote and legally plausible international routes.
+5. Evaluate fit, compensation likelihood, Baku access, lifestyle, upside and key gaps.
+6. Deduplicate against `CANDIDATES.csv` and `REJECTED.csv`.
+7. Add strong candidates to `CANDIDATES.csv` even when freshness evidence is only `TOOL_SNAPSHOT`, but label that honestly. Never call a snapshot definitely live.
+8. Known 404/closed/expired roles do not count.
+9. Update `DASHBOARD.md` and `STATUS.md`; update `VACANCIES.csv` only when browser-confirmed live evidence exists.
+10. Release `RUN_LOCK.md` to `FREE` after all writes.
 
 ## Categories
-- `CORE`: direct or near-direct fit with current finance/AP/P2P/SAP/operations experience.
+- `CORE`: direct or near-direct fit with finance/AP/P2P/SAP/operations experience.
 - `ADJACENT`: strong transferable-skill fit into a neighboring function.
 - `STRETCH`: non-obvious role with a plausible path in and meaningful compensation/career upside.
 
 ## Completion condition
-Search phase completes at 100 accepted, currently verified opportunities. Then move to ranking, CV variants, vacancy-specific tailoring, and application sequencing.
+Search phase completes at **100 candidate leads**. Then stop expanding and move to user review, browser checks, deep vacancy analysis, CV variants, vacancy-specific tailoring and application sequencing.
