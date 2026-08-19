@@ -2,34 +2,27 @@
 
 ## Current state
 - Phase: SEARCH / CANDIDATE POOL BUILD.
-- Last completed run: Manual overnight Run — 2026-08-20 around 00:38–01:05 AZT.
-- **Candidate pool: 32 / 100.**
+- Last completed run: Autonomous Run — 2026-08-20 around 01:30–01:45 AZT.
+- **Candidate pool: 40 / 100.**
 - **Browser-confirmed live subset: 4.**
 - User-facing interface: `DASHBOARD.md`.
-- `CANDIDATES.csv` is now the master 100-target ledger.
+- `CANDIDATES.csv` is the master 100-target ledger.
 - Repository remains the sole persistent source of truth.
 
-## User decision that changes the workflow
-The user will manually browser-check attractive links later. The autonomous goal is therefore 100 strong candidate leads, not 100 browser-confirmed live pages. The user may only inspect the first 20–30 if lower-ranked titles are not interesting.
-
-This solves the web-cache limitation without sacrificing autonomous search: `TOOL_SNAPSHOT` candidates can count toward 100 if they are strong and not already known closed, but must never be described as definitely live.
-
-## Manual run result
-- Started from 4 browser-confirmed live roles.
-- Built a new `CANDIDATES.csv` master pool with **32 scored candidates**.
-- Dashboard now separates `Candidate pool 32/100` from `Browser-confirmed live 4`.
-- Added strong new directions including:
-  - LeverX — SAP Functional Support Consultant — Azerbaijan explicitly eligible remote; especially strong MDG customer/vendor overlap.
-  - LeverX — SAP Functional Consultant — Azerbaijan explicitly eligible remote.
-  - OBA Market — Senior Finance Controller.
-  - Milli Aviasiya Akademiyası — Data Analytics Specialist.
-  - Yelo Bank — Data Analyst (Credit Monitoring), Business Data Analyst and Data Governance/Data Steward.
-  - IDDA — Data Quality, Data Management and Senior IT Business Analyst roles.
-  - Baku Steel — Procurement & Logistics Department Manager.
-  - Hikvision — Procurement & Supply Specialist.
-  - VTB, Expressbank, Azerbaijan Railways and OBA adjacent operations/data/process roles.
-- Preserved previously strong unconfirmed candidates such as Technip, ABB, Avis, CCI, DP World, Azerconnect and Weatherford.
-- Known browser-dead jobs (Khazar, INFUSE old coordinator, Xsolla HR Project Coordinator, Fairmont) remain outside the candidate count.
+## Run result
+- Added **8 new scored candidates**; no weak padding.
+- New strongest additions:
+  1. **Holcim Azerbaijan — SAP Master Data Expert — 91** — ADJACENT / Priority A. A new LinkedIn job ID/repost surfaced after the previously closed Holcim role. Near-direct overlap with SAP master data, S/4/MDG, data quality, process gap analysis, SOP standardization and Finance/Procurement/Supply Chain streams.
+  2. **Deloitte — Consultant, Business Process Solutions — 88** — CORE / Priority A. Direct payables/receivables, payment, bookkeeping and client-accounting overlap; local statutory/tax consulting scope is the main expansion.
+  3. **Araz Supermarket — SAP Consultant — 87** — ADJACENT / Priority A. SAP master data, business-process mapping, data governance and MM/FI exposure fit strongly; formal consultant/configuration ownership is the main gap.
+- Also added:
+  - Sigma Technical Services — Senior Accountant — 85.
+  - Weatherford — Senior Accountant — 80.
+  - TRIBU Search — Group Financial Controller — 76.
+  - Life at Bir — Junior Business Analyst (Financial & Strategic) — 78.
+  - Deloitte — Business Analyst, Sustainability — 73.
+- Kept all new results as `TOOL_SNAPSHOT`; none was promoted to browser-confirmed live.
+- Current search also resurfaced stale/expired roles (for example Rabitabank Middle IT Business Analyst with a July 9 deadline and Bank of Baku MIS roles with July deadlines); these were not added.
 
 ## Browser-confirmed live subset
 1. Xsolla — Finance Coordinator — 86.
@@ -46,13 +39,14 @@ This solves the web-cache limitation without sacrificing autonomous search: `TOO
 - Known closed/404/expired roles never count.
 - `TOOL_SNAPSHOT` may count as a candidate but never as browser-confirmed live.
 - `USER_BROWSER_LIVE` and `USER_BROWSER_CLOSED` override tool snapshots.
+- A newly surfaced distinct job ID/repost may be retained even when an older role at the same employer was previously closed, but the new row must explicitly note that distinction.
 
 ## NEXT ACTION
-1. Continue from **32 / 100** and aim to add roughly **6–10 genuinely useful new candidates per hourly run** until reaching 100; do not pad with weak links.
-2. Deep-search current-looking employer/job indexes in Baku: banks, telecom, oil & gas, engineering, retail/FMCG, logistics, transport, shared services, major local groups and international employers.
-3. Deep-search explicit Azerbaijan/CIS/global remote roles, especially SAP/ERP/MDG, finance systems, P2P/AR/O2C, project/process coordination, data quality/governance, procurement operations and business operations.
-4. Expand title-agnostically into warehouse/inventory, supply chain, project/program coordination, implementation/onboarding, customer/sales operations and process-quality roles when skill transfer is credible.
-5. Require a score breakdown and short why-fit/gaps for every addition.
-6. Keep exact links when possible; if only an employer vacancy list is available, mark `link_quality=LIST` so the user knows to search the title on that page.
-7. Update `CANDIDATES.csv`, `DASHBOARD.md` and this `STATUS.md` every run. Update `VACANCIES.csv` only after user-browser confirmation; update `REJECTED.csv` when a role is known closed/inaccessible.
-8. When candidate pool reaches **100/100**, stop expanding the pool and report completion. Next phase: user shortlist/browser checks, deep requirement-by-requirement analysis, CV variants and application sequencing.
+1. Continue from **40 / 100** and aim for roughly **6–10 genuinely useful additions per run**.
+2. Deep-search Baku/current-looking finance operations, SAP/ERP/MDG/master-data, procurement/P2P, controls, shared-services and accounting roles first.
+3. Expand current search into business/process analysis, finance systems, project/process coordination, data quality/governance, inventory/supply chain and B2B operations when score remains 70+.
+4. Prioritize explicit Azerbaijan/CIS/global remote opportunities, especially SAP functional support, ERP implementation/support, finance systems and data governance.
+5. Seek more current employer/ATS or fresh indexed roles rather than repeatedly recycling stale LinkedIn snapshots.
+6. Keep score arithmetic, exact/list link quality, source-age note, why-fit and key gaps for every addition.
+7. Update `CANDIDATES.csv`, `DASHBOARD.md` and this file every run. Do not change `VACANCIES.csv` without user-browser confirmation.
+8. Stop expanding at **100 / 100** and move to user shortlist/browser checks, deep role analysis, CV variants and application sequencing.
