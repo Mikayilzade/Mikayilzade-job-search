@@ -1,45 +1,58 @@
 # Job Search Status
 
 ## Current state
-- Phase: SEARCH / QUALIFICATION with browser-aware freshness.
-- Last correction: Manual live-browser audit — 2026-08-20 around 00:16–00:19 AZT.
-- **Browser-confirmed live opportunities: 4.**
+- Phase: SEARCH / CANDIDATE POOL BUILD.
+- Last completed run: Manual overnight Run — 2026-08-20 around 00:38–01:05 AZT.
+- **Candidate pool: 32 / 100.**
+- **Browser-confirmed live subset: 4.**
 - User-facing interface: `DASHBOARD.md`.
+- `CANDIDATES.csv` is now the master 100-target ledger.
 - Repository remains the sole persistent source of truth.
 
-## Root-cause finding
-The prior `strict live` rule was still too weak because ChatGPT web/search can return stored crawl snapshots of employer/ATS pages. A page being readable through web does not prove that the same exact URL is currently live in a normal browser.
+## User decision that changes the workflow
+The user will manually browser-check attractive links later. The autonomous goal is therefore 100 strong candidate leads, not 100 browser-confirmed live pages. The user may only inspect the first 20–30 if lower-ranked titles are not interesting.
 
-The user tested all 8 dashboard links:
-- LIVE: Xsolla Finance Coordinator; Unibank Financial Efficiency Lead/Chief Specialist; Xsolla Delivery Manager, Self-Service; Bolt Operations Manager.
-- CLOSED/REMOVED: Khazar Engineering Accountant; INFUSE Data-Focused Project Coordinator; Xsolla HR Project Coordinator; Fairmont Cost Controller.
+This solves the web-cache limitation without sacrificing autonomous search: `TOOL_SNAPSHOT` candidates can count toward 100 if they are strong and not already known closed, but must never be described as definitely live.
 
-Observed cache-lag examples:
-- Xsolla HR: normal browser showed Lever 404 while web still exposed an older job snapshot.
-- INFUSE: normal browser said vacancy no longer available while web still exposed an older Greenhouse application snapshot.
-- Fairmont: current exact page is 404 while search still contains the previous job description.
-- Khazar: normal browser returned page-not-found while search still contained a cached posting with future deadline.
+## Manual run result
+- Started from 4 browser-confirmed live roles.
+- Built a new `CANDIDATES.csv` master pool with **32 scored candidates**.
+- Dashboard now separates `Candidate pool 32/100` from `Browser-confirmed live 4`.
+- Added strong new directions including:
+  - LeverX — SAP Functional Support Consultant — Azerbaijan explicitly eligible remote; especially strong MDG customer/vendor overlap.
+  - LeverX — SAP Functional Consultant — Azerbaijan explicitly eligible remote.
+  - OBA Market — Senior Finance Controller.
+  - Milli Aviasiya Akademiyası — Data Analytics Specialist.
+  - Yelo Bank — Data Analyst (Credit Monitoring), Business Data Analyst and Data Governance/Data Steward.
+  - IDDA — Data Quality, Data Management and Senior IT Business Analyst roles.
+  - Baku Steel — Procurement & Logistics Department Manager.
+  - Hikvision — Procurement & Supply Specialist.
+  - VTB, Expressbank, Azerbaijan Railways and OBA adjacent operations/data/process roles.
+- Preserved previously strong unconfirmed candidates such as Technip, ABB, Avis, CCI, DP World, Azerconnect and Weatherford.
+- Known browser-dead jobs (Khazar, INFUSE old coordinator, Xsolla HR Project Coordinator, Fairmont) remain outside the candidate count.
 
-Therefore `LIVE_ATS` / `LIVE_EMPLOYER` based solely on readable web snapshot is retired as proof of current availability.
+## Browser-confirmed live subset
+1. Xsolla — Finance Coordinator — 86.
+2. Unibank — Financial Efficiency Lead/Chief Specialist — 79.
+3. Xsolla — Delivery Manager, Self-Service — 74 — remote/Baku — USD 30k–80k/year published.
+4. Bolt — Operations Manager — 71.
 
-## Confirmed live pool
-1. **Xsolla — Finance Coordinator** — CORE — 86 — Priority A — Baku on-site — user-browser confirmed live.
-2. **Unibank — Financial Efficiency Lead/Chief Specialist** — ADJACENT — 79 — Priority B — Baku — user-browser confirmed live.
-3. **Xsolla — Delivery Manager, Self-Service** — STRETCH — 74 — Priority C — remote, Baku explicit — user-browser confirmed live — USD 30k–80k/year published.
-4. **Bolt — Operations Manager** — STRETCH — 71 — Priority C — Baku on-site — user-browser confirmed live.
-
-## Data discipline from now on
-- `USER_BROWSER_LIVE` is strong current availability evidence.
-- `USER_BROWSER_CLOSED` immediately removes a role from the live pool.
-- Web/search/ATS content with an older crawl is `TOOL_SNAPSHOT`: useful for discovery and analysis, but not proof of current availability.
-- Direct 404/closed evidence wins over a cached positive snapshot.
-- Before CV tailoring or application, exact URL must be opened again.
-- Keep salary status, access, score arithmetic, fit gaps and interview chance separate from freshness.
+## Data discipline
+- Candidate quality matters more than filling the number.
+- Prefer score 70+; 65–69 only with a specific strategic reason.
+- Local Baku and explicit Azerbaijan remote are preferred.
+- Remote without country access evidence must be flagged or excluded.
+- Deduplicate before every addition.
+- Known closed/404/expired roles never count.
+- `TOOL_SNAPSHOT` may count as a candidate but never as browser-confirmed live.
+- `USER_BROWSER_LIVE` and `USER_BROWSER_CLOSED` override tool snapshots.
 
 ## NEXT ACTION
-1. Continue searching broadly for strong Baku/Azerbaijan and explicitly eligible remote opportunities.
-2. For every new result, record whether evidence is `TOOL_SNAPSHOT` or genuinely browser-confirmed; never call a cached snapshot definitely live.
-3. Keep promising current-looking tool discoveries as Watch/candidates rather than deleting them solely because browser confirmation is not yet available.
-4. Do not inflate the live count from cached data.
-5. Later perform a deeper requirement-by-requirement review of each browser-confirmed vacancy: responsibilities, must-haves, transferable evidence, real gaps, CV changes, likely interview questions, compensation, workload and red flags.
-6. Discuss with the user whether the headline target `100` should mean (A) 100 strong candidate leads with a separate live-verification flag, or (B) 100 browser-confirmed live vacancies. Option A is far more autonomous; Option B requires repeated real-browser validation.
+1. Continue from **32 / 100** and aim to add roughly **6–10 genuinely useful new candidates per hourly run** until reaching 100; do not pad with weak links.
+2. Deep-search current-looking employer/job indexes in Baku: banks, telecom, oil & gas, engineering, retail/FMCG, logistics, transport, shared services, major local groups and international employers.
+3. Deep-search explicit Azerbaijan/CIS/global remote roles, especially SAP/ERP/MDG, finance systems, P2P/AR/O2C, project/process coordination, data quality/governance, procurement operations and business operations.
+4. Expand title-agnostically into warehouse/inventory, supply chain, project/program coordination, implementation/onboarding, customer/sales operations and process-quality roles when skill transfer is credible.
+5. Require a score breakdown and short why-fit/gaps for every addition.
+6. Keep exact links when possible; if only an employer vacancy list is available, mark `link_quality=LIST` so the user knows to search the title on that page.
+7. Update `CANDIDATES.csv`, `DASHBOARD.md` and this `STATUS.md` every run. Update `VACANCIES.csv` only after user-browser confirmation; update `REJECTED.csv` when a role is known closed/inaccessible.
+8. When candidate pool reaches **100/100**, stop expanding the pool and report completion. Next phase: user shortlist/browser checks, deep requirement-by-requirement analysis, CV variants and application sequencing.
