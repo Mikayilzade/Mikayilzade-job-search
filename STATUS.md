@@ -1,45 +1,51 @@
 # Job Search Status
 
 ## Current state
-- Phase: SEARCH / STRICT FRESHNESS AUDIT
-- Last completed run: Manual Run #3 — 2026-08-19; immediate post-run correction after user live-page check.
-- Candidate opportunities remaining after Halliburton correction: **16 / 100 provisional**.
-- Halliburton Accountant, Sr removed from accepted pool after the user's live Halliburton page at 2026-08-19 23:22 Baku time showed only Lab Tech-Chemistry and no accountant vacancy.
-- Rejected / expired / watch-not-counted leads recorded: **19**.
-- Repository is the source of truth, but all 16 legacy accepted entries must now be re-audited under the stricter freshness rule before final application prioritization.
+- Phase: SEARCH / QUALIFICATION under strict freshness rule.
+- Last completed run: Manual Interface + Freshness Audit Run — 2026-08-19 23:35 AZT.
+- **Strictly qualified live opportunities: 7 / 100.**
+- Strong watch/unverified leads remain preserved in `REJECTED.csv` and `DASHBOARD.md` but do not count.
+- User-facing interface: **`DASHBOARD.md`**.
+- Repository remains the sole source of truth.
 
-## Freshness correction
-Search/index data can lag the employer's current careers page. A search result that appears new or says `Actively Hiring` is no longer sufficient evidence of an active vacancy. Halliburton demonstrated this failure mode: cached/indexed results still surfaced `Accountant, Sr`, while the user's current employer page did not.
+## What changed in this run
+- Added transparent scoring fields to `VACANCIES.csv`: six score components, interview chance, application priority, freshness and salary status.
+- `fit_score` is now required to equal: skills/30 + transition/20 + compensation/15 + access/15 + lifestyle/10 + upside/10.
+- Created `DASHBOARD.md` with expandable vacancy cards showing salary, apply link, freshness, exact score arithmetic, why-fit, gaps and next action.
+- Completed a strict re-audit of the 16 legacy candidate records after the Halliburton false-positive exposed stale-search risk.
+- Pruned the accepted pool from 16 provisional records to **7 currently defensible live records** rather than preserving an inflated count.
 
-From now on:
-- Search engines, LinkedIn snippets and aggregators are discovery only.
-- Exact employer/ATS application pages are required wherever available.
-- If the employer page conflicts with indexed/search data, employer page wins.
-- If the tool-accessible employer page itself is based on an older crawl/cache, the vacancy must be marked with freshness uncertainty rather than presented as definitely live.
-- Before the user applies, exact live status must be checked again.
+## Live pool after audit
+1. **Khazar Engineering & Fabrication — Accountant** — CORE — 88 — Priority A — exact current third-party application, deadline 21.08.2026.
+2. **Xsolla — Finance Coordinator** — CORE — 86 — Priority A — exact Lever ATS live.
+3. **INFUSE — Data-Focused Project Coordinator** — ADJACENT — 84 — Priority A — exact Greenhouse ATS live, remote contract.
+4. **Fairmont — Cost Controller** — ADJACENT — 80 — Priority B — exact Accor employer page live.
+5. **Unibank — Financial Efficiency Lead/Chief Specialist** — ADJACENT — 79 — Priority B — current official employer vacancy list, deadline 04.09.2026.
+6. **Xsolla — Delivery Manager, Self-Service** — STRETCH — 74 — Priority C — exact Lever ATS live, Baku explicitly eligible, published USD 30k–80k/year.
+7. **Bolt — Operations Manager** — STRETCH — 71 — Priority C — exact Bolt employer page live.
 
-## Current candidate ranking pending strict re-audit
-1. **Azercell — Procurement Analyst** — ADJACENT — fit 92.
-2. **Technip Energies — Accounting Specialist** — CORE — fit 91.
-3. **ABB — Procurement reporting and analysis specialist** — ADJACENT — fit 90.
-4. **Avis Azerbaijan — Accounting Specialist - Receivables** — CORE — fit 89.
-5. **Khazar Engineering & Fabrication — Accountant** — CORE — fit 88.
-6. **Xsolla — Finance Coordinator** — CORE — fit 86.
-7. **Coca-Cola CCI — Master Data Responsible** — ADJACENT — fit 85.
-8. **DP World — MCV Management Accountant** — CORE — fit 85.
-9. **INFUSE — Data-Focused Project Coordinator** — ADJACENT — fit 84.
-10. **Bank of Baku — Business Development Analytical Expert** — ADJACENT — fit 83.
-11. **Fairmont — Cost Controller** — ADJACENT — fit 80.
-12. **Unibank — Financial Efficiency Lead/Chief Specialist** — ADJACENT — fit 79.
-13. **Azerconnect — Finance Functional Consultant** — ADJACENT — fit 78.
-14. **Xsolla — Delivery Manager, Self-Service** — STRETCH — fit 74.
-15. **Weatherford — Inventory Coordinator** — STRETCH — fit 73.
-16. **Bolt — Operations Manager** — STRETCH — fit 71.
+## Important audit removals / watch leads
+- **Azercell Procurement Analyst:** exact employer page says deadline 11.08.2026; aggregator date was wrong.
+- **Bank of Baku Analytical Expert:** exact employer page says deadline 31.07.2026; removed.
+- **Technip Energies Accounting Specialist:** conflicting indexed status and no exact current employer/ATS route established; watch only.
+- **ABB Procurement reporting & analysis:** fresh discovery sources exist, but exact ABB employer vacancy was not resolved; watch only.
+- **Avis Receivables:** exact LinkedIn role exists, but employer/ATS live route not independently established; watch only.
+- **Azerconnect Finance Functional Consultant:** fresh strong lead and exact Oracle ATS URL exist, but ATS page itself was not directly validated through the available web path; watch until confirmed.
+- **Coca-Cola CCI Master Data Responsible:** new-looking company LinkedIn repost conflicts with older exact listing; current employer requisition unresolved.
+- **Weatherford Inventory Coordinator:** LinkedIn discovery only; exact Weatherford employer/ATS route unresolved.
+- **DP World MCV Management Accountant:** exact Oracle ATS URL exists and third-party deadline says 20.08.2026, but ATS itself was not directly validated; urgent watch lead.
+
+## Data discipline
+- Never protect the counter at the expense of accuracy.
+- Search/LinkedIn recency is discovery, not proof.
+- Exact employer/ATS status wins.
+- Every accepted vacancy must be rechecked immediately before CV tailoring/application.
+- Every future run must maintain `DASHBOARD.md` as well as the CSV ledgers.
 
 ## NEXT ACTION
-1. Do **not** search for new vacancies first. Audit every one of the remaining 16 accepted records under the new strict freshness rule.
-2. For each, resolve the most exact employer-controlled careers/ATS URL available and record whether the accessible data is truly current, recently crawled, or freshness-uncertain.
-3. Move any closed, missing, expired or unverified role to `REJECTED.csv`; do not preserve a role merely to maintain the counter.
-4. Recalculate the true accepted count after the audit.
-5. Only then resume new searches toward 100, using search/index results as discovery rather than proof of availability.
-6. Re-check exact live status again immediately before CV tailoring/application because even a verified role can close between runs.
+1. Re-attempt exact ATS validation for urgent high-value watch leads, especially DP World and Azerconnect; if confirmed live, return them to `VACANCIES.csv` with full transparent scorecards.
+2. Continue new search toward 100, but only count roles that pass the strict live-route rule in the same run.
+3. Prioritize fresh employer/ATS sources and international/local employers where compensation can plausibly exceed 2,500 AZN net.
+4. Expand beyond finance into master data, procurement/P2P, reporting, process improvement, ERP support, operations, supply chain/warehouse, project coordination, customer operations and other strong transferable-skill roles.
+5. Seek published salary or defensible salary evidence; never invent a local salary figure.
+6. After every run update `VACANCIES.csv`, `REJECTED.csv`, `DASHBOARD.md`, and this file.
