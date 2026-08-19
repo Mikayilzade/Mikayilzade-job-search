@@ -1,6 +1,6 @@
 # Job Search Dashboard
 
-> **Strict live pool: 7 / 100** — last audited 2026-08-19 23:35 AZT.
+> **Strict live pool: 8 / 100** — last audited 2026-08-19 23:41 AZT.
 >
 > A role counts only when its exact live application route passes the strict freshness rule. Search/LinkedIn discoveries that cannot be confirmed remain in Watch and do **not** inflate the counter.
 
@@ -21,6 +21,7 @@
 | A | **88** | CORE | Khazar Engineering — Accountant | Unknown | Baku / local | LIVE_THIRD_PARTY_APPLY | HIGH |
 | A | **86** | CORE | Xsolla — Finance Coordinator | Unknown | Baku / on-site | LIVE_ATS | MEDIUM_HIGH |
 | A | **84** | ADJACENT | INFUSE — Data-Focused Project Coordinator | Candidate states ask | Remote / Azerbaijan | LIVE_ATS | MEDIUM_HIGH |
+| B | **82** | ADJACENT | Xsolla — HR Project Coordinator | Unknown | Baku / hybrid | LIVE_ATS | MEDIUM_HIGH |
 | B | **80** | ADJACENT | Fairmont — Cost Controller | Unknown | Baku / on-site | LIVE_EMPLOYER | MEDIUM |
 | B | **79** | ADJACENT | Unibank — Financial Efficiency Lead/Chief Specialist | Unknown | Baku / local | LIVE_EMPLOYER | MEDIUM |
 | C | **74** | STRETCH | Xsolla — Delivery Manager, Self-Service | **USD 30k–80k/year** | Remote / Baku explicit | LIVE_ATS | LOW_MEDIUM |
@@ -102,6 +103,31 @@
 
 **Main gaps:** BI tools beyond Excel/Power Query and formal project title.  
 **Next:** benchmark a USD contractor ask and prepare 2–3 automation/data-quality examples.
+</details>
+
+<details>
+<summary><strong>82/100 — Xsolla — HR Project Coordinator — Priority B</strong></summary>
+
+**Salary:** Unknown  
+**Location:** Baku, hybrid  
+**Hiring:** Local Azerbaijan  
+**Freshness:** LIVE_ATS (exact Lever page verified)  
+**Interview chance:** MEDIUM_HIGH  
+**Apply:** https://jobs.lever.co/xsolla/2ebd9a85-2fcb-4a70-a9be-93df0c4e3795
+
+### Why 82/100
+| Component | Score | Reason |
+|---|---:|---|
+| Existing skills | **24/30** | Operational coordination, process ownership, stakeholder work, documentation, reporting and basic financial tracking transfer strongly. |
+| Transition | **17/20** | HR domain is new, but recruitment knowledge is only a plus and the role accepts operational-support backgrounds. |
+| Compensation | **10/15** | Salary unpublished; international-tech employer makes target plausible but unconfirmed. |
+| Baku access | **15/15** | Exact Baku hybrid vacancy. |
+| Lifestyle | **8/10** | Hybrid project role; likely more regular than high-pressure operations management. |
+| Upside | **8/10** | Strong bridge into project/operations coordination in tech. |
+| **TOTAL** | **82/100** | |
+
+**Main gaps:** formal project-coordinator title, HR context, fluent-English interview requirement.  
+**Next:** verify salary; tailor automation, deadline tracking, cross-team coordination and process-improvement examples.
 </details>
 
 <details>
@@ -204,7 +230,7 @@
 
 ## Strong Watch leads — not counted
 
-These may be excellent jobs, but they failed the strict live-route test in this audit. They stay recorded so they can be recovered if a current employer/ATS page is confirmed.
+These may be excellent jobs, but they failed the strict live-route/access/pay test. They stay recorded so they can be recovered if conditions change.
 
 | Former score | Company / Role | Why not counted now |
 |---:|---|---|
@@ -212,11 +238,14 @@ These may be excellent jobs, but they failed the strict live-route test in this 
 | 91 | Technip Energies — Accounting Specialist | Status conflict; no exact current employer/ATS page established. |
 | 90 | ABB — Procurement reporting & analysis | Fresh LinkedIn/board results, but exact ABB employer page not resolved. |
 | 89 | Avis — Accounting Specialist, Receivables | Exact LinkedIn role exists, employer/ATS live route not independently established. |
-| 85 | DP World — MCV Management Accountant | Exact Oracle ATS URL exists but could not be directly validated in this audit; deadline reportedly 20 Aug. |
+| 85 | DP World — MCV Management Accountant | Exact Oracle ATS URL exists but still cannot be directly validated; deadline reportedly 20 Aug. |
 | 85 | Coca-Cola CCI — Master Data Responsible | New-looking company LinkedIn repost conflicts with older exact listing; current employer requisition unresolved. |
 | 83 | Bank of Baku — Analytical Expert | **Expired:** exact employer page says deadline 31 Jul 2026. |
-| 78 | Azerconnect — Finance Functional Consultant | Strong fresh lead and exact Oracle ATS URL, but ATS could not be directly validated in this audit. |
+| 78 | Azerconnect — Finance Functional Consultant | Strong fresh lead and exact Oracle ATS URL, but ATS could not be directly validated. |
 | 73 | Weatherford — Inventory Coordinator | LinkedIn exact role only; exact Weatherford employer/ATS route not established. |
+| — | Launchpad — Finance Systems / ERP Functional Consultant | Excellent fit and USD 3.8k–4.2k/month, but exact role is **LATAM-only**; not accessible from Baku as published. |
+| — | Care Access — Financial Operations (AP) Analyst | Excellent fit and USD 50k–70k/year, but exact role is **US-only** and requires US work authorization. |
+| — | Xsolla — Junior Delivery Manager | Live CIS remote role, but entry-level 3-month fixed-term contract and no salary evidence; target pay not established. |
 
 ## What the score means
 
