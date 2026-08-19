@@ -1,254 +1,133 @@
 # Job Search Dashboard
 
-> **Strict live pool: 8 / 100** — last audited 2026-08-19 23:41 AZT.
+> **Browser-confirmed live now: 4** — checked by the user in a normal browser on 2026-08-20 around 00:16–00:19 AZT.
 >
-> A role counts only when its exact live application route passes the strict freshness rule. Search/LinkedIn discoveries that cannot be confirmed remain in Watch and do **not** inflate the counter.
+> Important: ChatGPT web/search can expose cached job-page snapshots. A readable search/ATS snapshot is now treated as discovery evidence, **not** proof that the vacancy still exists in a normal browser.
 
-## Legend
+## Confirmed live — tap the role
 
-- **A** — apply early once critical unknowns (especially salary) are acceptable.
-- **B** — good application after A roles.
-- **C** — stretch/upside application.
-- **LIVE_EMPLOYER** — exact employer page verified.
-- **LIVE_ATS** — exact employer-controlled ATS verified.
-- **LIVE_THIRD_PARTY_APPLY** — current exact third-party application route, no better employer route established.
-- Salary `UNKNOWN` means exactly that; no fake estimate is inserted.
+| Pri | Score | Type | Company / Role | Salary | Work / access | Browser check | Apply |
+|---|---:|---|---|---|---|---|---|
+| A | **86** | CORE | [Xsolla — Finance Coordinator](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb) | Unknown | Baku / on-site | ✅ LIVE 20 Aug | **[Open ↗](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb)** |
+| B | **79** | ADJACENT | [Unibank — Financial Efficiency Lead/Chief Specialist](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29) | Unknown | Baku / local | ✅ LIVE 20 Aug | **[Open ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29)** |
+| C | **74** | STRETCH | [Xsolla — Delivery Manager, Self-Service](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31) | **USD 30k–80k/year** | Remote / Baku explicit | ✅ LIVE 20 Aug | **[Open ↗](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31)** |
+| C | **71** | STRETCH | [Bolt — Operations Manager](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/) | Unknown | Baku / on-site | ✅ LIVE 20 Aug | **[Open ↗](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/)** |
 
-## Live pool — tap the role or Apply
+## Recently removed after real-browser check
 
-| Pri | Score | Type | Company / Role | Salary | Work / access | Freshness | Interview | Apply |
-|---|---:|---|---|---|---|---|---|---|
-| A | **88** | CORE | [Khazar Engineering — Accountant](https://classic.jobsearch.az/vacancies/khazar-engineering-accountant-146345?hl=en) | Unknown | Baku / local | LIVE_THIRD_PARTY_APPLY | HIGH | **[Apply ↗](https://classic.jobsearch.az/vacancies/khazar-engineering-accountant-146345?hl=en)** |
-| A | **86** | CORE | [Xsolla — Finance Coordinator](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb) | Unknown | Baku / on-site | LIVE_ATS | MEDIUM_HIGH | **[Apply ↗](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb)** |
-| A | **84** | ADJACENT | [INFUSE — Data-Focused Project Coordinator](https://job-boards.greenhouse.io/infuse/jobs/4720132005) | Candidate states ask | Remote / Azerbaijan | LIVE_ATS | MEDIUM_HIGH | **[Apply ↗](https://job-boards.greenhouse.io/infuse/jobs/4720132005)** |
-| B | **82** | ADJACENT | [Xsolla — HR Project Coordinator](https://jobs.lever.co/xsolla/2ebd9a85-2fcb-4a70-a9be-93df0c4e3795) | Unknown | Baku / hybrid | LIVE_ATS | MEDIUM_HIGH | **[Apply ↗](https://jobs.lever.co/xsolla/2ebd9a85-2fcb-4a70-a9be-93df0c4e3795)** |
-| B | **80** | ADJACENT | [Fairmont — Cost Controller](https://careers.accor.com/global/en/job/cost-controller-in-fairmont-baku-flame-towers-baku-azerbaijan-jid-92463) | Unknown | Baku / on-site | LIVE_EMPLOYER | MEDIUM | **[Apply ↗](https://careers.accor.com/global/en/job/cost-controller-in-fairmont-baku-flame-towers-baku-azerbaijan-jid-92463)** |
-| B | **79** | ADJACENT | [Unibank — Financial Efficiency Lead/Chief Specialist](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29) | Unknown | Baku / local | LIVE_EMPLOYER | MEDIUM | **[Apply ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29)** |
-| C | **74** | STRETCH | [Xsolla — Delivery Manager, Self-Service](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31) | **USD 30k–80k/year** | Remote / Baku explicit | LIVE_ATS | LOW_MEDIUM | **[Apply ↗](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31)** |
-| C | **71** | STRETCH | [Bolt — Operations Manager](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/) | Unknown | Baku / on-site | LIVE_EMPLOYER | LOW_MEDIUM | **[Apply ↗](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/)** |
+| Former score | Role | What happened |
+|---:|---|---|
+| 88 | Khazar Engineering — Accountant | ❌ Exact JobSearch URL shows “Something’s missing” / not found. Web search still had an older cached copy with 21 Aug deadline. |
+| 84 | INFUSE — Data-Focused Project Coordinator | ❌ Exact Greenhouse page says the vacancy is no longer available. Web still had an older cached application snapshot. |
+| 82 | Xsolla — HR Project Coordinator | ❌ Exact Lever link returns 404 in the user's browser although cached web results still show the old role. |
+| 80 | Fairmont — Cost Controller | ❌ Exact Accor page is 404; search still exposes the previous cached job description. |
 
 ---
 
 <details>
-<summary><strong>88/100 — Khazar Engineering & Fabrication — Accountant — Priority A</strong></summary>
-
-**Open vacancy:** **[Apply / vacancy page ↗](https://classic.jobsearch.az/vacancies/khazar-engineering-accountant-146345?hl=en)**  
-**Salary:** Unknown  
-**Location:** Baku, on-site  
-**Hiring:** Local Azerbaijan; listing explicitly says open to citizens of Azerbaijan  
-**Deadline:** 21 Aug 2026  
-**Freshness:** LIVE_THIRD_PARTY_APPLY  
-**Interview chance:** HIGH
-
-### Why 88/100
-| Component | Score | Reason |
-|---|---:|---|
-| Existing skills | **29/30** | AP/AR, PO/invoice work, payments, reconciliations, reporting and Excel are almost direct. |
-| Transition | **19/20** | Very little role change required. |
-| Compensation | **10/15** | Role/company plausibly viable but salary is unpublished. |
-| Baku access | **15/15** | Explicit local eligibility. |
-| Lifestyle | **8/10** | Conventional local accounting role; workload still needs interview check. |
-| Upside | **7/10** | Strong probability fit, but title/salary ceiling may be lower than larger multinationals. |
-| **TOTAL** | **88/100** | |
-
-**Main gaps:** broader local statutory/tax reporting; exact salary.  
-**Next:** salary check first; if viable, this is a high-probability application.
-</details>
-
-<details>
 <summary><strong>86/100 — Xsolla — Finance Coordinator — Priority A</strong></summary>
 
-**Open vacancy:** **[Apply / Lever page ↗](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb)**  
+**Open:** **[Xsolla / Lever vacancy ↗](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb)**  
+**Browser status:** ✅ user-confirmed live 20 Aug 2026  
 **Salary:** Unknown  
 **Location:** Baku, on-site  
-**Hiring:** Local Azerbaijan  
-**Freshness:** LIVE_ATS  
 **Interview chance:** MEDIUM_HIGH
 
-### Why 86/100
-| Component | Score | Reason |
+### Score
+| Component | Score | Why |
 |---|---:|---|
-| Existing skills | **27/30** | Finance operations, reporting, procurement/PO coordination, controls and advanced Excel. |
+| Existing skills | **27/30** | Finance operations, reporting, Procurement/PO coordination, controls and advanced Excel. |
 | Transition | **18/20** | Natural expansion from AP into broader finance operations. |
-| Compensation | **10/15** | Salary unpublished. |
-| Baku access | **15/15** | Baku full-time role. |
-| Lifestyle | **8/10** | Office role; multiple-priority pressure is possible. |
-| Upside | **8/10** | Broader finance exposure and international company. |
+| Compensation | **10/15** | Unpublished. |
+| Baku access | **15/15** | Local Baku role. |
+| Lifestyle | **8/10** | Office role; multiple priorities likely. |
+| Upside | **8/10** | Broader finance exposure at an international company. |
 | **TOTAL** | **86/100** | |
 
-**Main gaps:** budgeting/forecasting/management-reporting depth.  
-**Next:** verify salary and tailor CV as Finance Operations rather than AP-only.
-</details>
-
-<details>
-<summary><strong>84/100 — INFUSE — Data-Focused Project Coordinator — Priority A</strong></summary>
-
-**Open vacancy:** **[Apply / Greenhouse page ↗](https://job-boards.greenhouse.io/infuse/jobs/4720132005)**  
-**Salary:** employer asks candidate for expected compensation; no published range confirmed  
-**Work:** Remote contract  
-**Hiring:** Azerbaijan accepted in the application flow  
-**Freshness:** LIVE_ATS  
-**Interview chance:** MEDIUM_HIGH
-
-### Why 84/100
-| Component | Score | Reason |
-|---|---:|---|
-| Existing skills | **25/30** | Data quality, reporting, documentation, coordination and automation mindset. |
-| Transition | **17/20** | Project-coordinator title is new, but the actual work overlaps heavily. |
-| Compensation | **12/15** | Candidate can set an ask; useful upside but no employer range. |
-| Baku access | **15/15** | Remote/Azerbaijan route is explicit. |
-| Lifestyle | **7/10** | Remote is attractive, but role describes a fast-paced environment. |
-| Upside | **8/10** | Strong bridge into data/project/automation work. |
-| **TOTAL** | **84/100** | |
-
-**Main gaps:** BI tools beyond Excel/Power Query and formal project title.  
-**Next:** benchmark a USD contractor ask and prepare 2–3 automation/data-quality examples.
-</details>
-
-<details>
-<summary><strong>82/100 — Xsolla — HR Project Coordinator — Priority B</strong></summary>
-
-**Open vacancy:** **[Apply / Lever page ↗](https://jobs.lever.co/xsolla/2ebd9a85-2fcb-4a70-a9be-93df0c4e3795)**  
-**Salary:** Unknown  
-**Location:** Baku, hybrid  
-**Hiring:** Local Azerbaijan  
-**Freshness:** LIVE_ATS  
-**Interview chance:** MEDIUM_HIGH
-
-### Why 82/100
-| Component | Score | Reason |
-|---|---:|---|
-| Existing skills | **24/30** | Operational coordination, process ownership, stakeholder work, documentation, reporting and basic financial tracking transfer strongly. |
-| Transition | **17/20** | HR domain is new, but recruitment knowledge is only a plus and the role accepts operational-support backgrounds. |
-| Compensation | **10/15** | Salary unpublished; international-tech employer makes target plausible but unconfirmed. |
-| Baku access | **15/15** | Exact Baku hybrid vacancy. |
-| Lifestyle | **8/10** | Hybrid project role; likely more regular than high-pressure operations management. |
-| Upside | **8/10** | Strong bridge into project/operations coordination in tech. |
-| **TOTAL** | **82/100** | |
-
-**Main gaps:** formal project-coordinator title, HR context, fluent-English interview requirement.  
-**Next:** verify salary; tailor automation, deadline tracking, cross-team coordination and process-improvement examples.
-</details>
-
-<details>
-<summary><strong>80/100 — Fairmont Baku — Cost Controller — Priority B</strong></summary>
-
-**Open vacancy:** **[Apply / Accor careers ↗](https://careers.accor.com/global/en/job/cost-controller-in-fairmont-baku-flame-towers-baku-azerbaijan-jid-92463)**  
-**Salary:** Unknown  
-**Location:** Baku, on-site  
-**Freshness:** LIVE_EMPLOYER  
-**Interview chance:** MEDIUM
-
-### Why 80/100
-| Component | Score | Reason |
-|---|---:|---|
-| Existing skills | **24/30** | PO/invoice checks, controls, variance investigation, Excel, audit and GR/IR mindset transfer. |
-| Transition | **14/20** | Direct hotel/F&B costing and inventory systems are new. |
-| Compensation | **11/15** | Mid-senior finance role at international hotel, but no figure published. |
-| Baku access | **15/15** | Local Baku role. |
-| Lifestyle | **7/10** | Hospitality finance can be operationally busy. |
-| Upside | **9/10** | Broadens into cost control/management accounting. |
-| **TOTAL** | **80/100** | |
-
-**Main gaps:** F&B cost structures, hotel inventory systems, fluent-English expectation.  
-**Next:** keep behind direct finance roles unless salary/upside is strong.
+**Main gaps:** budgeting, forecasting and management-reporting depth relative to the job description.  
+**Later detailed review:** map every requirement to actual experience, identify CV wording, interview examples, salary evidence and red flags.
 </details>
 
 <details>
 <summary><strong>79/100 — Unibank — Financial Efficiency Lead/Chief Specialist — Priority B</strong></summary>
 
-**Open vacancy:** **[Apply / employer vacancy page ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29)**  
+**Open:** **[Unibank vacancy page ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29)**  
+**Browser status:** ✅ user-confirmed live 20 Aug 2026  
+**Deadline:** 04 Sep 2026  
 **Salary:** Unknown  
 **Location:** Baku  
-**Deadline:** 04 Sep 2026  
-**Freshness:** LIVE_EMPLOYER  
 **Interview chance:** MEDIUM
 
-### Why 79/100
-| Component | Score | Reason |
+### Score
+| Component | Score | Why |
 |---|---:|---|
-| Existing skills | **23/30** | Large-data work, controls, reconciliations, Excel and process improvement. |
+| Existing skills | **23/30** | Large-data analysis, Excel, controls, reconciliations and process improvement. |
 | Transition | **15/20** | Financial-efficiency analysis is adjacent rather than direct AP. |
-| Compensation | **11/15** | Senior-specialist level plausibly clears target; still unconfirmed. |
+| Compensation | **11/15** | Senior-specialist level may clear target but no figure is published. |
 | Baku access | **15/15** | Local role. |
-| Lifestyle | **7/10** | Corporate finance workload; exact peak-period pressure unknown. |
-| Upside | **8/10** | Good route into analytical finance. |
+| Lifestyle | **7/10** | Corporate finance workload; peak pressure unknown. |
+| Upside | **8/10** | Route into broader analytical finance. |
 | **TOTAL** | **79/100** | |
 
-**Main gaps:** budgeting/forecasting, ABC/cost allocation and formal financial-analysis depth.  
-**Next:** salary check; present automation and efficiency achievements as the bridge.
+**Main gaps:** formal budgeting/forecasting, ABC/cost allocation and broader financial-analysis depth.
 </details>
 
 <details>
 <summary><strong>74/100 — Xsolla — Delivery Manager, Self-Service — Priority C</strong></summary>
 
-**Open vacancy:** **[Apply / Lever page ↗](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31)**  
+**Open:** **[Xsolla / Lever vacancy ↗](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31)**  
+**Browser status:** ✅ user-confirmed live 20 Aug 2026  
 **Salary:** **USD 30,000–80,000/year published**  
 **Work:** Remote  
 **Eligible locations:** explicitly includes Baku  
-**Freshness:** LIVE_ATS  
 **Interview chance:** LOW_MEDIUM
 
-### Why 74/100
-| Component | Score | Reason |
+### Score
+| Component | Score | Why |
 |---|---:|---|
-| Existing skills | **20/30** | Coordination, process ownership, escalation, documentation and operational metrics transfer. |
+| Existing skills | **20/30** | Process ownership, cross-team coordination, escalation, documentation and metrics transfer. |
 | Transition | **11/20** | Formal technology delivery/program experience is missing. |
-| Compensation | **15/15** | Published range is well above target. |
+| Compensation | **15/15** | Published range far exceeds minimum target. |
 | Baku access | **15/15** | Baku explicitly eligible. |
 | Lifestyle | **5/10** | High-visibility multi-team delivery can be demanding. |
-| Upside | **8/10** | Major career/salary ceiling increase if transition succeeds. |
+| Upside | **8/10** | Large career and salary upside if transition succeeds. |
 | **TOTAL** | **74/100** | |
 
-**Main gaps:** 3+ years formal PM/delivery, Jira/Confluence, fluent English.  
-**Next:** optional upside application, never disguise the gap.
+**Main gaps:** 3+ years formal PM/delivery, Jira/Confluence and fluent English.
 </details>
 
 <details>
 <summary><strong>71/100 — Bolt — Operations Manager — Priority C</strong></summary>
 
-**Open vacancy:** **[Apply / Bolt careers ↗](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/)**  
+**Open:** **[Bolt careers ↗](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/)**  
+**Browser status:** ✅ user-confirmed live 20 Aug 2026  
 **Salary:** Unknown  
 **Location:** Baku, on-site  
-**Freshness:** LIVE_EMPLOYER  
 **Interview chance:** LOW_MEDIUM
 
-### Why 71/100
-| Component | Score | Reason |
+### Score
+| Component | Score | Why |
 |---|---:|---|
-| Existing skills | **18/30** | KPI/data analysis, operational ownership, stakeholders and escalations transfer. |
-| Transition | **12/20** | Direct mobility/operations management background is missing. |
-| Compensation | **10/15** | Unknown; company/level suggests upside but no figure is assumed. |
-| Baku access | **15/15** | Exact Baku employer page. |
-| Lifestyle | **6/10** | Operations management can be high pressure. |
+| Existing skills | **18/30** | KPI/data analysis, operational ownership, stakeholder coordination and escalation transfer. |
+| Transition | **12/20** | Direct mobility/operations-management experience is missing. |
+| Compensation | **10/15** | Unknown. |
+| Baku access | **15/15** | Exact local Baku role. |
+| Lifestyle | **6/10** | Operations management may be high-pressure. |
 | Upside | **10/10** | Strong management/operations career expansion. |
 | **TOTAL** | **71/100** | |
 
-**Main gaps:** direct operations leadership and fluent-English expectation.  
-**Next:** only prioritize after compensation is known.
+**Main gaps:** direct operations leadership and fluent-English expectation.
 </details>
 
-## Strong Watch leads — not counted
+## Verification rule from now on
 
-These may be excellent jobs, but they failed the strict live-route/access/pay test. They stay recorded so they can be recovered if conditions change.
+- ✅ `USER_BROWSER_LIVE` = currently live in the user's normal browser.
+- ❌ `USER_BROWSER_CLOSED` = 404 / removed / no longer available.
+- 🟡 `TOOL_SNAPSHOT` = ChatGPT can read an indexed/cached job page, but current browser state is not proven. It must **not** be called definitely live.
+- Before tailoring a CV or applying, open the exact link again.
 
-| Former score | Company / Role | Why not counted now |
-|---:|---|---|
-| 92 | Azercell — Procurement Analyst | **Expired:** exact employer page says deadline 11 Aug 2026. |
-| 91 | Technip Energies — Accounting Specialist | Status conflict; no exact current employer/ATS page established. |
-| 90 | ABB — Procurement reporting & analysis | Fresh LinkedIn/board results, but exact ABB employer page not resolved. |
-| 89 | Avis — Accounting Specialist, Receivables | Exact LinkedIn role exists, employer/ATS live route not independently established. |
-| 85 | DP World — MCV Management Accountant | Exact Oracle ATS URL exists but still cannot be directly validated; deadline reportedly 20 Aug. |
-| 85 | Coca-Cola CCI — Master Data Responsible | New-looking company LinkedIn repost conflicts with older exact listing; current employer requisition unresolved. |
-| 83 | Bank of Baku — Analytical Expert | **Expired:** exact employer page says deadline 31 Jul 2026. |
-| 78 | Azerconnect — Finance Functional Consultant | Strong fresh lead and exact Oracle ATS URL, but ATS could not be directly validated. |
-| 73 | Weatherford — Inventory Coordinator | LinkedIn exact role only; exact Weatherford employer/ATS route not established. |
-| — | Launchpad — Finance Systems / ERP Functional Consultant | Excellent fit and USD 3.8k–4.2k/month, but exact role is **LATAM-only**; not accessible from Baku as published. |
-| — | Care Access — Financial Operations (AP) Analyst | Excellent fit and USD 50k–70k/year, but exact role is **US-only** and requires US work authorization. |
-| — | Xsolla — Junior Delivery Manager | Live CIS remote role, but entry-level 3-month fixed-term contract and no salary evidence; target pay not established. |
-
-## What the score means
+## Score formula
 
 `Fit = Skills (30) + Transition (20) + Compensation (15) + Baku access (15) + Lifestyle (10) + Upside (10)`.
 
-The score measures **how attractive/realistic the role is for this candidate**, not the probability of getting an interview. `Interview chance` is a separate judgement and will be refined as applicant volume, title gap and competition become clearer.
+`Interview chance` is separate from fit score.
