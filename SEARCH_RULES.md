@@ -1,83 +1,86 @@
 # Search Rules
 
-## Acceptance threshold
-An opportunity may count toward 100 only if it is realistically worth applying to **and its current availability is verified through a live exact application route in the same run**.
-
-Minimum economic target: 2,500 AZN net/month equivalent. Prefer 3,000–5,000+ AZN or strong upside. If compensation is unpublished, a strong role may remain qualified only when employer/role seniority plausibly supports the target; compensation stays `Unknown` and must be checked before application.
+## Economic target
+Minimum target: 2,500 AZN net/month equivalent. Prefer 3,000–5,000+ AZN or strong upside. Unpublished compensation stays `UNKNOWN`; never invent employer salary.
 
 ## Hiring accessibility
-Record one of:
 - `LOCAL_AZ` — Baku/Azerbaijan employment.
-- `REMOTE_AZ_EXPLICIT` — remote listing explicitly includes Baku/Azerbaijan/CIS including Baku.
+- `REMOTE_AZ_EXPLICIT` — Baku/Azerbaijan/CIS including Baku is explicitly eligible.
 - `REMOTE_WORLDWIDE` — explicit worldwide/global remote.
 - `CONTRACTOR_PLAUSIBLE` — legal contractor/B2B/EOR route is plausible and not prohibited.
 - `RELOCATION` — worthwhile relocation/visa route.
-- `UNCLEAR` — cannot count as accepted until resolved.
+- `UNCLEAR` — cannot be treated as accessible until resolved.
 
 Never evade employment, tax, immigration, KYC, sanctions, geo-restrictions or platform rules.
 
-## Verification — strict freshness rule
-Search engines, LinkedIn snippets, aggregators and cached page text are discovery sources only. They are not enough by themselves to count a vacancy toward 100.
+## Critical freshness limitation
+ChatGPT web/search results may contain a stored crawl snapshot rather than the page's current browser state. A result can therefore still display a full job description and an `Apply` button after the real ATS/employer page has already been removed.
 
-Before `QUALIFIED`, verify in the same run:
-1. Exact employer careers page or employer-controlled ATS is live and contains the exact role; or, where the employer genuinely recruits through a named third-party platform, an exact live application page is clearly current.
-2. Apply route is open or page explicitly accepts applications.
-3. Location/work model and hiring accessibility fit the candidate.
+Observed examples on 2026-08-20:
+- Xsolla HR Project Coordinator: web still exposed an older Lever page while the user's normal browser returned Lever 404.
+- INFUSE Data-Focused Project Coordinator: web still exposed an older Greenhouse application while the user's normal browser said the vacancy was no longer available.
+- Fairmont Cost Controller: search still exposed the prior job snapshot while the current page returned 404.
+- Khazar Engineering Accountant: web search still held a posting with a future deadline while the user's current JobSearch page returned page-not-found.
 
-Employer source overrides aggregators. If exact live route cannot be established, store the lead in `REJECTED.csv` as `WATCH`, `STATUS_CONFLICT`, `UNVERIFIED`, or similar and do not count it.
+Therefore **`web result exists` is never equivalent to `live vacancy`**.
 
-Freshness labels used in the dashboard:
-- `LIVE_EMPLOYER` — exact employer careers page verified.
-- `LIVE_ATS` — exact employer-controlled ATS verified.
-- `LIVE_THIRD_PARTY_APPLY` — exact current application on a named third-party platform where no better employer route was established.
-- `UNVERIFIED` / `UNVERIFIED_ATS` / `STATUS_CONFLICT` — does not count.
-- `EXPIRED` / `CLOSED` — does not count.
+## Freshness evidence levels
+Use these exact concepts:
+
+### `USER_BROWSER_LIVE`
+Strongest evidence available in this workflow. The user opened the exact vacancy/apply URL in a normal browser during the current review and the role/application is present. This may be presented as currently live.
+
+### `USER_BROWSER_CLOSED`
+The user opened the exact URL and received 404, removed, expired, or no-longer-available. Immediately remove from the live pool and preserve in `REJECTED.csv`.
+
+### `TOOL_SNAPSHOT`
+Web/search/open returns vacancy content but also indicates it was crawled previously, or current browser state cannot be independently established. This is **discovery/current-looking evidence only**, not proof of live status.
+
+### `DIRECT_404_OR_CLOSED`
+A direct tool open currently returns 404/closed. Treat as closed unless stronger current employer evidence contradicts it.
+
+### `STATUS_CONFLICT`
+Different sources disagree. Do not call it live. Preserve the lead with the conflict explanation.
+
+## What may count as confirmed live
+A row may use `status=QUALIFIED` and `freshness=USER_BROWSER_LIVE` when current browser verification exists.
+
+For autonomous search, a strong role may be retained as a **candidate needing browser verification**, but it must not be described as definitely live merely because a cached employer/ATS page is readable through web search.
+
+Before any actual application or CV tailoring, open the exact apply URL again in a normal browser. Vacancy availability can change between runs.
 
 ## Fit scoring — transparent arithmetic
-Every accepted vacancy must store all six components. `fit_score` must equal their arithmetic sum — no unexplained holistic score.
-
-- `skill_30` — direct overlap with existing skills and experience: max 30.
-- `transition_20` — realistic gap / learnability without pretending missing experience exists: max 20.
-- `compensation_15` — published pay or defensible likelihood of meeting target: max 15.
-- `access_15` — practical hiring accessibility from Baku: max 15.
-- `lifestyle_10` — workload, hours, pressure, commute/remote fit: max 10.
-- `upside_10` — career ceiling, skill growth, stability and future salary potential: max 10.
+Every retained opportunity must store all six components. `fit_score` is their arithmetic sum:
+- `skill_30` — direct existing-skill overlap: max 30.
+- `transition_20` — realistic learnability/gap: max 20.
+- `compensation_15` — published pay or defensible target likelihood: max 15.
+- `access_15` — practical Baku hiring access: max 15.
+- `lifestyle_10` — workload/hours/remote/commute fit: max 10.
+- `upside_10` — career ceiling, skill growth, stability, salary upside: max 10.
 
 Guide:
-- 85–100: priority application.
+- 85–100: priority candidate.
 - 75–84: strong candidate.
-- 65–74: plausible stretch; keep only with meaningful upside.
+- 65–74: plausible stretch with meaningful upside.
 - <65: reject unless there is a specific strategic reason.
 
-`interview_chance` is tracked separately and is **not** part of fit score. A great fit can still have low interview probability due to competition, title mismatch, language, missing formal experience or applicant volume.
+`interview_chance` is separate from fit score.
 
-`application_priority`:
+## Application priority
 - `A` — apply early if salary/critical unknowns pass.
-- `B` — good application after higher priorities.
-- `C` — stretch/upside application.
-- `WATCH` — not counted until freshness/access/pay issue is resolved.
+- `B` — good application after A roles.
+- `C` — stretch/upside.
+- `WATCH` — promising but blocked by freshness/access/pay evidence.
 
-## Compensation
-Salary status:
-- `PUBLISHED` — employer/job page states it.
-- `CANDIDATE_ASK` — applicant is asked to state desired compensation.
-- `ESTIMATED` — externally benchmarked estimate, never presented as employer salary.
-- `UNKNOWN` — no defensible figure yet.
-
-Never invent precision. Any market estimate must be explicitly labelled and sourced.
-
-## Freshness
-Store discovery and last verification dates. Re-check every accepted role immediately before CV tailoring/application. Closed/expired jobs move to rejected history rather than disappearing.
-
-## Search mix target
-Across 100 accepted opportunities aim roughly for:
-- 40–50 CORE.
-- 30–40 ADJACENT.
-- 10–20 STRETCH.
-Do not force quotas if the market does not support them.
+## Compensation labels
+- `PUBLISHED` — job/employer states it.
+- `CANDIDATE_ASK` — candidate is asked for expected compensation.
+- `ESTIMATED` — sourced external benchmark, never employer salary.
+- `UNKNOWN` — no defensible figure.
 
 ## Interface maintenance
 After every run:
 1. Update `VACANCIES.csv` and `REJECTED.csv`.
-2. Update `DASHBOARD.md` so the user can see scores, salary, freshness, access, interview chance, links, gaps and next action without reading CSV.
-3. Update `STATUS.md` with the true accepted count and exact next action.
+2. Update `DASHBOARD.md` with clickable URLs, score arithmetic, salary, access and **verification evidence**.
+3. Update `STATUS.md` with separate wording for browser-confirmed live roles versus tool-discovered/watch leads.
+4. Never protect a counter at the expense of current-status accuracy.
