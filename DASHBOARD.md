@@ -1,31 +1,29 @@
 # Job Search Dashboard
 
-> **Candidate pool: 116 total — SEARCH CONTINUES**  
+> **Candidate pool: 122 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-21 around 00:45 AZT.
+> Last search update: 2026-08-21 around 01:10 AZT.
 >
 > The former 100-candidate milestone is complete, but the user removed the cap on 2026-08-20. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; the exact browser state still needs manual verification before applying.
 
-## Latest additions — C109–C116
+## Latest additions — C117–C122
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **88** | CORE | Kapital Bank — Hesablaşmalar üzrə mütəxəssis | Agreement-based | Baku / **27 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/hesablasmalar-uzre-mutexessis-8064)** |
-| A | **86** | ADJACENT | AZAL — Əməliyyat təchizatı üzrə mütəxəssis | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/azerbaycan-hava-yollari-satinalmalar-idaresi-emeliyyat-techizati-uzre-mutexessis/)** |
-| B | **84** | ADJACENT | PASHA Bank — Tarif qrupunun Məhsul üzrə Analitiki | Agreement-based | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/maliyye-texnologiyalari-sahesinin-tarif-qrupunun-mehsul-uzre-analitiki-567611890)** |
-| B | **84** | ADJACENT | Yalama Agropark — Satınalma üzrə mütəxəssis | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/yalama-agropark-satinalma-uzre-mutexessis/)** |
-| B | **82** | ADJACENT | AMASS — Satınalma üzrə mütəxəssis | Agreement-based | Baku / **23 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/satinalma-uzre-mutexessis-14367313)** |
-| B | **82** | ADJACENT | AZAL — Aviatexniki təchizat və materialların idarəedilməsi / Mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/azerbaycan-hava-yollari-aviatexniki-teehizat-ve-materiallarin-idareedilmesi-sobesi-mutexessis/)** |
-| B | **78** | ADJACENT | AZAL — Layihələrin idarə edilməsi üzrə kiçik mütəxəssis | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/azerbaycan-hava-yollari-strategiya-ve-biznesin-inkisafi-idar%C9%99si-layih%C9%99l%C9%99rin-idaresi-edilmesi-uzre-kicik-mutexessis/)** |
-| B | **78** | ADJACENT | METAK — Planlama üzrə kiçik mütəxəssis | Unknown | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/metak-planlama-uzre-kicik-mutexessis/)** |
+| A | **87** | CORE | Express Bank — Hesablaşmalar departamenti / Müştəri əməliyyatları şöbəsinin mütəxəssisi | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/express-bank-hesablasmalar-departamenti-musteri-emeliyyatlari-sobesinin-mutexessisi-148322)** |
+| A | **86** | CORE | Caspian Cable Systems — Əməliyyatçı mühasib | Unknown | Baku / **5 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/caspian-cable-systems-emeliyyatci-muhasib-147714)** |
+| B | **84** | ADJACENT | Carlsberg Azerbaijan — Planning & Delivery Specialist, R&PM | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/carlsberg-azerbaijan-planning-delivery-specialist-for-raw-packaging-materials-rpm-148252)** |
+| B | **83** | ADJACENT | PMD Projects — Satınalmalar üzrə aparıcı mütəxəssis | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pmd-projects-llc-satinalmalar-uzre-aparici-mutexessis-148214)** |
+| B | **82** | ADJACENT | Respublika Diaqnostika Mərkəzi — Transformasiya üzrə mütəxəssis | Interview-based | Baku / **7 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/respublika-diaqnostika-merkezi-transformasiya-uzre-mutexessis-147884)** |
+| B | **82** | CORE | Aviation Services Group — Deputy Chief Accountant | Unknown | Baku / **5 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/aviation-services-group-deputy-chief-accountant-147703)** |
 
 ## Best fits from the latest batch
 
-**Kapital Bank — Hesablaşmalar üzrə mütəxəssis — 88/100.** Bank/partner reconciliations, settlement control, accounting-system work and Excel are very close to the existing finance-operations skill set. Main gaps are direct clearing/banking operations and SQL.
+**Express Bank — settlement/customer operations specialist — 87/100.** Payment entries, accounting-system postings, document control, internal queries and advanced Excel are very close to transaction-heavy finance operations. The main gap is direct banking operations experience.
 
-**AZAL — Əməliyyat təchizatı üzrə mütəxəssis — 86/100.** Supplier quotations, commercial terms, procurement/contract coordination, vendor management, reporting and cost control are a strong P2P/vendor transition. Main gap is direct procurement/supply ownership.
+**Caspian Cable Systems — Əməliyyatçı mühasib — 86/100.** AP/AR settlements, debt control, internet banking, international transfers, invoices and contracts make this one of the cleaner direct-finance matches in the batch.
 
-**PASHA Bank — Product Analyst — 84/100.** Requirements, UAT, workflow optimization, documentation and data analysis make this a useful bridge from ERP/process improvement into fintech/product operations.
+**Carlsberg Azerbaijan — Planning & Delivery Specialist — 84/100.** ERP purchase orders, supplier follow-up, invoice/supporting-document checks, inventory and budget monitoring create a strong P2P-to-supply-chain bridge.
 
 ## Browser-confirmed live subset
 
