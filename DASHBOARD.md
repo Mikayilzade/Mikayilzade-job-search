@@ -1,31 +1,31 @@
 # Job Search Dashboard
 
-> **Candidate pool: 108 total — SEARCH CONTINUES**  
+> **Candidate pool: 116 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-20 around 23:40 AZT.
+> Last search update: 2026-08-21 around 00:45 AZT.
 >
 > The former 100-candidate milestone is complete, but the user removed the cap on 2026-08-20. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; the exact browser state still needs manual verification before applying.
 
-## Latest additions — C101–C108
+## Latest additions — C109–C116
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **87** | ADJACENT | IRES — Project Requisitioner | Unknown | Baku / Sep window | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/internship-program/ires-project-requisitioner-148188/vacancies)** |
-| A | **86** | ADJACENT | Mars Overseas Baku — Büdcə və Hesabatlıq üzrə Aparıcı Mütəxəssis | Unknown | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/mars-overseas-baku-budce-ve-hesabatliq-uzre-aparici-mutexessis/)** |
-| A | **86** | CORE | SCANDENS — Senior Accountant | Unknown | Baku / **2 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/vacancies/scandens-senior-accountant-147470)** |
-| B | **84** | ADJACENT | Xalq Bank — Ödəniş sistemləri ilə iş şöbəsinin aparıcı / baş mütəxəssisi | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobs.glorri.az/vacancies/xalqbank/xalqbank-odenis-aletleri-idaresinin-odenis-sistemleri-ile-is-sobesi-45350?source=JobSearch)** |
-| B | **84** | CORE | PASHA Bank — Ödənişlərin icrası qrupunun Kiçik mütəxəssisi | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/hesablasmalar-sobesinin-odenislerin-icrasi-qrupunun-kicik-mutexessisi-3461981467)** |
-| B | **83** | ADJACENT | PASHA Bank — RPA üzrə Kiçik Mütəxəssis | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/pasha-bank-biznes-proseslerin-idareedilmesi-sobesinin-rpa-uzre-kicik-mutexessisi/)** |
-| B | **82** | ADJACENT | Azərşəkər — Satınalmalar və logistika üzrə aparıcı mütəxəssis | Unknown | Baku / **24 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.azvak.az/vakansiyalar/satinalma-mutexessisi/14357)** |
-| B | **77** | ADJACENT | Prosys — İT üzrə Biznes Analitik | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.birjob.com/jobs/it-uzre-biznes-analitik-prosys-llc-7127674)** |
+| A | **88** | CORE | Kapital Bank — Hesablaşmalar üzrə mütəxəssis | Agreement-based | Baku / **27 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/hesablasmalar-uzre-mutexessis-8064)** |
+| A | **86** | ADJACENT | AZAL — Əməliyyat təchizatı üzrə mütəxəssis | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/azerbaycan-hava-yollari-satinalmalar-idaresi-emeliyyat-techizati-uzre-mutexessis/)** |
+| B | **84** | ADJACENT | PASHA Bank — Tarif qrupunun Məhsul üzrə Analitiki | Agreement-based | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/maliyye-texnologiyalari-sahesinin-tarif-qrupunun-mehsul-uzre-analitiki-567611890)** |
+| B | **84** | ADJACENT | Yalama Agropark — Satınalma üzrə mütəxəssis | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/yalama-agropark-satinalma-uzre-mutexessis/)** |
+| B | **82** | ADJACENT | AMASS — Satınalma üzrə mütəxəssis | Agreement-based | Baku / **23 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/satinalma-uzre-mutexessis-14367313)** |
+| B | **82** | ADJACENT | AZAL — Aviatexniki təchizat və materialların idarəedilməsi / Mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/azerbaycan-hava-yollari-aviatexniki-teehizat-ve-materiallarin-idareedilmesi-sobesi-mutexessis/)** |
+| B | **78** | ADJACENT | AZAL — Layihələrin idarə edilməsi üzrə kiçik mütəxəssis | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/azerbaycan-hava-yollari-strategiya-ve-biznesin-inkisafi-idar%C9%99si-layih%C9%99l%C9%99rin-idaresi-edilmesi-uzre-kicik-mutexessis/)** |
+| B | **78** | ADJACENT | METAK — Planlama üzrə kiçik mütəxəssis | Unknown | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/metak-planlama-uzre-kicik-mutexessis/)** |
 
 ## Best fits from the latest batch
 
-**IRES — Project Requisitioner — 87/100.** Purchase requisitions/material requests, SAP, vendor-payment follow-up, buyer/supplier coordination, invoicing/cost tracking and project close-out are unusually close to the AP/P2P/SAP skill set. Main gaps: formal procurement-project experience, fluent English, and commute/location risk.
+**Kapital Bank — Hesablaşmalar üzrə mütəxəssis — 88/100.** Bank/partner reconciliations, settlement control, accounting-system work and Excel are very close to the existing finance-operations skill set. Main gaps are direct clearing/banking operations and SQL.
 
-**Mars Overseas — Budget & Reporting Lead Specialist — 86/100.** Strong bridge into broader finance through reporting, actual-vs-plan analysis, budget preparation, audit and Excel. Main gaps: direct budgeting/forecasting and IFRS depth.
+**AZAL — Əməliyyat təchizatı üzrə mütəxəssis — 86/100.** Supplier quotations, commercial terms, procurement/contract coordination, vendor management, reporting and cost control are a strong P2P/vendor transition. Main gap is direct procurement/supply ownership.
 
-**SCANDENS — Senior Accountant — 86/100.** AP/AR, payments, ERP rollout, controls, audit, reporting and budgeting are close; broader statutory/tax/full-financial-statement ownership is the main expansion.
+**PASHA Bank — Product Analyst — 84/100.** Requirements, UAT, workflow optimization, documentation and data analysis make this a useful bridge from ERP/process improvement into fintech/product operations.
 
 ## Browser-confirmed live subset
 
