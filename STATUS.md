@@ -2,8 +2,8 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #12 — 2026-08-21 around 01:50 AZT**.
-- **Candidate pool: 129 total.**
+- Last completed run: **Autonomous Run #13 — 2026-08-21 around 02:45 AZT**.
+- **Candidate pool: 136 total.**
 - **Browser-confirmed live subset: 4.**
 - User-facing interface: `DASHBOARD.md`.
 - `CANDIDATES.csv` is the complete master candidate ledger.
@@ -13,21 +13,16 @@
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. The old 100/100 completion rule is retired. Continue autonomous search and add new high-quality options until the user explicitly stops the process.
 
 ## Latest run result
-Added **7** new candidates, C123–C129:
-1. **Aviation Services Group — Cost Controller — 85 — ADJACENT / Priority A.** Month-end reporting, financial-data analysis, cost allocation, inventory controls, Procurement/Logistics coordination and advanced Excel form a strong bridge from finance operations. Current listing states deadline 10.09.2026. Main gaps: direct cost-accounting depth, 1C/Dynamics and specific cost-control experience.
-2. **Rəvan Commers MMC — Maliyyə meneceri — 84 — ADJACENT / Priority A.** Financial reporting, cost-efficiency analysis, approval/control gaps, AR/AP risk oversight, bank coordination and supplier reporting map closely to the current skill set. Fresh listing states deadline 14.09.2026. Main gap: broader finance-manager/FMCG ownership.
-3. **AzerGold CJSC — Procurement Specialist — 84 — ADJACENT / Priority B.** Supplier database, tenders/quotations, contracts, procurement reporting and document controls fit P2P/vendor experience strongly. Main gaps: state-procurement law, 1C 8.3 and direct tender/sourcing execution.
-4. **Bank of Baku — Performans dəyərləndirmə bölməsinin eksperti — 82 — ADJACENT / Priority B.** KPI analysis, database coordination, dynamic Excel dashboards, process tracking and cross-functional follow-up make this a credible reporting/process bridge. Main gap: HR performance-management domain.
-5. **AzerGold CJSC — Finance Planning & Investment Evaluation Lead Specialist — 81 — ADJACENT / Priority B.** Advanced Excel dashboards, plan-vs-actual reporting, management-report optimization, BI migration and large-data analysis fit the automation/reporting side of the profile. ACCA F2/F3, fluent English and corporate-finance/DCF depth are significant gaps.
-6. **OBA Market — BI & SQL Reporting Specialist (Lead) — 78 — ADJACENT / Priority B.** Business requirements, dashboards, reporting, data quality/governance and advanced Excel transfer well; strong SQL/Power BI/Tableau requirements remain a material technical gap. Current listing states deadline 12.09.2026.
-7. **Think Wise Business Consulting — Chief Accountant — 78 — STRETCH / Priority B.** AP/AR, reconciliations, cash flow, ERP, budgeting, reporting and process controls overlap functionally, but chief-accountant ownership, local tax, manufacturing costing and a 6-day workweek are major gaps/risks. Current listing states deadline 13.09.2026.
+Added **7** new candidates, C130–C136:
+1. **Eqvilent — Analyst (FP&A) — 82 — ADJACENT / Priority B.** Remote-from-anywhere role with financial-data reconciliations, reporting, workflow automation, process mapping and finance-team improvement. Main gaps: Python/Pandas, exchange/trading mechanics and fluent English. Compensation is unpublished and browser confirmation remains required.
+2. **Unibank — Bank proseslərinə dəstək Şöbəsinin kiçik Mütəxəssisi — 81 — ADJACENT / Priority B.** Recurring system processes, issue investigation, application support, payment-problem analysis and operational-day close map strongly to ERP/process-support and exception-handling strengths. Current listing states deadline 10.09.2026. Junior-title compensation risk and SQL/Oracle basics are the main gaps.
+3. **Xalq Bank — Korporativ Satış İdarəsinin Satışa dəstək şöbəsinin mütəxəssisi — 79 — ADJACENT / Priority B.** Client/partner analysis, reporting, product/service support and financial-statement analysis transfer reasonably well. Current listing states deadline 14.09.2026. Direct sales/customer-acquisition and corporate-banking product depth are new.
+4. **ABB — Aparatın işinin təşkili və icrasına nəzarət şöbəsinin kiçik mütəxəssisi — 76 — ADJACENT / Priority B.** Governance documentation, meeting/decision tracking, cross-department coordination and records control fit disciplined process/documentation strengths. Current listing states deadline 13.09.2026. Junior-title pay risk and committee/governance domain are the main gaps.
+5. **Eqvilent — Analyst (Exchanges) — 75 — STRETCH / Priority B.** Remote-from-anywhere research/data role with structured multi-source analysis, reporting and external-counterparty coordination. Python, exchange mechanics and fluent English are substantial gaps.
+6. **Bank Respublika — Monitorinq şöbəsinin kiçik mütəxəssisi / mütəxəssisi — 73 — ADJACENT / Priority C.** Reporting, anomaly/risk detection, control findings and remediation recommendations transfer from reconciliations and audit-support work. Current listing states deadline 13.09.2026. Mandatory credit/lending experience and branch travel are meaningful gaps.
+7. **Kapital Bank — Tribe Performance Lead (Scrum master) — 72 — STRETCH / Priority C.** Process improvement, KPI ownership, workflow discipline and change facilitation offer upside, but the role explicitly asks for formal Scrum Master/Agile Coach/IT PM experience and Agile credentials. Current listing states deadline 04.09.2026.
 
-## Rejected / closed findings this run
-- **IRES — Receivables Accountant:** strong AR/reconciliation fit but published salary **1,500–1,800 AZN net**, below target.
-- **Aviation Services Group — Lead Procurement Specialist:** published salary **1,900 AZN net**, below target.
-- **EverAI — Junior Accounts Payable & Finance Operations Specialist, Full Remote Azerbaijan:** exact vacancy states no longer accepting applications; stale copies rejected.
-- **Holcim — Procurement Specialist:** exact requisition states no longer accepting applications.
-- **Unimac — Maliyyə mütəxəssisi:** published salary **700 AZN** plus 6-day schedule; rejected as uneconomic.
+`VACANCIES.csv` was not changed because no new user-browser confirmation was available. All seven additions remain `TOOL_SNAPSHOT` pending manual browser verification.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
