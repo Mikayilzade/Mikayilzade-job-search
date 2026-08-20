@@ -1,8 +1,8 @@
 # Job Search Dashboard
 
-> **Candidate pool: 85 / 100**  
+> **Candidate pool: 93 / 100**  
 > **Browser-confirmed live: 4**  
-> Last autonomous search update: 2026-08-20 around 07:27 AZT.
+> Last autonomous search update: 2026-08-20 around 08:27 AZT.
 >
 > `TOOL_SNAPSHOT` means the role was found in current-looking web/index data but the exact page may still be stale. It counts as a candidate to review, **not** as a promise that the vacancy is live. The user will manually open whichever links look attractive.
 
@@ -17,12 +17,14 @@
 
 | Pri | Score | Type | Company / Role | Salary | Access | Verify | Link |
 |---|---:|---|---|---|---|---|---|
-| B | **82** | ADJ | [Coca-Cola CCI — Supply Chain Planning Specialist](https://az.linkedin.com/jobs/view/supply-chain-planning-specialist-at-coca-cola-cci-4409263894) | Unknown | Baku | 🟡 Snapshot | EXACT |
-| B | **80** | ADJ | [Four Seasons — Marketing Operations Coordinator](https://az.linkedin.com/jobs/view/marketing-operations-coordinator%C2%A0-at-four-seasons-4440528594?pageNum=0&position=36) | Competitive + benefits | Baku / Azerbaijani citizens | 🟡 Snapshot | EXACT |
-| B | **78** | CORE | [Aznof — Mühasib](https://classic.jobsearch.az/vacancies/aznof-muhasib-147554) | Candidate-dependent | Baku | 🟡 Deadline 04 Sep | EXACT |
-| B | **78** | ADJ | [Veyseloglu — Biznes Proseslərinin İdarəedilməsi Meneceri](https://az.linkedin.com/jobs/view/biznes-prosesl%C9%99rinin-i%CC%87dar%C9%99edilm%C9%99si-meneceri-at-veyseloglu-llc-4423929853?pageNum=0&position=33) | Unknown | Baku | 🟡 Status conflict | EXACT |
-| B | **77** | ADJ | [Techpro DC — Vendor Business Manager](https://az.linkedin.com/jobs/business-administration-jobs?countryRedirected=1) | Unknown | Baku | 🟡 Current index | LIST |
-| C | **70** | STRETCH | [EPAM — Service Delivery Manager](https://az.linkedin.com/jobs/view/service-delivery-manager-sdm-at-epam-systems-4437671851?pageNum=0&position=33) | Unknown | Azerbaijan | 🟡 Snapshot | EXACT |
+| A | **87** | ADJ | [IKTEX — Vendor, Bid / Tender Manager](https://classic.jobsearch.az/vacancies/iktex-vendor-bid-tender-manager-147921) | Unknown | Baku | 🟡 Deadline 07 Sep | EXACT |
+| A | **87** | CORE | [Birmarket — Senior Accountant](https://az.linkedin.com/jobs/view/senior-accountant-at-umico-4199546119) | Competitive | Baku | 🟡 Snapshot | EXACT |
+| A | **85** | ADJ | [ABB — Digital & Technology Procurement Operations Specialist](https://az.linkedin.com/jobs/view/r%C9%99q%C9%99msal-v%C9%99-texnoloji-sat%C4%B1nalma-%C9%99m%C9%99liyyatlar%C4%B1-%C5%9F%C3%B6b%C9%99sinin-m%C3%BCt%C9%99x%C9%99ssisi-at-abb-4427521053) | Unknown | Baku | 🟡 Snapshot | EXACT |
+| B | **83** | CORE | [Deloitte — Senior Consultant, Business Processes Solutions](https://az.linkedin.com/jobs/view/senior-consultant-to-business-processes-solutions-team-at-deloitte-4433149827) | Unknown | Baku | 🟡 Snapshot | EXACT |
+| B | **83** | ADJ | [Sky Catering — Senior Financial Specialist](https://az.linkedin.com/jobs/view/senior-financial-specialist-at-sky-catering-branch-of-aviation-services-group-4229301880) | Unknown | Baku | 🟡 Snapshot | EXACT |
+| B | **81** | ADJ | [Bolt — Operations Coordinator](https://az.linkedin.com/jobs/view/operations-coordinator-at-bolt-4094007199) | Unknown | Baku | 🟡 Snapshot | EXACT |
+| B | **79** | ADJ | [eincors — Supply Chain Coordinator](https://az.linkedin.com/jobs/view/supply-chain-coordinator-at-eincors-4423325952) | Unknown | Baku | 🟡 Snapshot | EXACT |
+| B | **77** | ADJ | [NOV — Customs & Trade Compliance Specialist](https://az.linkedin.com/jobs/view/customs-trade-compliance-specialist-at-nov-4426848493) | Unknown | Baku | 🟡 Snapshot | EXACT |
 
 ## Highest-priority candidates
 
@@ -44,6 +46,8 @@
 | A | **88** | CORE | [Starcom — Accountant](https://classic.jobsearch.az/vacancies/starcom-accountant-147859) | Negotiable | Baku | 🟡 |
 | A | **87** | ADJ | [Araz Supermarket — SAP Consultant](https://az.linkedin.com/jobs/view/sap-consultant-at-araz-supermarket-mmc-4431080879) | Unknown | Baku hybrid | 🟡 |
 | A | **87** | CORE | [Makfit — Accountant](https://az.linkedin.com/jobs/view/accountant-at-makfit-4376636536) | Unknown | Baku | 🟡 |
+| A | **87** | ADJ | [IKTEX — Vendor, Bid / Tender Manager](https://classic.jobsearch.az/vacancies/iktex-vendor-bid-tender-manager-147921) | Unknown | Baku | 🟡 Deadline 07 Sep |
+| A | **87** | CORE | [Birmarket — Senior Accountant](https://az.linkedin.com/jobs/view/senior-accountant-at-umico-4199546119) | Competitive | Baku | 🟡 |
 | A | **86** | CORE | [Xsolla — Finance Coordinator](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb) | Unknown | Baku | ✅ LIVE |
 
 ## Browser-confirmed live now
@@ -53,11 +57,13 @@
 4. **Bolt — Operations Manager — 71/100**.
 
 ## Search notes
-- Known closed/expired/404 roles remain outside the 100-candidate pool.
-- This run added 6 candidates without padding. The strongest new transfer is Coca-Cola CCI Supply Chain Planning because SAP purchasing demands, supplier coordination and planning-data discipline overlap with P2P/ERP strengths.
-- Four Seasons Marketing Operations is an unusual but credible transfer: vendor quotations, PO/invoice tracking, budget administration, deadlines and project coordination are directly relevant even though the marketing domain is new.
-- Veyseloglu BPM has conflicting indexed job IDs, so it is explicitly flagged for browser verification rather than described as live.
-- Full arithmetic, verification level, source-age note, why-fit and gaps for all **85** candidates are stored in [`CANDIDATES.csv`](./CANDIDATES.csv).
+- Known closed/expired/404 roles remain outside the candidate pool.
+- This run added **8** candidates without padding and brought the pool to **93 / 100**.
+- IKTEX is the strongest fresh structural match in this run: vendor onboarding, commercial records, quote/payment-term tracking, deadlines, compliance documentation and coordination with Finance/Legal are unusually close to P2P/vendor-process experience. The indexed JobSearch page shows a 7 September deadline.
+- Birmarket Senior Accountant is a strong functional fit around purchase contracts, counterparty reconciliations, month-end and process controls, with the main gaps being 1C and local tax accounting.
+- ABB Digital & Technology Procurement Operations is another credible SAP/ERP-to-procurement bridge; IT procurement/tender ownership remains the main gap.
+- AfeaGroup Business Operations Team Lead was examined but **not added** because the exact LinkedIn page now says it is no longer accepting applications.
+- Full arithmetic, verification level, source-age note, why-fit and gaps for all **93** candidates are stored in [`CANDIDATES.csv`](./CANDIDATES.csv).
 
 ## Score formula
 `Fit = Skills (30) + Transition (20) + Compensation (15) + Baku access (15) + Lifestyle (10) + Upside (10)`.
