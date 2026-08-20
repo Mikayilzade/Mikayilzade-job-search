@@ -1,29 +1,30 @@
 # Job Search Dashboard
 
-> **Candidate pool: 122 total — SEARCH CONTINUES**  
+> **Candidate pool: 129 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-21 around 01:10 AZT.
+> Last search update: 2026-08-21 around 01:50 AZT.
 >
 > The former 100-candidate milestone is complete, but the user removed the cap on 2026-08-20. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; the exact browser state still needs manual verification before applying.
 
-## Latest additions — C117–C122
+## Latest additions — C123–C129
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **87** | CORE | Express Bank — Hesablaşmalar departamenti / Müştəri əməliyyatları şöbəsinin mütəxəssisi | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/express-bank-hesablasmalar-departamenti-musteri-emeliyyatlari-sobesinin-mutexessisi-148322)** |
-| A | **86** | CORE | Caspian Cable Systems — Əməliyyatçı mühasib | Unknown | Baku / **5 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/caspian-cable-systems-emeliyyatci-muhasib-147714)** |
-| B | **84** | ADJACENT | Carlsberg Azerbaijan — Planning & Delivery Specialist, R&PM | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/carlsberg-azerbaijan-planning-delivery-specialist-for-raw-packaging-materials-rpm-148252)** |
-| B | **83** | ADJACENT | PMD Projects — Satınalmalar üzrə aparıcı mütəxəssis | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pmd-projects-llc-satinalmalar-uzre-aparici-mutexessis-148214)** |
-| B | **82** | ADJACENT | Respublika Diaqnostika Mərkəzi — Transformasiya üzrə mütəxəssis | Interview-based | Baku / **7 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/respublika-diaqnostika-merkezi-transformasiya-uzre-mutexessis-147884)** |
-| B | **82** | CORE | Aviation Services Group — Deputy Chief Accountant | Unknown | Baku / **5 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/aviation-services-group-deputy-chief-accountant-147703)** |
+| A | **85** | ADJACENT | Aviation Services Group — Cost Controller | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://alljobsinone.com/en/vacancy/cost-controller-148116)** |
+| A | **84** | ADJACENT | Rəvan Commers — Maliyyə meneceri | Agreement-based | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/revan-commers-mmc-maliyye-meneceri-148514)** |
+| B | **84** | ADJACENT | AzerGold — Procurement Specialist | Internal grading / competitive benefits | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/m%C3%BCt%C9%99x%C9%99ssis-sat%C4%B1nalmalar-v%C9%99-t%C9%99chizat-z%C9%99ncirinin-idar%C9%99olunmas%C4%B1-%C5%9F%C3%B6b%C9%99si-sat%C4%B1nalmalar-sektoru-at-azergold-%E2%80%8B-cjsc-4418777929)** |
+| B | **82** | ADJACENT | Bank of Baku — Performans dəyərləndirmə bölməsinin eksperti | Unknown | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/performans-d%C9%99y%C9%99rl%C9%99ndirm%C9%99-b%C3%B6lm%C9%99sinin-eksperti-at-bank-of-baku-ojsc-4426845172)** |
+| B | **81** | ADJACENT | AzerGold — Finance Planning & Investment Evaluation Lead Specialist | Internal grading / competitive benefits | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/apar%C4%B1c%C4%B1-m%C3%BCt%C9%99x%C9%99ssis-maliyy%C9%99-%C5%9F%C3%B6b%C9%99si-maliyy%C9%99-planla%C5%9Fd%C4%B1r%C4%B1lmas%C4%B1-v%C9%99-investisiya-layih%C9%99l%C9%99rinin-qiym%C9%99tl%C9%99ndirilm%C9%99si-sektoru-at-azergold-%E2%80%8B-cjsc-4435950793)** |
+| B | **78** | ADJACENT | OBA Market — BI & SQL Reporting Specialist (Lead) | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/oba-marketler-shebekesi-bi-sql-reporting-specialist-lead-147220)** |
+| B | **78** | STRETCH | Think Wise Business Consulting — Chief Accountant | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/twc-management-consulting-bas-muhasib-148416)** |
 
 ## Best fits from the latest batch
 
-**Express Bank — settlement/customer operations specialist — 87/100.** Payment entries, accounting-system postings, document control, internal queries and advanced Excel are very close to transaction-heavy finance operations. The main gap is direct banking operations experience.
+**Aviation Services Group — Cost Controller — 85/100.** Month-end reporting, financial data analysis, cost allocation, inventory controls and Procurement/Logistics coordination make this a strong bridge from finance operations into broader cost control.
 
-**Caspian Cable Systems — Əməliyyatçı mühasib — 86/100.** AP/AR settlements, debt control, internet banking, international transfers, invoices and contracts make this one of the cleaner direct-finance matches in the batch.
+**Rəvan Commers — Maliyyə meneceri — 84/100.** Financial reporting, cost-efficiency analysis, AR/AP risk oversight, approval controls, bank coordination and supplier reporting map closely to the existing finance/process skill set.
 
-**Carlsberg Azerbaijan — Planning & Delivery Specialist — 84/100.** ERP purchase orders, supplier follow-up, invoice/supporting-document checks, inventory and budget monitoring create a strong P2P-to-supply-chain bridge.
+**AzerGold — Procurement Specialist — 84/100.** Supplier database management, tender/quotation work, contracts, reporting and vendor coordination are a strong P2P/vendor transition, with state-procurement law and tender execution as the main gaps.
 
 ## Browser-confirmed live subset
 
