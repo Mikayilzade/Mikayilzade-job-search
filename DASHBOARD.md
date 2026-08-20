@@ -1,78 +1,50 @@
 # Job Search Dashboard
 
-> **Candidate pool: 100 / 100 — SEARCH PHASE COMPLETE**  
+> **Candidate pool: 108 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-20 around 09:45 AZT.
+> Last search update: 2026-08-20 around 23:40 AZT.
 >
-> The 100-candidate target is complete. `TOOL_SNAPSHOT` means the vacancy was found through current-looking web/index/employer evidence but its exact browser state is not guaranteed. The user will manually open the most attractive links. `CANDIDATES.csv` remains the complete scored master list of all 100.
+> The former 100-candidate milestone is complete, but the user removed the cap on 2026-08-20. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; the exact browser state still needs manual verification before applying.
 
-## What to do next
+## Latest additions — C101–C108
 
-1. Start with Priority **A** / highest-score roles below and open only the ones that look attractive.
-2. Mark an exact working vacancy as `USER_BROWSER_LIVE`; a 404/removed page becomes `USER_BROWSER_CLOSED`.
-3. For shortlisted live roles, do a requirement-by-requirement review: actual experience evidence, gaps, compensation, workload, company/role risks, CV changes and interview preparation.
-4. Build CV variants by role family, then tailor only the strongest applications.
-
-## Final 7 additions — candidates 94–100
-
-| Pri | Score | Type | Company / Role | Salary | Access | Evidence | Link |
+| Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **94** | CORE | [ADA University — Specialist, Accounts Payable](https://www.birjob.com/jobs/specialist-accounts-payable-ada-university-7036934) | Unknown | Baku | 🟡 Deadline 23 Aug | EXACT |
-| A | **89** | CORE | [Life at Bir — Daxili mühasibatlıq şöbəsinin mütəxəssisi](https://az.linkedin.com/jobs/view/daxili-m%C3%BChasibatl%C4%B1q-%C5%9F%C3%B6b%C9%99sinin-m%C3%BCt%C9%99x%C9%99ssisi-at-kapital-bank-life-4372505843) | Unknown | Baku | 🟡 current index + older exact snapshot | EXACT |
-| A | **88** | ADJ | [SOCAR Downstream — Maliyyə nəzarəti üzrə aparıcı mütəxəssis](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/maliyye-nezareti-uzre-aparici-mutexessis-socar-downstream-management-53b5a4) | Unknown | Baku | 🟡 employer recently reposted | EXACT |
-| A | **86** | ADJ | [SOCAR Downstream — Maliyyə nəzarəti üzrə mütəxəssis](https://www.linkedin.com/company/socar-downstream) | Unknown | Baku | 🟡 employer post lists vacancy | LIST |
-| B | **84** | ADJ | [SOCAR Downstream — Korporativ performans üzrə mütəxəssis](https://careera.az/job/korporativ-performans-zr-mtxssis) | Unknown | Baku | 🟡 active company listing | EXACT |
-| B | **80** | ADJ | [ABB — Fintexlərlə iş üzrə mütəxəssis / aparıcı mütəxəssis](https://careers.abb-bank.az/vakansiyalar/v2/4827) | Unknown | Baku | 🟡 employer careers page | EXACT |
-| C | **76** | ADJ | [IDDA — Baş Mütəxəssis / Baş Biznes Analitik](https://az.linkedin.com/jobs/view/ba%C5%9F-m%C3%BCt%C9%99x%C9%99ssis-ba%C5%9F-biznes-analitik-at-innovation-and-digital-development-agency-4375294856) | Unknown | Baku | 🟡 employer update lists role | EXACT |
+| A | **87** | ADJACENT | IRES — Project Requisitioner | Unknown | Baku / Sep window | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/internship-program/ires-project-requisitioner-148188/vacancies)** |
+| A | **86** | ADJACENT | Mars Overseas Baku — Büdcə və Hesabatlıq üzrə Aparıcı Mütəxəssis | Unknown | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/mars-overseas-baku-budce-ve-hesabatliq-uzre-aparici-mutexessis/)** |
+| A | **86** | CORE | SCANDENS — Senior Accountant | Unknown | Baku / **2 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/vacancies/scandens-senior-accountant-147470)** |
+| B | **84** | ADJACENT | Xalq Bank — Ödəniş sistemləri ilə iş şöbəsinin aparıcı / baş mütəxəssisi | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobs.glorri.az/vacancies/xalqbank/xalqbank-odenis-aletleri-idaresinin-odenis-sistemleri-ile-is-sobesi-45350?source=JobSearch)** |
+| B | **84** | CORE | PASHA Bank — Ödənişlərin icrası qrupunun Kiçik mütəxəssisi | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/hesablasmalar-sobesinin-odenislerin-icrasi-qrupunun-kicik-mutexessisi-3461981467)** |
+| B | **83** | ADJACENT | PASHA Bank — RPA üzrə Kiçik Mütəxəssis | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/pasha-bank-biznes-proseslerin-idareedilmesi-sobesinin-rpa-uzre-kicik-mutexessisi/)** |
+| B | **82** | ADJACENT | Azərşəkər — Satınalmalar və logistika üzrə aparıcı mütəxəssis | Unknown | Baku / **24 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.azvak.az/vakansiyalar/satinalma-mutexessisi/14357)** |
+| B | **77** | ADJACENT | Prosys — İT üzrə Biznes Analitik | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.birjob.com/jobs/it-uzre-biznes-analitik-prosys-llc-7127674)** |
 
-## Highest-priority shortlist to browser-check first
+## Best fits from the latest batch
 
-| Score | Company / Role | Why it ranks high | Link |
-|---:|---|---|---|
-| **95** | Baker Hughes — AP Accountant | Near-direct AP/payments/reconciliation fit | [Open ↗](https://az.linkedin.com/jobs/view/ap-accountant-at-baker-hughes-4439082827) |
-| **94** | ADA University — Specialist, Accounts Payable | Direct ERP/AP/payments/procurement-document fit | [Open ↗](https://www.birjob.com/jobs/specialist-accounts-payable-ada-university-7036934) |
-| **91** | Holcim — SAP Master Data Expert | Excellent S/4/MDG/master-data match | [Open ↗](https://az.linkedin.com/jobs/view/sap-master-data-expert-at-holcim-azerbaijan-member-of-holcim-group-4435215467) |
-| **91** | Novum — ERP Functional Consultant, Finance | Strong finance-to-ERP transition | [Open ↗](https://az.linkedin.com/jobs/view/enterprise-resources-planning-functional-consultant-at-novum-llc-4382025377) |
-| **91** | Technip Energies — Accounting Specialist | Strong multinational accounting/AP overlap | [Open ↗](https://az.linkedin.com/jobs/view/accounting-specialist-at-technip-energies-4440784273) |
-| **90** | LeverX — SAP Functional Support Consultant | SAP MDG Customer/Vendor + Azerbaijan explicit remote | [Open ↗](https://career.leverx.com/vacancies/sap-functional-support-consultant) |
-| **90** | bp — Finance Control Analyst | Reconciliations, controls, reporting, audit | [Open ↗](https://az.linkedin.com/jobs/view/finance-control-analyst-at-bp-4436653692) |
-| **90** | ABB — Procurement reporting & analysis | SAP/P2P/data/reporting/automation overlap | [Open ↗](https://az.linkedin.com/jobs/view/sat%C4%B1nalmalar-departamentinin-hesabatl%C4%B1q-v%C9%99-t%C9%99hlil-%C5%9F%C3%B6b%C9%99sinin-ki%C3%A7ik-m%C3%BCt%C9%99x%C9%99ssisi-m%C3%BCt%C9%99x%C9%99ssisi-at-abb-4436300158) |
-| **90** | MUK — Financial Manager | Treasury/payments/reconciliation/cash-flow fit | [Open ↗](https://az.linkedin.com/jobs/view/financial-manager-at-muk-4392845596) |
-| **89** | DP World — Treasury Accountant | Payments/bank/vendor reconciliation match | [Open ↗](https://az.linkedin.com/jobs/view/treasury-accountant-at-dp-world-4413955585) |
-| **89** | bp — Reporting Analyst | Month-end/reporting/reconciliation/control fit | [Open ↗](https://az.linkedin.com/jobs/view/reporting-analyst-at-bp-4440494176) |
-| **89** | Avis Azerbaijan — Accounting Specialist, Receivables | AP-to-AR transfer, SAP/reconciliations | [Open ↗](https://az.linkedin.com/jobs/view/accounting-specialist-receivables-at-avis-azerbaijan-4413039806) |
-| **89** | Life at Bir — Daxili mühasibatlıq şöbəsinin mütəxəssisi | Payments/expense coding/internal accounting | [Open ↗](https://az.linkedin.com/jobs/view/daxili-m%C3%BChasibatl%C4%B1q-%C5%9F%C3%B6b%C9%99sinin-m%C3%BCt%C9%99x%C9%99ssisi-at-kapital-bank-life-4372505843) |
-| **88** | Deloitte — Consultant, Business Process Solutions | AP/AR/payments/accounting process services | [Open ↗](https://az.linkedin.com/jobs/view/consultant-business-process-solutions-at-deloitte-4431088744) |
-| **88** | Baku Steel — Senior Vendor Management Specialist | Vendor governance/master-data/process fit | [Open ↗](https://jobs.glorri.az/companies/bakusteel) |
-| **88** | Starcom — Accountant | Payments/reconciliations/month-end/audit | [Open ↗](https://classic.jobsearch.az/vacancies/starcom-accountant-147859) |
-| **88** | SOCAR Downstream — Financial Control Lead Specialist | SAP/controls/variance/audit/reporting | [Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/maliyye-nezareti-uzre-aparici-mutexessis-socar-downstream-management-53b5a4) |
-| **87** | Araz Supermarket — SAP Consultant | SAP master data/process mapping/MM-FI | [Open ↗](https://az.linkedin.com/jobs/view/sap-consultant-at-araz-supermarket-mmc-4431080879) |
-| **87** | Makfit — Accountant | AP/AR/reconciliation/reporting | [Open ↗](https://az.linkedin.com/jobs/view/accountant-at-makfit-4376636536) |
-| **87** | IKTEX — Vendor, Bid / Tender Manager | Vendor/onboarding/docs/payment terms | [Open ↗](https://classic.jobsearch.az/vacancies/iktex-vendor-bid-tender-manager-147921) |
-| **87** | Birmarket — Senior Accountant | Purchase contracts/reconciliations/month-end | [Open ↗](https://az.linkedin.com/jobs/view/senior-accountant-at-umico-4199546119) |
-| **86** | Xsolla — Finance Coordinator | ✅ browser-confirmed live | [Open ↗](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb) |
-| **86** | OBA Market — Gəlirlər üzrə aparıcı mühasib | Reconciliations/contracts/aging/system postings | [Open ↗](https://jobsite.az/shirketler/oba-market-mmc) |
-| **86** | ATB Bank — Procurement Lead/Chief Specialist | Vendor/procurement/docs/process controls | [Open ↗](https://www.hellojob.az/sirket/atb-bank-362040) |
-| **86** | SOCAR Downstream — Financial Control Specialist | Finance controls/SAP/reporting/audit | [Open ↗](https://www.linkedin.com/company/socar-downstream) |
+**IRES — Project Requisitioner — 87/100.** Purchase requisitions/material requests, SAP, vendor-payment follow-up, buyer/supplier coordination, invoicing/cost tracking and project close-out are unusually close to the AP/P2P/SAP skill set. Main gaps: formal procurement-project experience, fluent English, and commute/location risk.
+
+**Mars Overseas — Budget & Reporting Lead Specialist — 86/100.** Strong bridge into broader finance through reporting, actual-vs-plan analysis, budget preparation, audit and Excel. Main gaps: direct budgeting/forecasting and IFRS depth.
+
+**SCANDENS — Senior Accountant — 86/100.** AP/AR, payments, ERP rollout, controls, audit, reporting and budgeting are close; broader statutory/tax/full-financial-statement ownership is the main expansion.
 
 ## Browser-confirmed live subset
 
-| Score | Role | Link |
-|---:|---|---|
-| **86** | Xsolla — Finance Coordinator | [Open ↗](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb) |
-| **79** | Unibank — Financial Efficiency Lead/Chief Specialist | [Open ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29) |
-| **74** | Xsolla — Delivery Manager, Self-Service — USD 30k–80k/year | [Open ↗](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31) |
-| **71** | Bolt — Operations Manager | [Open ↗](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/) |
+| Score | Company / Role | Salary | Link |
+|---:|---|---|---|
+| **86** | Xsolla — Finance Coordinator | Unknown | **[Open ↗](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb)** |
+| **79** | Unibank — Financial Efficiency Lead/Chief Specialist | Unknown | **[Open ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29)** |
+| **74** | Xsolla — Delivery Manager, Self-Service | **USD 30k–80k/year** | **[Open ↗](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31)** |
+| **71** | Bolt — Operations Manager | Unknown | **[Open ↗](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/)** |
 
-## Files
+## Full ledgers
 
-- [`CANDIDATES.csv`](./CANDIDATES.csv) — complete 100 scored candidates, all links, evidence and gaps.
-- [`VACANCIES.csv`](./VACANCIES.csv) — browser-confirmed live subset.
-- [`REJECTED.csv`](./REJECTED.csv) — closed/expired/inaccessible/conflicted history.
-- [`SEARCH_RULES.md`](./SEARCH_RULES.md) — scoring and freshness rules.
+- **[All candidates → CANDIDATES.csv](./CANDIDATES.csv)**
+- **[Browser-confirmed live → VACANCIES.csv](./VACANCIES.csv)**
+- **[Closed / rejected / watch history → REJECTED.csv](./REJECTED.csv)**
 
-## Score formula
+## Verification rule
 
-`Fit = Skills (30) + Transition (20) + Compensation (15) + Baku access (15) + Lifestyle (10) + Upside (10)`.
-
-The search pool is now closed at 100. New vacancies should only replace a candidate later if the user explicitly decides to refresh/upgrade the pool.
+- ✅ `USER_BROWSER_LIVE` — user has opened the exact vacancy and confirmed it is available.
+- ❌ `USER_BROWSER_CLOSED` — user confirmed 404/removed/closed; exclude from candidate/live pool.
+- 🟡 `TOOL_SNAPSHOT` — promising/current-looking web discovery; **not a guarantee that the exact page is live now**.
+- Re-open the exact link immediately before tailoring a CV or applying.
