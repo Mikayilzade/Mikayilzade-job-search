@@ -1,30 +1,30 @@
 # Job Search Dashboard
 
-> **Candidate pool: 129 total — SEARCH CONTINUES**  
+> **Candidate pool: 136 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-21 around 01:50 AZT.
+> Last search update: 2026-08-21 around 02:45 AZT.
 >
 > The former 100-candidate milestone is complete, but the user removed the cap on 2026-08-20. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; the exact browser state still needs manual verification before applying.
 
-## Latest additions — C123–C129
+## Latest additions — C130–C136
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **85** | ADJACENT | Aviation Services Group — Cost Controller | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://alljobsinone.com/en/vacancy/cost-controller-148116)** |
-| A | **84** | ADJACENT | Rəvan Commers — Maliyyə meneceri | Agreement-based | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/revan-commers-mmc-maliyye-meneceri-148514)** |
-| B | **84** | ADJACENT | AzerGold — Procurement Specialist | Internal grading / competitive benefits | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/m%C3%BCt%C9%99x%C9%99ssis-sat%C4%B1nalmalar-v%C9%99-t%C9%99chizat-z%C9%99ncirinin-idar%C9%99olunmas%C4%B1-%C5%9F%C3%B6b%C9%99si-sat%C4%B1nalmalar-sektoru-at-azergold-%E2%80%8B-cjsc-4418777929)** |
-| B | **82** | ADJACENT | Bank of Baku — Performans dəyərləndirmə bölməsinin eksperti | Unknown | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/performans-d%C9%99y%C9%99rl%C9%99ndirm%C9%99-b%C3%B6lm%C9%99sinin-eksperti-at-bank-of-baku-ojsc-4426845172)** |
-| B | **81** | ADJACENT | AzerGold — Finance Planning & Investment Evaluation Lead Specialist | Internal grading / competitive benefits | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/apar%C4%B1c%C4%B1-m%C3%BCt%C9%99x%C9%99ssis-maliyy%C9%99-%C5%9F%C3%B6b%C9%99si-maliyy%C9%99-planla%C5%9Fd%C4%B1r%C4%B1lmas%C4%B1-v%C9%99-investisiya-layih%C9%99l%C9%99rinin-qiym%C9%99tl%C9%99ndirilm%C9%99si-sektoru-at-azergold-%E2%80%8B-cjsc-4435950793)** |
-| B | **78** | ADJACENT | OBA Market — BI & SQL Reporting Specialist (Lead) | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/oba-marketler-shebekesi-bi-sql-reporting-specialist-lead-147220)** |
-| B | **78** | STRETCH | Think Wise Business Consulting — Chief Accountant | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/twc-management-consulting-bas-muhasib-148416)** |
+| B | **82** | ADJACENT | Eqvilent — Analyst (FP&A) | Unknown | **Remote worldwide** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://job-boards.greenhouse.io/eqvilentjobs/jobs/4844233101)** |
+| B | **81** | ADJACENT | Unibank — Bank proseslərinə dəstək Şöbəsinin kiçik Mütəxəssisi | Agreement-based | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/bank-proseslerine-destek-sobesinin-kicik-mutexessisi-228218913)** |
+| B | **79** | ADJACENT | Xalq Bank — Korporativ Satış İdarəsinin Satışa dəstək şöbəsinin mütəxəssisi | Agreement-based | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/korporativ-satis-idaresinin-satisa-destek-sobesinin-mutexessisi-3408518606)** |
+| B | **76** | ADJACENT | ABB — Aparatın işinin təşkili və icrasına nəzarət şöbəsinin kiçik mütəxəssisi | Agreement-based | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/aparatin-isinin-teskili-ve-icrasina-nezaret-sobesinin-kicik-mutexessisi-5200)** |
+| B | **75** | STRETCH | Eqvilent — Analyst (Exchanges) | Unknown | **Remote worldwide** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://job-boards.greenhouse.io/eqvilentjobs/jobs/4826475101)** |
+| C | **73** | ADJACENT | Bank Respublika — Monitorinq şöbəsinin kiçik mütəxəssisi / mütəxəssisi | Agreement-based | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/bank-respublika-monitorinq-sobesinin-kicik-mutexessisi-mutexessisi/)** |
+| C | **72** | STRETCH | Kapital Bank — Tribe Performance Lead (Scrum master) | Agreement-based | Baku / **4 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/tribe-performance-lead-scrum-master-8072)** |
 
 ## Best fits from the latest batch
 
-**Aviation Services Group — Cost Controller — 85/100.** Month-end reporting, financial data analysis, cost allocation, inventory controls and Procurement/Logistics coordination make this a strong bridge from finance operations into broader cost control.
+**Eqvilent — Analyst (FP&A) — 82/100.** Strong overlap in finance-data reconciliations, reporting, workflow automation and process improvement, plus explicit remote-from-anywhere access. Main gaps are Python/Pandas, exchange/trading mechanics and stronger English.
 
-**Rəvan Commers — Maliyyə meneceri — 84/100.** Financial reporting, cost-efficiency analysis, AR/AP risk oversight, approval controls, bank coordination and supplier reporting map closely to the existing finance/process skill set.
+**Unibank — Bank proseslərinə dəstək — 81/100.** Recurring system processes, issue investigation, application support, payment-problem analysis and operational-day close create a strong bridge from ERP/process support and exception handling. Junior-title compensation risk remains.
 
-**AzerGold — Procurement Specialist — 84/100.** Supplier database management, tender/quotation work, contracts, reporting and vendor coordination are a strong P2P/vendor transition, with state-procurement law and tender execution as the main gaps.
+**Xalq Bank — Sales Support Specialist — 79/100.** Client/partner analysis, reporting, product support and financial-statement analysis transfer reasonably well from finance operations; direct sales and banking-product depth are the main gaps.
 
 ## Browser-confirmed live subset
 
