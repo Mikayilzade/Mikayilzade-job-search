@@ -2,8 +2,8 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: Autonomous Run #9 — 2026-08-20 around 23:40 AZT.
-- **Candidate pool: 108 total.**
+- Last completed run: Autonomous Run #10 — 2026-08-21 around 00:45 AZT.
+- **Candidate pool: 116 total.**
 - **Browser-confirmed live subset: 4.**
 - User-facing interface: `DASHBOARD.md`.
 - `CANDIDATES.csv` is the complete master candidate ledger.
@@ -13,19 +13,15 @@
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. The old 100/100 completion rule is retired. Continue autonomous search and add new high-quality options until the user explicitly stops the process.
 
 ## Latest run result
-Added **8** new candidates, C101–C108:
-1. **IRES — Project Requisitioner — 87 — ADJACENT / Priority A.** Purchase requisitions/material requests, SAP, vendor-payment follow-up, buyer/supplier coordination, invoicing/cost tracking and project close-out map exceptionally well to P2P/AP/SAP experience. Current sources indicate a September application window. Main gaps: formal procurement-project title, fluent English, and office location around 30 km from central Baku.
-2. **Mars Overseas Baku — Büdcə və Hesabatlıq üzrə Aparıcı Mütəxəssis — 86 — ADJACENT / Priority A.** Budget/reporting, actual-vs-plan analysis, accounting-data analytics, audit support and Excel are a strong finance-operations bridge. Published 18.08.2026 with deadline 18.09.2026 in the current listing; salary unpublished.
-3. **SCANDENS — Senior Accountant — 86 — CORE / Priority A.** AP/AR, payments, ERP implementation, controls, audits, reporting and budgeting overlap strongly. Current listing states deadline 02.09.2026. Main gaps are full statutory/tax/financial-statement ownership and production-company experience.
-4. **Xalq Bank — Ödəniş sistemləri ilə iş şöbəsinin aparıcı / baş mütəxəssisi — 84 — ADJACENT / Priority B.** Payments analytics/reporting, Excel/Power Query and payment-system correspondence are attractive transfers; direct banking/card-system experience is the main gap.
-5. **PASHA Bank — RPA üzrə Kiçik Mütəxəssis — 83 — ADJACENT / Priority B.** Strong process-analysis/automation fit; direct RPA tooling and junior-title pay risk remain.
-6. **PASHA Bank — Ödənişlərin icrası qrupunun Kiçik mütəxəssisi — 84 — CORE / Priority B.** Very direct payment execution/document-control fit; retained despite junior-title compensation risk because functional fit is exceptional.
-7. **Azərşəkər — Satınalmalar və logistika üzrə aparıcı mütəxəssis — 82 — ADJACENT / Priority B.** Strong supplier/RFQ/payment-term/contracts bridge; more sourcing and logistics ownership required.
-8. **Prosys — İT üzrə Biznes Analitik — 77 — ADJACENT / Priority B.** Process optimization, requirements and documentation transfer well; SQL/PLSQL/Jira/Agile and formal BA experience are significant gaps.
-
-## Rejected this run
-- **AT-Geotech — Aparıcı mühasib**: fresh role but published salary **1,200 AZN**, materially below target.
-- **MJ Finance — Maliyyə Mütəxəssisi**: expired and published salary **500–700 AZN**, far below target.
+Added **8** new candidates, C109–C116:
+1. **Kapital Bank — Hesablaşmalar üzrə mütəxəssis — 88 — CORE / Priority A.** Bank/partner reconciliations, settlement/clearing control, accounting-system knowledge, Excel and transaction accuracy fit the current finance-operations skill set very strongly. Current listing states deadline 27.08.2026. Main gaps: direct clearing/banking operations, SQL and business-level English/Russian.
+2. **Azərbaycan Hava Yolları (AZAL) — Satınalmalar idarəsi / Əməliyyat təchizatı üzrə mütəxəssis — 86 — ADJACENT / Priority A.** Supplier quotations, commercial-term comparison, procurement/contract coordination, cost optimization, vendor management and reporting form a strong P2P/vendor bridge. Current listing states deadline 13.09.2026. Main gap: direct procurement/supply and negotiation ownership.
+3. **PASHA Bank — Maliyyə Texnologiyaları sahəsinin Tarif qrupunun Məhsul üzrə Analitiki — 84 — ADJACENT / Priority B.** Requirements-to-spec translation, UAT, workflow optimization, documentation, data analysis and cross-functional delivery fit ERP/process-improvement strengths. Current listing states deadline 18.09.2026. Direct fintech/product-analysis experience is the main gap.
+4. **Yalama Agropark — Satınalma üzrə mütəxəssis — 84 — ADJACENT / Priority B.** Supplier coordination, commercial terms, payments, ERP preference and finance/warehouse interaction fit vendor/P2P experience. Current listing states deadline 14.09.2026. Direct sourcing, Incoterms and import/logistics ownership are broader.
+5. **AMASS — Satınalma üzrə mütəxəssis — 82 — ADJACENT / Priority B.** Quotations, payment terms, POs, deliveries, ERP and vendor coordination fit well; current listing has deadline 23.08.2026. Direct procurement/Incoterms/contract negotiation remain gaps.
+6. **AZAL — Aviatexniki təchizat və materialların idarəedilməsi şöbəsi / Mütəxəssis — 82 — ADJACENT / Priority B.** Demand collection, order registration, execution tracking, documentation, data systematization and reporting transfer well from ERP/P2P operations. Current listing states deadline 10.09.2026.
+7. **AZAL — Strategiya və Biznesin İnkişafı / Layihələrin idarə edilməsi üzrə kiçik mütəxəssis — 78 — ADJACENT / Priority B.** Project plans, schedules, documentation, risk/change tracking and stakeholder coordination are credible transferable skills. Current listing states deadline 12.09.2026; junior-title compensation risk remains.
+8. **METAK — Planlama üzrə kiçik mütəxəssis — 78 — ADJACENT / Priority B.** MRP support, ERP data updates, stock monitoring, plan-vs-actual and material-demand analysis fit the ERP/data side of the profile. Manufacturing-planning experience and junior-title pay are the key risks.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
