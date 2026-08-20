@@ -2,8 +2,8 @@
 
 ## Current state
 - Phase: SEARCH / CANDIDATE POOL BUILD.
-- Last completed run: Autonomous Run #2 — 2026-08-20 around 03:33–03:55 AZT.
-- **Candidate pool: 56 / 100.**
+- Last completed run: Autonomous Run #3 — 2026-08-20 around 04:27–04:55 AZT.
+- **Candidate pool: 64 / 100.**
 - **Browser-confirmed live subset: 4.**
 - User-facing interface: `DASHBOARD.md`.
 - `CANDIDATES.csv` is the master 100-target ledger.
@@ -12,17 +12,17 @@
 ## Run result
 - Added **8 new scored candidates**; no weak padding.
 - Strongest new additions:
-  1. **Baker Hughes — AP Accountant — 95** — CORE / Priority A. This is the closest functional match found so far: weekly payments for Azerbaijan/Kazakhstan, payment proposals, vendor/bank queries, internet banking, monthly bank reconciliations, VAT/WHT/customs payments and cash-flow reporting map almost directly to existing AP work. The current LinkedIn result references requisition R165111 and appeared only days old, but it remains `TOOL_SNAPSHOT` until browser-checked.
-  2. **Baku Steel — Senior Vendor Management Specialist — 88** — ADJACENT / Priority A. Very strong vendor-governance/P2P/master-data/process-control transfer; company vacancy index was crawled last week and shows the role posted 05.08.2026.
-  3. **Group of Companies at Baku City Residences — CRM Business Analyst / CRM Administrator — 84** — ADJACENT / Priority B. Strong systems/process bridge through requirements gathering, vendor coordination, workflow improvement, data accuracy, KPI dashboards, documentation and user training.
+  1. **ATB Bank — Procurement Lead/Chief Specialist — 86** — ADJACENT / Priority A. Strong bridge from P2P/vendor/master-data/process control into procurement procedures, supplier coordination and commercial documentation. Company vacancy index is current-looking and shows the role posted 31.07.2026; browser check still required.
+  2. **OBA Market — Revenue Lead Accountant — 86** — CORE / Priority A. Strong finance-operations overlap: counterparty reconciliations, contract/bonus checks, debtor aging, system postings, income analysis, document control and month-target tracking. Company listing was crawled very recently and shows a 26.08.2026 deadline; browser check required.
+  3. **Yelo Bank — Procurement Contracts & Documentation Specialist — 82** — ADJACENT / Priority B. Supplier lists, contracts, amendments, acts, approvals and contractor coordination map closely to vendor/P2P work; the main risk is junior-title compensation. Current-looking exact listing shows deadline 06.09.2026.
 - Also added:
-  - **PASHA Bank — Financial Control Specialist — 84**.
-  - **Unibank — Internal Control Reporting Lead Specialist — 83**.
-  - **Xalq Bank — Budget Planning & Cost Control Specialist/Lead — 80**.
-  - **Xalq Bank — Operational Risk Senior/Chief Specialist — 80**.
-  - **Wolt — Account Management Lead, Azerbaijan — 72** — stretch based on KPI/partner operations and commercial upside.
+  - **IDDA — Internal Audit Lead Specialist — 81**.
+  - **Kapital Bank — Strategy, Budget & Analytics Specialist — 80**.
+  - **Bank Respublika — System Analyst / IT Business Analyst — 79**.
+  - **VIP Services Group — FP&A Specialist — 79**.
+  - **Expressbank — Corporate Client Service Specialist/Lead — 79**.
 - All eight new entries are `TOOL_SNAPSHOT`; none was promoted to browser-confirmed live.
-- Current searches also surfaced stale/expired pages (for example older Bank of Baku and AzerGold records); those were not added.
+- No change to `VACANCIES.csv` because the user has not browser-confirmed any of these new links.
 
 ## Browser-confirmed live subset
 1. Xsolla — Finance Coordinator — 86.
@@ -42,9 +42,9 @@
 - A newly surfaced distinct job ID/repost may be retained even when an older role at the same employer/title was previously rejected, but the distinction must be documented.
 
 ## NEXT ACTION
-1. Continue from **56 / 100** and aim for roughly **6–10 genuinely useful additions per run**.
-2. Prioritize direct/high-score opportunities first: AP/P2P/treasury/accounting operations, SAP/ERP/MDG/master data, vendor management and finance controls.
-3. Deep-search current-looking Baku employer/job indexes for finance systems, business/process analysis, data quality/governance, procurement analytics and internal controls.
+1. Continue from **64 / 100** and aim for roughly **6–10 genuinely useful additions per run**.
+2. Prioritize direct/high-score opportunities first: AP/P2P/treasury/accounting operations, SAP/ERP/MDG/master data, vendor management, procurement operations and finance controls.
+3. Deep-search current-looking Baku employer/job indexes for finance systems, business/process analysis, data quality/governance, reporting/analytics, procurement analytics and internal controls.
 4. Continue international/remote search only where Azerbaijan/CIS/worldwide access is explicit or legally defensible.
 5. Look for exact employer/ATS links where possible, but retain strong `LIST` candidates when the current company vacancy index clearly surfaces the role.
 6. Keep full score arithmetic, link quality, source-age note, why-fit and gaps for every addition.
