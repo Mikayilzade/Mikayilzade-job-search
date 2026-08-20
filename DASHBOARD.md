@@ -1,8 +1,8 @@
 # Job Search Dashboard
 
-> **Candidate pool: 56 / 100**  
+> **Candidate pool: 64 / 100**  
 > **Browser-confirmed live: 4**  
-> Last autonomous search update: 2026-08-20 around 03:33–03:55 AZT.
+> Last autonomous search update: 2026-08-20 around 04:27–04:55 AZT.
 >
 > `TOOL_SNAPSHOT` means the role was found in current-looking web/index data but the exact page may be stale. It counts as a candidate to review, **not** as a promise that the vacancy is live. The user will manually open the links that look attractive.
 
@@ -31,6 +31,8 @@
 | A | **88** | ADJ | [Baku Steel — Senior Vendor Management Specialist](https://jobs.glorri.az/companies/bakusteel) | Unknown | Baku | 🟡 Company index | LIST |
 | A | **87** | ADJ | [Araz Supermarket — SAP Consultant](https://az.linkedin.com/jobs/view/sap-consultant-at-araz-supermarket-mmc-4431080879) | Unknown | Baku hybrid | 🟡 Snapshot | EXACT |
 | A | **86** | CORE | [Xsolla — Finance Coordinator](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb) | Unknown | Baku | ✅ LIVE | EXACT |
+| A | **86** | ADJ | [ATB Bank — Procurement Lead/Chief Specialist](https://www.hellojob.az/sirket/atb-bank-362040) | Agreement-based | Baku | 🟡 Company index | LIST |
+| A | **86** | CORE | [OBA Market — Revenue Lead Accountant](https://jobsite.az/shirketler/oba-market-mmc) | Agreement-based | Baku | 🟡 Company index | LIST |
 | A | **85** | ADJ | [Coca-Cola CCI — Master Data Responsible](https://az.linkedin.com/jobs/view/master-data-responsible-at-coca-cola-cci-4309975643) | Unknown | Baku | 🟡 Snapshot | EXACT |
 | A | **85** | CORE | [DP World — MCV Management Accountant](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18281?utm_medium=jobshare) | Unknown | Baku | 🟡 Snapshot / urgent | EXACT |
 | A | **85** | CORE | [Sigma Technical Services — Senior Accountant](https://az.linkedin.com/jobs/view/senior-accountant-at-sigma-technical-services-llc-4434819774) | Unknown | Baku | 🟡 Snapshot | EXACT |
@@ -47,11 +49,14 @@
 | B | **82** | ADJ | [IDDA — Data Management Chief Specialist](https://jobs.glorri.com/companies/idda) | Unknown | Baku | 🟡 Index | LIST |
 | B | **82** | ADJ | [OBA — Utilities & general-expense control specialist](https://jobs.glorri.com/?jobFunctions=science-technology-engineering) | Unknown | Baku | 🟡 Index | LIST |
 | B | **82** | ADJ | [Baku Steel — Lead Specialist, Financial Planning & Budgeting](https://jobsite.az/vakansiya-is-elani/aparici-mutexessis-maliyye-planlama-ve-budce-24717) | Interview-based | Baku | 🟡 Snapshot | EXACT |
+| B | **82** | ADJ | [Yelo Bank — Procurement contracts & documentation specialist](https://www.hellojob.az/vakansiya/satinalma-sobesinin-muqavile-ve-senedlesme-uzre-kicik-mutexessisi-3412196242) | Agreement-based | Baku | 🟡 Snapshot | EXACT |
 | B | **81** | ADJ | [Hikvision — Procurement & Supply Specialist](https://az.linkedin.com/company/hikvision-co-az) | Interview-based | Baku | 🟡 Company post | LIST |
+| B | **81** | ADJ | [IDDA — Internal Audit Lead Specialist](https://classic.jobsearch.az/vacancies/innovasiya-ve-reqemsal-inkisaf-agentliyi-daxili-audit-uzre-aparici-mutexessis-147757) | Unknown | Baku | 🟡 Snapshot | EXACT |
 | B | **80** | ADJ | [Milli Aviasiya Akademiyası — Data Analytics Specialist](https://hrx.az/is-elanlari/data-ve-analitika/data-analitik/data-analitika-uzre-mutexessis-milli-aviasiya-akademiyasi-2ccbaa) | Unknown | Baku | 🟡 Snapshot | EXACT |
 | B | **80** | CORE | [Weatherford — Senior Accountant](https://az.linkedin.com/jobs/view/senior-accountant-at-weatherford-4423533011) | Unknown | Baku | 🟡 Snapshot | EXACT |
 | B | **80** | ADJ | [Xalq Bank — Budget Planning & Cost Control specialist/lead](https://jobs.glorri.az/companies/xalqbank) | Unknown | Baku | 🟡 Company index | LIST |
 | B | **80** | ADJ | [Xalq Bank — Operational Risk Senior/Chief Specialist](https://jobs.glorri.az/companies/xalqbank) | Unknown | Baku | 🟡 Company index | LIST |
+| B | **80** | ADJ | [Kapital Bank — Strategy, Budget & Analytics Specialist](https://www.hellojob.az/sirket/kapital-bank-360201) | Agreement-based | Baku | 🟡 Company index | LIST |
 
 ## Other worthwhile candidates
 
@@ -59,6 +64,9 @@
 |---:|---|---|---|
 | **79** | [Yelo Bank — Business Data Analyst / Specialist / Lead](https://www.yelo.az/az/about-bank/career/work-at-yelobank/) | Baku | LIST |
 | **79** | [Unibank — Financial Efficiency Lead/Chief Specialist](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29) | Baku | ✅ LIVE |
+| **79** | [Bank Respublika — System Analyst / IT Business Analyst](https://jobnet.az/en/vacancies/sistem-analitiki-it-biznes-analitik-17194) | Baku | EXACT |
+| **79** | [VIP Services Group — FP&A Specialist](https://jobs.glorri.az/companies/vipgroup) | Baku | LIST |
+| **79** | [Expressbank — Corporate Client Service Specialist / Lead](https://jobu.az/job/express-bank-korporativ-musterilere-xidmet-mutexessis-aparici-mutexessis/) | Baku | EXACT |
 | **78** | [Azerconnect — Finance Functional Consultant](https://fa-emfh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1007/jobs/preview/1669) | Baku hybrid | EXACT |
 | **78** | [Yelo Bank — Data Analyst, Credit Monitoring](https://www.yelo.az/en/about-bank/vacancies/?vacancy=yelo-data-analitik-kreditlerin-monitorinqi-sobesi-90831018) | Baku | EXACT |
 | **78** | [OBA — Stock Accuracy Control Specialist](https://jobs.glorri.com/?jobFunctions=science-technology-engineering) | Baku | LIST |
@@ -86,12 +94,13 @@
 4. **Bolt — Operations Manager — 71/100**.
 
 ## New in this run
-- **Baker Hughes — AP Accountant — 95/100**: closest functional match found so far. Weekly payment runs for Azerbaijan/Kazakhstan, payment proposals, vendor/bank queries, monthly bank reconciliations, VAT/WHT/customs payments and cash-flow reporting map almost directly to the candidate's AP background.
-- **Baku Steel — Senior Vendor Management Specialist — 88/100**: strong vendor-governance/P2P/master-data/process-control transfer.
-- **CRM Business Analyst / Administrator — 84/100**: strong non-finance bridge through requirements, workflow improvement, data quality, reporting, documentation and vendor coordination.
-- Also added PASHA Bank financial control, Unibank internal-control reporting, two Xalq Bank finance/risk roles and Wolt Account Management Lead.
+- **ATB Bank — Procurement Lead/Chief Specialist — 86/100**: strong P2P/vendor/procurement-process bridge through supplier coordination, commercial documents, controls and procurement procedures.
+- **OBA Market — Revenue Lead Accountant — 86/100**: unusually strong finance-operations overlap through counterparty reconciliations, contract/bonus checks, receivables aging, system postings, income analysis and document control.
+- **Yelo Bank — Procurement contracts & documentation specialist — 82/100**: direct overlap in supplier records, contracts, amendments, acts, approvals and coordination; junior-title compensation is the main risk.
+- Also added **IDDA Internal Audit Lead (81)**, **Kapital Bank Strategy/Budget/Analytics (80)**, **Bank Respublika System Analyst (79)**, **VIP Group FP&A (79)** and **Expressbank Corporate Client Service (79)**.
+- All eight are `TOOL_SNAPSHOT` candidates; browser-confirmed live count remains unchanged at 4.
 
 ## Score formula
 `Fit = Skills (30) + Transition (20) + Compensation (15) + Baku access (15) + Lifestyle (10) + Upside (10)`.
 
-Full arithmetic, source-age notes, why-fit and gaps for all 56 candidates are stored in `CANDIDATES.csv`.
+Full arithmetic, source-age notes, why-fit and gaps for all 64 candidates are stored in `CANDIDATES.csv`.
