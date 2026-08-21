@@ -1,32 +1,32 @@
 # Job Search Dashboard
 
-> **Candidate pool: 259 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 262 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Updated: 2026-08-21 around 22:32 AZT.
+> Updated: 2026-08-21 around 23:32 AZT.
 >
-> Counter note: candidate IDs now reach `C260`, but historical `C158` is absent, so the true unique total is **259**.
+> Counter note: candidate IDs now reach `C263`, but historical `C158` is absent, so the true unique total is **262**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest additions — C258–C260
+## Latest additions — C261–C263
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **86** | ADJACENT | Expressbank — Payment Systems / Bank Card Settlements Lead Specialist | Agreement-based | Baku / employer page **9 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://expressbank.az/az/page/karyera)** |
-| B | **79** | ADJACENT | Tabaterra — Aparıcı mühasib | Unknown | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/tabaterra-aparici-muhasib-148726)** |
-| C | **75** | STRETCH | Tabaterra — Böyük Maliyyə Analitiki | Unknown | Baku / **2 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/maliyye-analitiki-2/boyuk-maliyye-analitiki-tabaterra-mmc-8165ca)** |
+| A | **87** | ADJACENT | AZCON Holding — Data idarəetməsi üzrə baş mütəxəssis | Agreement-based | Baku / current company indexes | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.careera.az/company/azcon-holding)** |
+| B | **82** | ADJACENT | TuranBank — Əməliyyat riskləri üzrə aparıcı / baş mütəxəssis | Agreement-based | Baku / **23 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.position.az/en/vacancy/emeliyyat-riskleri-uzre-aparici-mutexessis-bas-mutexessis-1015611)** |
+| B | **80** | ADJACENT | AZCON Holding — Chief Specialist, Organizational Development and Planning | Agreement-based | Baku / fresh August posting | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://smartjob.az/index.php/vacancy/84187-chief-specialist-organizational-development-and-planning)** |
 
 ## Best fits from the latest batch
 
-**Expressbank — Payment Systems / Bank Card Settlements Lead Specialist — 86/100.** Clearing-file uploads, account controls, payment-system interaction, processing-center files and payment/card reporting map unusually well to payment operations, reconciliations, ERP discipline and transaction controls. Main gap: 2–4 years of direct banking settlements/card-payment-system experience; compensation amount is unpublished.
+**AZCON Holding — Data idarəetməsi üzrə baş mütəxəssis — 87/100.** Data quality standards, metadata, master-data governance, controls, documentation and cross-functional implementation are unusually close to S4/MDG vendor-master and process-standardization strengths. Main gaps are formal enterprise data-governance frameworks/catalog tooling and direct role-title experience.
 
-**Tabaterra — Aparıcı mühasib — 79/100.** Accounting controls, ERP transaction discipline and inventory/material records overlap with finance-operations strengths, but Azerbaijan tax/statutory ownership and manufacturing accounting are material gaps.
+**TuranBank — Operational Risk Lead/Chief Specialist — 82/100.** Process mapping, control-gap identification, root-cause analysis, corrective-action tracking and reporting map well to finance controls, reconciliations, audit support and exception management. Banking RCSA/KRI methodology is the main domain gap.
 
-**Tabaterra — Böyük Maliyyə Analitiki — 75/100.** High-upside stretch because Excel/KPI automation, working-capital, AR/AP turnover, ERP/data quality and process improvement transfer well. However, the role directly owns budgeting, forecasting, profitability/manufacturing-cost analysis and NPV/IRR modeling, so it is deliberately not scored as a near-direct fit.
+**AZCON Holding — Chief Specialist, Organizational Development and Planning — 80/100.** Process diagnostics, maturity assessments, methodology/procedure improvement, standards and reporting are transferable, but the role is primarily organizational development rather than finance/process operations.
 
 ## Rejected / watch this run
 
-Five current-looking roles were kept out after compensation verification: **AzəriMed Program Project Support (527–700 AZN)**, **IRES Receivables Accountant (1,500–1,800 AZN net)**, **Harvesso Foreign Procurement Specialist (800 AZN net + bonus)**, **Baku Shipyard Junior Accountant (1,000 AZN)**, and **Aviation Services Group Lead Procurement Specialist (1,900 AZN net)**. See `REJECTED_RUN33.csv`.
+**AZCON Holding — Strateji təşəbbüslər üzrə böyük analitik** was excluded because the exact official AZCON vacancy page states the application period has ended, even though aggregators can still surface the title. See `REJECTED_RUN34.csv`.
 
 ## Browser-confirmed live subset
 
@@ -40,9 +40,9 @@ Five current-looking roles were kept out after compensation verification: **Azə
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN33.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN34.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN33.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN34.csv`**
 
 ## Verification rule
 
