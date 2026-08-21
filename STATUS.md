@@ -2,32 +2,33 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #23 — 2026-08-21 around 12:45 AZT**.
-- **Candidate pool: 201 total.**
+- Last completed run: **Autonomous Run #24 — 2026-08-21 around 13:40 AZT**.
+- **Candidate pool: 208 total.**
 - **Browser-confirmed live subset: 4.**
 - User-facing interface: `DASHBOARD.md`.
 - Historical master ledger: `CANDIDATES.csv` (C001–C143).
-- Additive ledgers: `CANDIDATES_RUN15.csv` through `CANDIDATES_RUN23.csv`. Treat all together as the current source of truth until consolidation.
-- Rejected history is in `REJECTED.csv` plus `REJECTED_RUN19.csv` through `REJECTED_RUN23.csv`.
+- Additive ledgers: `CANDIDATES_RUN15.csv` through `CANDIDATES_RUN24.csv`. Treat all together as the current source of truth until consolidation.
+- Rejected history is in `REJECTED.csv` plus `REJECTED_RUN19.csv` through `REJECTED_RUN24.csv`.
 - Repository remains the sole persistent source of truth.
 
 ## User override
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. Continue adding high-quality options until the user explicitly stops the process.
 
 ## Latest run result
-Added **3** high-quality new candidates, C200–C202; market quality did not justify padding to 6–10:
-1. **Company — Maliyyə hesabatı üzrə mütəxəssis — 86 — ADJACENT / Priority A.** Fresh exact JobSearch page, deadline 20.09.2026. Financial-reporting analysis, management reporting, budget participation, reporting automation, Excel and Power Query fit strongly. Main gap: direct consolidated reporting/accounting-policy ownership.
-2. **Radisson Baku Hotel — Accounts Receivable — 86 — CORE / Priority A.** Exact current JobSearch page, deadline 14.09.2026. Receivables, payments, invoices, reconciliations and reporting are direct transferable finance-operations skills. Main gaps: 1C and hotel AR experience.
-3. **Qala Group — Baş Təchizat Mütəxəssisi / Senior Procurement Specialist — 80 — ADJACENT / Priority B.** Exact current page with direct application route and deadline 12.09.2026. Strong P2P/vendor/ERP/Excel/reporting transfer; direct strategic procurement, category management and negotiations are the main gaps.
+Added **7** new candidates, C203–C209:
+1. **Mars Overseas Baku — Baş mütəxəssis (Mühasibatlıq şöbəsi) — 91 — CORE / Priority A.** ERP functionality oversight, accounting records, internal controls, audit support, reporting, process improvement and staff guidance create an unusually strong Finance Ops/S4 bridge. Current exact listing states deadline 04.09.2026. Main gaps: high 1C 8.3/1C ERP, FMCG preference and broader statutory-accounting ownership.
+2. **Bank of Baku — Ümumi audit şöbəsinin aparıcı auditoru — 84 — ADJACENT / Priority B.** Official employer page states deadline 31.08.2026 and 1–2 years relevant experience. Internal-control evaluation, financial/operational analysis, audit testing and findings reporting transfer strongly; formal risk-based audit ownership and banking-audit depth are gaps.
+3. **STP-HEAVY ENGINEERING — Tender məhsullarının alışı üzrə aparıcı mütəxəssis — 84 — ADJACENT / Priority B.** Official STP careers page currently lists the role. Supplier selection, tender procurement, payment follow-up, contracts and reporting map well to vendor/P2P strengths. Direct industrial sourcing/tender negotiation and Sumqayit commute are key risks.
+4. **SOCAR Downstream Management — Mal-materialların çatdırılması üzrə mütəxəssis — 82 — ADJACENT / Priority B.** Current company/employer indexes surface the role. Delivery scheduling, order/material tracking, documentation and coordination transfer from P2P/ERP operations. Direct materials-logistics/oil-industry experience and exact detailed requirements remain unresolved.
+5. **Mars Overseas Baku — Hesabatlıq şöbəsinin rəhbəri — 80 — STRETCH / Priority B.** Financial/budget/management reporting, audit follow-up and process improvement offer strong upside. Current sources show deadline around 05–06.09.2026. Department leadership and end-to-end budgeting/forecasting ownership are substantial gaps.
+6. **Bank of Baku — Menecment informasiya sistemləri şöbəsinin eksperti — 78 — ADJACENT / Priority B.** Official employer page states deadline 31.08.2026 and no relevant experience requirement. Reporting, BI publication, troubleshooting, testing and data-control work fit reporting/automation strengths; high SQL/PLSQL, Oracle BI and high English/Russian are material gaps.
+7. **Azersun Holding / Azərbaycan Sənaye Bankı — Risklərin təhlili və hesabatlılıq üzrə baş mütəxəssis — 76 — STRETCH / Priority C.** Financial-result analysis, reporting, risk-map documentation and audit/process review are transferable, but LCR/GAP/stress-testing and direct banking-risk experience create a meaningful transition gap. Current sources show deadline around 09–10.09.2026.
 
 ## Rejected this run
-`REJECTED_RUN23.csv` adds:
-- **Kontakt Home — İradların həlli üzrə inzibatçı — 650–900 AZN — REJECTED_COMP.**
-- **Akabe İnşaat — Mühasib — 700–1000 AZN — REJECTED_COMP.**
-- **Krispy Kreme — Təchizat üzrə mütəxəssis — 1000–1500 AZN — REJECTED_COMP.**
-- **Araz Supermarket — SAP Consultant — CLOSED.** Exact LinkedIn page states no longer accepting applications.
+`REJECTED_RUN24.csv` adds:
+- **Azərbaycan Respublikasının Mərkəzi Bankı — Data Operations / data əməliyyatları üzrə böyük mütəxəssis — EXPIRED.** Current public copy shows deadline 18.08.2026, so stale search copies are not counted.
 
-`VACANCIES.csv` was not changed because no new user-browser confirmation was available. C200–C202 remain `TOOL_SNAPSHOT` pending manual browser verification.
+`VACANCIES.csv` was not changed because no new user-browser confirmation was available. C203–C209 remain `TOOL_SNAPSHOT` pending manual browser verification.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -44,9 +45,9 @@ Added **3** high-quality new candidates, C200–C202; market quality did not jus
 
 ## NEXT ACTION
 1. Continue open-ended search; target roughly 6–10 genuinely useful new candidates per run when the market supports it, but do not pad.
-2. Before deduplication, read `CANDIDATES.csv` and all additive candidate ledgers through `CANDIDATES_RUN23.csv`; current absolute pool is 201. Also read all rejected ledgers through `REJECTED_RUN23.csv`.
+2. Before deduplication, read `CANDIDATES.csv` and all additive candidate ledgers through `CANDIDATES_RUN24.csv`; current absolute pool is 208. Also read all rejected ledgers through `REJECTED_RUN24.csv`.
 3. Prioritize direct AP/Finance Ops; SAP/S4/MDG/master data; finance systems/ERP; controls/reporting; process automation/RPA; data quality/governance; high-value procurement/vendor/P2P and adjacent operations.
-4. Give extra attention to fresh employer/ATS pages, especially newly posted finance-reporting, ERP/data-governance, bank systems and finance-automation roles; record exact access constraints and published compensation where available.
+4. Give extra attention to fresh employer/ATS pages, especially newly posted finance systems/ERP, reporting, bank operations/control, master-data/data-governance and automation roles; record exact access constraints and published compensation where available.
 5. Keep auditing old `UNKNOWN` salaries when fresh published figures surface; remove materially under-target candidates rather than protecting the count.
 6. Formal maintenance when convenient: consolidate additive candidate/rejected ledgers into master CSVs without changing counts.
 7. Preserve browser-verification separation; the user will manually test attractive links later.
