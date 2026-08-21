@@ -1,30 +1,30 @@
 # Job Search Dashboard
 
-> **Candidate pool: 143 total — SEARCH CONTINUES**  
+> **Candidate pool: 150 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-21 around 03:50 AZT.
+> Last search update: 2026-08-21 around 04:55 AZT.
 >
-> The former 100-candidate milestone is historical only. Search continues until an explicit user stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; exact browser availability must still be checked manually before applying.
+> Search continues until an explicit user stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; exact browser availability must still be checked manually before applying.
 
-## Latest additions — C137–C143
+## Latest additions — C144–C150
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **89** | ADJACENT | C Company — Data / Finance Manager | Skills-based | Baku / **30 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-data-finance-manager-145834)** |
-| A | **89** | CORE | C Company — Finance / Data Associate | Unknown | Baku / **30 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-finance-data-associate-147250/vacancies)** |
-| B | **84** | ADJACENT | Ləcheq Farm — Data Analitika üzrə mütəxəssis | Agreement-based | Baku / **30 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsite.az/vakansiya-is-elani/data-analitika-uzre-mutexessis-data-analyst-25049)** |
-| B | **82** | ADJACENT | Novas Group — Audit üzrə mütəxəssis | Interview-based | Baku / **7 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/novas-group-audit-uzre-mutexessis-147871)** |
-| B | **82** | ADJACENT | Novex Group — Satınalma üzrə baş mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/novex-group-satinalma-uzre-bas-mutexessis-148042)** |
-| B | **81** | ADJACENT | Azerbaijan Energy Regulatory Agency — İqtisadi təhlil və statistika üzrə mütəxəssis | Competitive + bonuses | Baku / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/azerbaijan-energy-regulatory-agency-iqtisadi-tehlil-tarif-ve-statistika-sobesi-iqtisadi-tehlil-ve-statistika-sektoru-mutexessis-148251?hl=en)** |
-| B | **77** | ADJACENT | PASHA Bank — Təşkilati Risklərin İdarə Edilməsi üzrə Baş mütəxəssis | Unknown | Baku / **15 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-teskilati-risklerin-idare-edilmesi-uzre-bas-mutexessis-148567)** |
+| A | **89** | ADJACENT | Kontakt Home — Biznes prosesləri üzrə mütəxəssis | Unknown | Baku / **23 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/kontakt-home-biznes-prosesleri-uzre-mutexessis-146701/vacancies)** |
+| A | **85** | ADJACENT | AzerGold — Daxili nəzarət üzrə aparıcı mütəxəssis | Internal grading / competitive rewards | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/daxili-n%C9%99zar%C9%99t-%C3%BCzr%C9%99-apar%C4%B1c%C4%B1-m%C3%BCt%C9%99x%C9%99ssis-qeyri-filiz-yataqlar%C4%B1n%C4%B1n-istismar%C4%B1-idar%C9%99si-daxili-n%C9%99zar%C9%99t-%C5%9F%C3%B6b%C9%99si-at-azergold-%E2%80%8B-cjsc-4427389576)** |
+| B | **84** | ADJACENT | Bir ecosystem — Senior Internal Control Specialist | Competitive + annual bonus | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/senior-internal-control-specialist-birecosystem-at-bir-ecosystem-4376537498)** |
+| B | **82** | CORE | International Company — Payroll Specialist | Competitive salary & benefits | Baku / **27 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-payroll-specialist-146912?hl=en)** |
+| B | **79** | ADJACENT | Giltex — Satınalma Meneceri | Unknown | Baku / **29 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/giltex-satinalma-meneceri-146949)** |
+| B | **78** | CORE | Aral Group Baku — Mühasib | Unknown | Baku / 6-day week | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/m%C3%BChasib-at-aral-group-baku-4372466509)** |
+| B | **77** | ADJACENT | Aceolution — Safety Back Office Executive | Unknown | Baku / Contract | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/safety-back-office-executive-at-aceolution-4436077795)** |
 
 ## Best fits from the latest batch
 
-**C Company — Data / Finance Manager — 89/100.** Payment approvals, authorization controls, banking, management reporting, budget consolidation, receivables/intercompany, variance analysis and Power Query overlap strongly with finance-operations/control experience. Main gaps are investment-holding/private-equity context, treasury/investor reporting, modeling and team leadership.
+**Kontakt Home — Biznes prosesləri üzrə mütəxəssis — 89/100.** ERP-process planning, process analysis, workflow mapping, automation, Excel/Visio and user/process documentation are an unusually strong transfer from ERP/SAP and process-improvement work. Deadline is 23 August, so this is one of the more urgent browser checks.
 
-**C Company — Finance / Data Associate — 89/100.** Deposit/payment reconciliations, treasury support, banking/KYC documentation, P&L/balance/cash reporting, budget trackers, receivables and intercompany work are unusually close to the existing skill set. The junior framing creates compensation risk.
+**AzerGold — Daxili nəzarət üzrə aparıcı mütəxəssis — 85/100.** Internal-control reviews, data analysis, risk identification and recommendations align well with finance controls, reconciliations and audit support.
 
-**Ləcheq Farm — Data Analyst — 84/100.** The role combines financial operations/accounting with dashboards, Excel and Power BI, making it a useful finance-to-data bridge. Direct Power BI and formal analytics experience are the main gaps.
+**Bir ecosystem — Senior Internal Control Specialist — 84/100.** Strong controls/remediation/data fit with good upside, but direct card/payment controls, SQL and stronger English are meaningful gaps. The indexed page is older, so freshness needs manual verification.
 
 ## Browser-confirmed live subset
 
@@ -37,7 +37,8 @@
 
 ## Full ledgers
 
-- **[All candidates → CANDIDATES.csv](./CANDIDATES.csv)**
+- **[Historical master C001–C143 → CANDIDATES.csv](./CANDIDATES.csv)**
+- **[Latest C144–C150 → CANDIDATES_RUN15.csv](./CANDIDATES_RUN15.csv)**
 - **[Browser-confirmed live → VACANCIES.csv](./VACANCIES.csv)**
 - **[Closed / rejected / watch history → REJECTED.csv](./REJECTED.csv)**
 
