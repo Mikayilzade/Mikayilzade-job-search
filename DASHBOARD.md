@@ -1,35 +1,30 @@
 # Job Search Dashboard
 
-> **Candidate pool: 264 unique total — SEARCH CONTINUES**  
-> **Browser-confirmed live: 4**  
-> Updated: 2026-08-21 around 23:55 AZT.
+> **Candidate pool: 265 unique total — SEARCH CONTINUES**  
+> **Browser-confirmed live: 6**  
+> Updated: 2026-08-22 around 00:22 AZT.
 >
-> Counter note: candidate IDs now reach `C265`, but historical `C158` is absent, so the true unique total is **264**.
+> Counter note: candidate IDs now reach `C266`, but historical `C158` is absent, so the true unique total is **265**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest additions — C264–C265
+## User-found live vacancies — 22 Aug
+
+| Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
+|---|---:|---|---|---|---|---|---|
+| B | **79** | ADJACENT | OBA — Maliyyə üzrə Analtik (Logistika üzrə) | Unknown | Baku / **11 Sep** | ✅ USER_BROWSER_LIVE | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-maliyye-uzre-analtik-logistika-uzre-33864807?isLocal=true)** |
+| C | **72** | ADJACENT | OBA — BI & SQL Reporting Specialist (Lead) | Unknown | Baku / **12 Sep** | ✅ USER_BROWSER_LIVE | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-bi-sql-reporting-specialist-lead-30821625?isLocal=true)** |
+
+**OBA — Maliyyə üzrə Analtik (Logistika üzrə) — 79/100.** New candidate `C266`. Supplier purchase/stock analysis, logistics KPI reporting, Excel and variance work are plausible transfers. The important gap is that the role asks for at least one year as a financial analyst and includes annual logistics budgeting and forecasting. Power BI and ACCA FA are preferences rather than hard requirements.
+
+**OBA — BI & SQL Reporting Specialist (Lead) — 72/100.** This was already in the pool as `C124`; the user supplied the current direct Glorri route, so it is now browser-confirmed live rather than a tool snapshot. The historical candidate score was 78, but manual re-review lowers practical fit because **high SQL/complex queries, BI-tool experience and 2–3 years of direct business/data analytics are explicit requirements**. Data quality/governance, business requirements and Excel are strong transferable pieces, but the technical gap is real.
+
+## Latest autonomous additions — C264–C265
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
 | B | **77** | ADJACENT | Agro Food Investments — Operations Planning Specialist | Unknown | Baku / **26 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/logistika-ve-satinalma/emeliyyatlar-uzre-mutexessis/operations-planning-specialist-agro-food-investments-e4d6aa)** |
 | C | **74** | ADJACENT | Company- — SAP Administrator | Unknown | Baku / **24 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://mail.position.az/az/vacancy/sap-administrator-1015623)** |
-
-## Best fits from the latest batch
-
-**Agro Food Investments — Operations Planning Specialist — 77/100.** Operational reporting, KPI analysis, resource planning, Excel/ERP, deviation monitoring and cross-functional process improvement map well to existing operations/reporting strengths. The main limitation is the explicit agricultural production, harvest and resource-planning domain requirement. citeturn477949search0turn477949search2
-
-**Company- — SAP Administrator — 74/100.** SAP/S4 exposure, process understanding, issue triage and change/release documentation create a plausible systems transition, but the role is substantially more technical than business-side SAP operations. The current indexed application window runs through 24 August 2026. citeturn575791search2
-
-## Rejected / watch this run
-
-Fresh listings screened out rather than padding the pool:
-- **FABER Construction — Procurement Specialist:** 1,500–2,000 AZN and partial sixth workday. citeturn624459search0
-- **FABER Construction — Financial Planning Specialist:** 1,000–1,500 AZN. citeturn624459search1
-- **Vertex — Junior Supply Chain Management Specialist:** 600–700 AZN + bonus. citeturn624459search2
-- **Azercell — SAP Logistics (MM/SD/PM) Specialist:** requires 4–6 years direct SAP functional configuration/implementation. citeturn575791search9
-- **Azercell — SAP HCM & SuccessFactors Specialist:** requires 4+ years direct SAP HCM configuration plus SuccessFactors/CPI. citeturn575791search8
-- **Respublika Diaqnostika Mərkəzi — Financial Analyst:** published 1,500 AZN. citeturn168547search3
 
 ## Browser-confirmed live subset
 
@@ -37,19 +32,21 @@ Fresh listings screened out rather than padding the pool:
 |---:|---|---|---|
 | **86** | Xsolla — Finance Coordinator | Unknown | **[Open ↗](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb)** |
 | **79** | Unibank — Financial Efficiency Lead/Chief Specialist | Unknown | **[Open ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29)** |
+| **79** | OBA — Maliyyə üzrə Analtik (Logistika üzrə) | Unknown | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-maliyye-uzre-analtik-logistika-uzre-33864807?isLocal=true)** |
 | **74** | Xsolla — Delivery Manager, Self-Service | **USD 30k–80k/year** | **[Open ↗](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31)** |
+| **72** | OBA — BI & SQL Reporting Specialist (Lead) | Unknown | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-bi-sql-reporting-specialist-lead-30821625?isLocal=true)** |
 | **71** | Bolt — Operations Manager | Unknown | **[Open ↗](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/)** |
 
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN35.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN36.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
 - Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN35.csv`**
 
 ## Verification rule
 
-- ✅ `USER_BROWSER_LIVE` — exact vacancy opened by the user and confirmed available.
+- ✅ `USER_BROWSER_LIVE` — exact vacancy opened/found by the user and confirmed available.
 - ❌ `USER_BROWSER_CLOSED` — user confirmed closed/removed; exclude from active pool.
 - 🟡 `TOOL_SNAPSHOT` — promising/current-looking discovery evidence, not a guarantee of exact browser availability.
 - Always re-open the exact link immediately before tailoring a CV or applying.
