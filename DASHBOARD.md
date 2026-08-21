@@ -1,34 +1,34 @@
 # Job Search Dashboard
 
-> **Candidate pool: 214 total — SEARCH CONTINUES**  
+> **Candidate pool: 220 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-21 around 14:45 AZT.
+> Last search update: 2026-08-21 around 15:40 AZT.
 >
 > Search continues until an explicit user stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; exact browser availability must still be checked manually before applying.
 
-## Latest additions — C210–C215
+## Latest additions — C216–C221
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **92** | CORE | Hyatt Regency — Accounts Payable Clerk | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.viralsplicer.com/en/vacancy/accounts-payable-clerk-148071)** |
-| A | **86** | ADJACENT | Kapital Bank Life — Maliyyə təhlili və idarəetmə hesabatlığı / mütəxəssis-aparıcı | Unknown | Baku / recent index; exact deadline unresolved | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/maliyy%C9%99-t%C9%99hlili-v%C9%99-idar%C9%99etm%C9%99-hesabatl%C4%B1%C4%9F%C4%B1-%C5%9F%C3%B6b%C9%99sinin-m%C3%BCt%C9%99x%C9%99ssisi-apar%C4%B1c%C4%B1-m%C3%BCt%C9%99x%C9%99ssisi-at-kapital-bank-life-4374380487)** |
-| A | **84** | CORE | SAMİRAMİS — Baş mühasib müavini (Xidmət sahəsi üzrə) | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/samiramis-bas-muhasib-muavini-xidmet-sahesi-uzre-148247/vacancies)** |
-| B | **82** | CORE | Qaya Nəqliyyat — Baş Mühasib | **AZN 3,000–5,000/month** | Baku / **28 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/internship-program/qaya-neqliyyat-bas-muhasib-147103/vacancies)** |
-| B | **82** | ADJACENT | PASHA Bank — Daxili Audit üzrə Aparıcı Auditor | Agreement-based | Baku / **30 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/trainings/pasha-bank-daxili-audit-uzre-aparici-auditor-147288/about-company)** |
-| B | **79** | ADJACENT | Xalq Bank — Daxili Audit / Mütəxəssis | Agreement-based | Baku / **28 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/asc-xalq-bank-daxili-audit-idaresinin-daxili-audit-sobesi-147042/vacancies)** |
+| A | **86** | CORE | ABB-İnvest — Aparıcı mühasib | Agreement-based | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/abb-invest-investisiya-sirketi-qsc-aparici-muhasib-148680?hl=az)** |
+| A | **84** | CORE | Europark — Aparıcı Mühasib | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/europark-mmc-aparici-muhasib-148634)** |
+| B | **83** | ADJACENT | Landau Education Group — Xərclərə nəzarət üzrə mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/landau-education-group-xerclere-nezaret-uzre-mutexessis-148664)** |
+| B | **82** | ADJACENT | OBA — Əmək haqqı hesablaması üzrə aparıcı mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/oba-marketler-shebekesi-emek-haqqi-hesablamasi-uzre-aparici-mutexessis-148638)** |
+| B | **81** | CORE | Company — Mühasib | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-muhasib-148500)** |
+| B | **80** | CORE | OBA — Vergi uçotu üzrə mühasib | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/oba-marketler-shebekesi-vergi-ucotu-uzre-muhasib-148682)** |
 
 ## Best fits from the latest batch
 
-**Hyatt Regency — Accounts Payable Clerk — 92/100.** Near-direct match: vendor invoices, expense allocation, payment processing, vendor records and reconciliations. Main unknown is compensation; exact Hyatt ATS/browser state should be checked before applying.
+**ABB-İnvest — Aparıcı mühasib — 86/100.** Strong accounting/Excel fit and a current exact listing; the key issue is mandatory ACCA F7 plus deeper local tax/statutory accounting.
 
-**Kapital Bank Life — Maliyyə təhlili və idarəetmə hesabatlığı — 86/100.** Strong bridge into broader finance: financial-result analysis, management reporting, IFRS support and auditor coordination. Main gaps are deeper IFRS/reporting ownership and high English.
+**Europark — Aparıcı Mühasib — 84/100.** Good senior progression path through close, reporting, expense control and audit support; compensation remains unknown.
 
-**SAMİRAMİS — Baş mühasib müavini — 84/100.** Strong AP/AR, bank/cash, reporting and accounting-process overlap with senior progression; the main transition risk is local statutory/tax/full-statement and 1C ownership.
+**Landau Education Group — Xərclərə nəzarət — 83/100.** Strong transfer from reconciliations, expense controls and variance analysis; food-cost and physical-inventory specifics are the main new domain.
 
 ## Rejected / closed this run
 
-- **Novo Nordisk — Finance Business Partner** — exact LinkedIn page says no longer accepting applications; fresh-looking index cards are stale.
-- **VMF KAFE — Accountant** — fresh listing but published salary **700–750 AZN**, far below target.
+- **Supertoys — Əmək haqqı üzrə mühasib** — published salary **1,200 AZN**, below target.
+- **Retinalab — Satınalma üzrə kiçik mütəxəssis** — published fixed salary **600–800 AZN + KPI**, below target.
 
 ## Browser-confirmed live subset
 
@@ -42,10 +42,10 @@
 ## Full ledgers
 
 - **[Historical master C001–C143 → CANDIDATES.csv](./CANDIDATES.csv)**
-- **[Run 15 → CANDIDATES_RUN15.csv](./CANDIDATES_RUN15.csv)** through **[Run 25 → CANDIDATES_RUN25.csv](./CANDIDATES_RUN25.csv)**
+- **[Run 15 → CANDIDATES_RUN15.csv](./CANDIDATES_RUN15.csv)** through **[Run 26 → CANDIDATES_RUN26.csv](./CANDIDATES_RUN26.csv)**
 - **[Browser-confirmed live → VACANCIES.csv](./VACANCIES.csv)**
 - **[Closed / rejected / watch history → REJECTED.csv](./REJECTED.csv)**
-- **[Latest rejected additions → REJECTED_RUN25.csv](./REJECTED_RUN25.csv)**
+- **[Latest rejected additions → REJECTED_RUN26.csv](./REJECTED_RUN26.csv)**
 
 ## Verification rule
 
