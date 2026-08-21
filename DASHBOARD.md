@@ -1,32 +1,36 @@
 # Job Search Dashboard
 
-> **Candidate pool: 247 total — SEARCH CONTINUES**  
+> **Candidate pool: 251 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Scoring calibration audited: 2026-08-21 around 19:45 AZT.
+> Updated: 2026-08-21 around 20:35 AZT.
+>
+> Counter note: candidate IDs now reach `C252`, but `C158` is absent from the historical ledgers, so the true unique total is **251**, not 252. The previous dashboard display of 247 before Run #31 was one too high; `STATUS.md` already carried the correct 246 unique pre-run count.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 >
 > **Scoring note:** budgeting, forecasting, FP&A, financial modelling, full IFRS/statutory/management/regulatory reporting and chief-accountant ownership are NOT assumed from general finance/AP experience. Roles dominated by these duties are scored as material transitions. Operational KPI/data/reconciliation reporting remains much closer to the profile.
 
-## Latest additions — C241–C247
+## Latest additions — C248–C252
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **88** | CORE | Royale Sea Breeze — Accountant | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/vacancies/royale-sea-breeze-mmc-accountant-148170)** |
-| B | **78** | ADJACENT | Norm — Hesabatlıq üzrə aparıcı mütəxəssis | Unknown | Baku / active index | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://smartjob.az/vacancies?job_category_id%5B%5D=123)** |
-| B | **77** | ADJACENT | Norm — Hesabatlıq üzrə mütəxəssis | Unknown | Baku / active index | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://smartjob.az/vacancies?job_category_id%5B%5D=123)** |
-| B | **81** | ADJACENT | Agro Food Investments — Senior Risk Specialist | Unknown | Baku / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careera.az/job/-senior-risk-specialist)** |
-| C | **74** | STRETCH | Birmarket — Finance Manager / Finance Business Partner of Logistics | Competitive package | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/finance-manager-finance-business-partner-of-logistics-at-birmarket-4202625296)** |
-| B | **76** | ADJACENT | Kapital Bank — Requlyativ hesabatlıq üzrə aparıcı mütəxəssis | Unknown | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muqavileler-uzre-mutexessis/requlyativ-hesabatliq-uzre-aparici-mutexessis-kapital-bank-ab5b22)** |
-| C | **70** | STRETCH | IRES — Baş Mühasib | Unknown | Baku / **29 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/ires-bas-muhasib-147154/vacancies)** |
+| A | **86** | CORE | Safe Life MMC — Mühasib | Agreement-based | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://umano.az/?prop_item=31483&vacancy_type=1)** |
+| A | **85** | ADJACENT | AZAL — Satınalmalar İdarəsi / Sənədləşmə üzrə Mütəxəssis (Document Controller) | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/azerbaycan-hava-yollari-satinalmalar-idaresi-senedlesme-uzre-mutexessis-document-controller/)** |
+| B | **80** | ADJACENT | Xalq Bank — Risk nəzarəti və hesabatlıq şöbəsi / aparıcı-böyük-baş mütəxəssis | Agreement-based | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/asc-xalq-bank-risklerin-idare-edilmesi-idaresinin-risk-nezareti-ve-hesabatliq-sobesinin-apariciboyukbas-mutexessisi-148097/about-company)** |
+| B | **77** | ADJACENT | ATS Food — Maliyyə üzrə baş mütəxəssis | Candidate-dependent | Sumqayit / **22 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/maliyye-uzre-bas-mutexessis-ats-food-fe5f79)** |
+| C | **72** | STRETCH | Company — SAP Administrator | Unknown | Baku / **24 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.position.az/az/vacancy/sap-administrator-1015623)** |
 
 ## Best fits from the latest batch
 
-**Royale Sea Breeze — Accountant — 88/100.** Daily accounting, bank reconciliations, account reconciliations and transaction accuracy make this the closest direct fit in the batch.
+**Safe Life MMC — Mühasib — 86/100.** Accounting/document accuracy, bank/accounting-system work and operational finance discipline are close to the existing profile. Main unknowns are compensation and the breadth of local statutory/1C ownership.
 
-**Agro Food Investments — Senior Risk Specialist — 81/100.** Controls, process mapping, KPI/KRI reporting and stakeholder work transfer reasonably, but formal risk methodology remains a meaningful gap.
+**AZAL — Procurement Document Controller — 85/100.** Procurement documentation, contract tracking, system registration, records control and deadlines map unusually well to P2P/vendor/master-data discipline. Compensation is unpublished.
 
-**Norm — Hesabatlıq üzrə aparıcı mütəxəssis — 78/100.** Excel, validation, reconciliations and process discipline transfer, but direct financial/management-reporting ownership is not established and is now treated as a material gap.
+**Xalq Bank — Risk Control & Reporting — 80/100.** Controls, incident/root-cause analysis, reporting and process governance transfer from reconciliations and audit-support work, while formal banking-risk methodology remains a material gap.
+
+## Rejected / watch this run
+
+Fresh but uneconomic leads were kept out of the pool: Strata material accountant (1500–2000 AZN), Leads Group Supply tender lead (1200–1600 AZN), Homebridge Accounting Specialist (900 AZN net), 145 Group Cost Control (1000–1500 AZN), ATS Food junior risk (500–600 AZN net), and Azera Holding lead accountant (1500 AZN). Sea Breeze Tender Specialist is WATCH because a fresh repost exists but prior same/similar compensation was 1700–2000 AZN and the schedule appears six-day. See `REJECTED_RUN31.csv`.
 
 ## Browser-confirmed live subset
 
@@ -40,9 +44,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN30.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN31.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN30.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN31.csv`**
 
 ## Verification rule
 
