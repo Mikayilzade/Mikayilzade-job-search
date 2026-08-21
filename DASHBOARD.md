@@ -1,8 +1,8 @@
 # Job Search Dashboard
 
 > **Candidate pool: 270 unique total — SEARCH CONTINUES**  
-> **Browser-confirmed live: 6**  
-> Updated: 2026-08-22 around 00:41 AZT.
+> **Browser-confirmed live: 7**  
+> Updated: 2026-08-22 after manual user-found vacancy review.
 >
 > Counter note: candidate IDs now reach `C271`, but historical `C158` is absent, so the true unique total is **270**.
 >
@@ -18,18 +18,19 @@
 | C | **72** | ADJACENT | Xalq Bank — Budget Planning & Expense Control Specialist/Lead range | Unknown | Baku / **30 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/asc-xalq-bank-maliyye-menecmenti-idaresinin-budce-planlasdirilmasi-ve-xerclere-nezaret-sobesinin-mutexessisapariciboyukbas-mutexessisi-147194)** |
 | C | **73** | ADJACENT | Xalq Bank — Financial Analysis & Management Reporting Chief Specialist | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/asc-xalq-bank-maliyye-menecmenti-idaresinin-maliyye-tehlili-ve-idareedici-hesabatliliq-sobesinin-bas-mutexessisi-148259)** |
 
-**U.S. Embassy Baku — Customer Service Center Representative — 85/100.** Despite the title, the actual work is service-request intake/routing, service-performance monitoring against ICASS standards, accurate recordkeeping and follow-up across internal units. Those are close to operations ownership, escalation, controls and multinational stakeholder coordination. The published salary is **USD 23,573/year**. The listing embeds the official open period **12–26 Aug 2026**; use 26 Aug rather than the aggregator shell's later date. Background/security clearance applies.
-
-**Xalq Bank — Operational Risk Senior/Chief Specialist — 75/100.** Process controls, incident/root-cause analysis, document gathering, reporting, coordination and improvement fit the operational-control side of the profile. Direct ERM/operational-risk frameworks and banking regulation remain substantial gaps.
-
-**Xalq Bank — Digital Fraud / Operations Monitoring — 73/100.** Transaction monitoring, exception investigation, detail orientation and payment-process exposure transfer reasonably. The important negatives are direct anti-fraud/banking experience and a **shift schedule**.
-
 ## User-found live vacancies — 22 Aug
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
 | B | **79** | ADJACENT | OBA — Maliyyə üzrə Analtik (Logistika üzrə) | Unknown | Baku / **11 Sep** | ✅ USER_BROWSER_LIVE | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-maliyye-uzre-analtik-logistika-uzre-33864807?isLocal=true)** |
+| C | **74** | ADJACENT | Tabaterra — Aparıcı mühasib | Unknown | Baku / **18 Sep** | ✅ USER_BROWSER_LIVE | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/bas-muhasib/aparici-muhasib-tabaterra-mmc-b56b96)** |
 | C | **72** | ADJACENT | OBA — BI & SQL Reporting Specialist (Lead) | Unknown | Baku / **12 Sep** | ✅ USER_BROWSER_LIVE | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-bi-sql-reporting-specialist-lead-30821625?isLocal=true)** |
+
+**Tabaterra — Aparıcı mühasib — 74/100 (revised from 79).** There is useful overlap in transaction controls, invoice/import accuracy, inventory-accounting reconciliation and ERP discipline. But the vacancy explicitly asks for manufacturing-accounting experience plus 1C 8.3, Azerbaijan tax/statutory knowledge, production/cost accounting, fixed assets and tax-return participation. That is a real transition gap rather than direct AP fit.
+
+## User-found rejected / not worth pursuing
+
+**Target Logistics — Senior Accountant.** Current vacancy publishes **2,000 AZN** and office hours **15:00–01:00, Monday-Friday**. That misses the compensation target and creates a major lifestyle penalty. Duties also include budgeting, logistics financial reporting, inventory valuation and cost analysis, so the functional fit is not strong enough to justify the conditions. Recorded as rejected rather than inflating the candidate pool.
 
 ## Browser-confirmed live subset
 
@@ -39,6 +40,7 @@
 | **79** | Unibank — Financial Efficiency Lead/Chief Specialist | Unknown | **[Open ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29)** |
 | **79** | OBA — Maliyyə üzrə Analtik (Logistika üzrə) | Unknown | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-maliyye-uzre-analtik-logistika-uzre-33864807?isLocal=true)** |
 | **74** | Xsolla — Delivery Manager, Self-Service | **USD 30k–80k/year** | **[Open ↗](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31)** |
+| **74** | Tabaterra — Aparıcı mühasib | Unknown | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/bas-muhasib/aparici-muhasib-tabaterra-mmc-b56b96)** |
 | **72** | OBA — BI & SQL Reporting Specialist (Lead) | Unknown | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-bi-sql-reporting-specialist-lead-30821625?isLocal=true)** |
 | **71** | Bolt — Operations Manager | Unknown | **[Open ↗](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/)** |
 
@@ -47,7 +49,7 @@
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
 - Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN37.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN36.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN37.csv`**
 
 ## Verification rule
 
