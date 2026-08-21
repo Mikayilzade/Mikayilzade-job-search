@@ -2,36 +2,33 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #31 — 2026-08-21 around 20:35 AZT**.
-- **Candidate pool: 251 unique total.**
+- Last completed run: **Autonomous Run #32 — 2026-08-21 around 21:32 AZT**.
+- **Candidate pool: 256 unique total.**
 - **Browser-confirmed live subset: 4.**
 - User-facing interface: `DASHBOARD.md`.
-- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN31.csv`.
-- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN31.csv`.
+- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN32.csv`.
+- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN32.csv`.
 - Repository remains the sole persistent source of truth.
-- Counter reconciliation: candidate IDs reach `C252`, but historical `C158` is absent, so the true unique count is 251. The previous dashboard display of 247 before this run was one too high; the prior `STATUS.md` count of 246 was correct.
+- Counter reconciliation: candidate IDs reach `C257`, but historical `C158` is absent, so the true unique count is 256.
 
 ## User override
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. Continue autonomous search and add new high-quality options until the user explicitly stops the process.
 
 ## Latest run result
-Added **5** new candidates, C248–C252:
-1. **Safe Life MMC — Mühasib — 86 — CORE / Priority A.** Current Umano listing. General accounting, transaction/document accuracy and finance-system discipline fit closely; compensation and local statutory/1C depth remain unknown.
-2. **AZAL — Satınalmalar İdarəsi / Sənədləşmə üzrə Mütəxəssis (Document Controller) — 85 — ADJACENT / Priority A.** Published 13.08.2026 with deadline 13.09.2026. Procurement documents, contracts, system registration, tracking and records control map strongly to P2P/vendor/process strengths.
-3. **Xalq Bank — Risk nəzarəti və hesabatlıq şöbəsinin aparıcı/böyük/baş mütəxəssisi — 80 — ADJACENT / Priority B.** Current JobSearch/Xalq index; deadline 10.09.2026. Controls/reporting/root-cause work transfers well; formal banking-risk frameworks are a material gap.
-4. **ATS Food — Maliyyə üzrə baş mütəxəssis — 77 — ADJACENT / Priority B.** Deadline 22.08.2026. ERP/Excel, audit support and controls transfer, but IFRS/GL/P&L/balance reporting ownership is a material gap and role is in Sumqayit.
-5. **Company — SAP Administrator — 72 — STRETCH / Priority C.** Current Position.az page through 24.08.2026. SAP/change/problem/vendor coordination connects to S4/MDG strengths, but infrastructure/technical SAP administration is a substantial gap.
+Added **5** new candidates, C253–C257:
+1. **Bravo Supermarket Azerbaijan — Internal Control Specialist — 87 — ADJACENT / Priority A.** Employer careers page currently exposes the vacancy/send-CV route. Internal-control testing, business-process reviews, weakness remediation and Excel are unusually transferable; compensation and posting date are unpublished.
+2. **IRES — Procurement Specialist — 86 — ADJACENT / Priority A.** Current exact JobSearch listing; deadline 13.09.2026. PR-to-PO, supplier comparisons, bid sheets, payment terms, contracts and finance coordination strongly match P2P/vendor/ERP strengths.
+3. **Unibank — eCommerce və Ekvayrinq üzrə Mütəxəssis / aparıcı Mütəxəssis — 77 — ADJACENT / Priority B.** Published 21.08.2026; deadline 20.09.2026. Merchant onboarding/partner operations and issue handling transfer, but direct acquiring/commercial growth experience is a gap.
+4. **Bank of Baku — Əməliyyat bölməsinin kiçik eksperti — 75 — ADJACENT / Priority B.** Published 21.08.2026; deadline 22.08.2026. Document validation/system entries/transaction operations fit, but junior title creates serious compensation/seniority risk.
+5. **ABB — Risk data analitiki/aparıcı risk data analitiki — 71 — STRETCH / Priority C.** Published 20.08.2026; deadline 19.09.2026. Large-data/KPI/business-requirement work transfers, while Python/SQL/statistics/ML are major gaps.
 
 ## Rejected / watch this run
-- **Strata — Mal-material üzrə mühasib:** 1,500–2,000 AZN, below target.
-- **Leads Group Supply — Tender üzrə aparıcı mütəxəssis:** 1,200–1,600 AZN, below target.
-- **Homebridge Hotel — Accounting Specialist:** 900 AZN net, below target.
-- **Fostanpak — Daxili audit üzrə kiçik mütəxəssis:** expired and ~700 AZN + fuel, below target.
-- **145 Group — Cost Control Specialist:** 1,000–1,500 AZN, below target.
-- **ATS Food — Biznes risklərinin idarə edilməsi üzrə kiçik mütəxəssis:** 500–600 AZN net, below target.
-- **Azera Holding — Aparıcı Mühasib:** 1,500 AZN, below target.
-- **Sea Breeze — Tender üzrə mütəxəssis:** WATCH; fresh repost exists, but prior same/similar salary was 1,700–2,000 AZN and current schedule appears six-day.
-- **Azəriş LTD — Finance Head:** rejected for excessive full-finance/leadership transition gap.
+- **Supertoys — Payroll Accountant:** 1,200 AZN, below target.
+- **Home Finance BOKT — Senior Finance Specialist:** 1,200 AZN + bonus, below target.
+- **Xalq Bank — Internal Control Monitoring:** mandatory bank monitoring/business-credit experience + master's degree makes transition unattractive versus better controls roles.
+- **ABB — Card Center Assistant:** primarily physical delivery/basic reporting; seniority/economic mismatch.
+- **ABB — Model Risk Specialist/Lead:** Python/SQL/model validation/statistics/ML gap too large.
+- **Xalq Bank — Payment Technology Support:** status conflict; current index exists, but detailed copies carry old deadline and deep Java/SQL/CMS requirements.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
