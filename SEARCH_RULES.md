@@ -56,6 +56,17 @@ Every retained candidate stores all six components; `fit_score` is their arithme
 
 `interview_chance` is separate from fit score.
 
+### Calibration: budgeting / FP&A / financial reporting
+The candidate's demonstrated core is AP / finance operations, reconciliations, month-end support, SAP/S4/MDG, master data, controls, Excel/automation and cross-functional process work. Do **not** infer substantial hands-on ownership of budgeting, forecasting, FP&A, financial modelling, statutory/IFRS financial statements, management reporting, regulatory reporting, tax accounting or chief-accountant duties merely from finance experience.
+
+For roles where one or more of those areas are a **primary duty or explicit experience requirement**:
+- classify as `ADJACENT` or `STRETCH`, not `CORE`, unless the actual duties are predominantly transactional finance operations;
+- reduce `skill_30` and especially `transition_20` in proportion to the missing hands-on ownership;
+- an otherwise strong role dominated by budgeting/forecasting/FP&A or full financial-reporting ownership should normally **not score 85+** without evidence of matching experience;
+- full IFRS/statutory reporting, regulatory reporting, financial modelling, tax ownership or chief-accountant responsibility is a material gap, not a minor gap;
+- reporting that means operational KPI/data extraction/reconciliation/process reporting is much closer to the profile and should be distinguished from preparation/ownership of financial statements;
+- keep high-upside roles when useful, but label the gap plainly and avoid optimistic interview-chance assumptions.
+
 ## Application priority
 - `A` — strongest candidate; inspect/apply early if live and critical unknowns pass.
 - `B` — good candidate.
