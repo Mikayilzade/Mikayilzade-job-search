@@ -1,38 +1,41 @@
 # Job Search Dashboard
 
-> **Candidate pool: 276 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 283 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #38.
+> Updated: 2026-08-22 after Autonomous Run #39.
 >
-> Counter note: candidate IDs now reach `C277`, but historical `C158` is absent, so the true unique total is **276**.
+> Counter note: candidate IDs now reach `C284`, but historical `C158` is absent, so the true unique total is **283**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest autonomous additions — C272–C277
+## Latest autonomous additions — C278–C284
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **84** | ADJACENT | SOCAR Tech — Data Governance Specialist | Unknown | Azerbaijan / **28 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/data-ve-analitika/data-idareetmesi-mutexessisi/data-governance-specialist-socar-tech-4e7fd7)** |
-| A | **82** | ADJACENT | Bank Respublika — Operations Control / Initial Control Specialist or Lead | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/bank-respublika-asc-emeliyyatlara-nezaret-departamentinin-ilkin-nezaret-sobesinin-mutexessisi-aparici-mutexessisi-148700)** |
-| A | **81** | CORE | PASHA Bank — Payment Execution Junior Specialist | Unknown | Baku / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.birjob.com/jobs/hesablasmalar-sobesinin-odenislerin-icrasi-qrupunu-pasha-bank-7103871)** |
-| B | **80** | ADJACENT | Xalq Bank — Payment Systems Senior/Chief Specialist | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://banco.az/az/jobs/odenis-aletleri-idaresinin-odenis-sistemleri-ile-is-sobesinin-aparici-bas-mutexessisi-0)** |
-| B | **76** | ADJACENT | Aqrar Tədarük və Təchizat — Procurement Specialist/Lead/Chief | Agreement-based | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/aqrar-tedaruk-ve-techizat-satinalma-uzre-mutexessis-aparici-mutexessis-148446)** |
-| C | **72** | ADJACENT | Energy Regulatory Agency — Economic Analysis, Tariff & Statistics Specialist | Unknown | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/data-ve-analitika/data-analitik/iqtisadi-tehlil-tarif-ve-statistika-sobesinin-mutexessisi-enerji-meselelerini-te-b41948)** |
+| A | **88** | CORE | Marpro Logistics — Accounts Payable & Receivable Controller | Competitive / market-standard | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/internship-program/marpro-logistics-debitor-ve-kreditor-borclari-uzre-nezaretci-apar-controller-147044)** |
+| A | **84** | CORE | ADA University — Specialist, Accounts Payable | Unknown | Baku / **23 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.ada.edu.az/en/jobs/119-specialist-accounts-payable)** |
+| A | **81** | ADJACENT | FleyLab — Tətbiq və Təlim üzrə Mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://alljobsinone.com/en/vacancy/tetbiq-ve-telim-uzre-mutexessis-148039)** |
+| B | **80** | ADJACENT | IKTEX — Vendor, Bid / Tender Manager | Unknown | Baku / **7 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/iktex-vendor-bid-tender-manager-147921)** |
+| B | **79** | ADJACENT | Baku Electronics — Planlama və satınalma üzrə mütəxəssis / aparıcı mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/baku-electronics-planlama-ve-satinalma-uzre-mutexessis-aparici-mutexessis-148697)** |
+| B | **77** | ADJACENT | Harvesso — Foreign Procurement Specialist | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/harvesso-foreign-procurement-specialist-148468?hl=en)** |
+| C | **72** | STRETCH | Mars Overseas Baku — Büdcə və hesabatlıq üzrə aparıcı mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/mars-overseas-baku-budce-ve-hesabatliq-uzre-aparici-mutexessis-148587?hl=en)** |
 
 ### Best new fits
 
-**SOCAR Tech — Data Governance Specialist — 84/100.** Data quality, metadata, governance controls, business-process design and cross-functional improvement are unusually close to S4/MDG, master-data quality and process-standardization strengths. Main gap is formal enterprise data-governance frameworks/tooling rather than underlying work style.
+**Marpro Logistics — AP/AR Controller — 88/100.** The closest new role this run: direct AP/AR control, reconciliations, payment follow-up and finance-process building. The only major unknown is exact compensation.
 
-**Bank Respublika — Operations Control / Initial Control — 82/100.** Operational checks, daily/monthly reporting, query handling, control review and testing of new products/reports transfer well from reconciliation, audit support, exception handling and finance-process control. Bank regulation is the main domain gap.
+**ADA University — Specialist, Accounts Payable — 84/100.** Direct AP and audit-support fit is strong, but local tax legislation and IFRS/GAAP are explicit requirements. The employer page gives a hard deadline of **23 August 2026**, so this is time-sensitive.
 
-**PASHA Bank — Payment Execution Junior Specialist — 81/100.** Functionally one of the closest new roles: payment execution, transaction validation, documentation, customer/internal support and system registration. The main concern is economic — **junior title and unpublished salary** — so compensation should be verified before investing heavily.
+**FleyLab — Implementation & Training Specialist — 81/100.** A credible non-obvious transition from finance/SAP operations into ERP/software implementation, testing, documentation and user training. Regular client travel and training delivery are the main tradeoffs.
 
-## Rejected / conflict this run
+## Rejected / screened this run
 
-- **Azerimed — Mühasib-operator:** published **600–700 AZN**.
-- **AZAL — Operational Procurement Specialist:** current snapshot deadline **21 Aug 2026**, now expired.
-- **OnWay — Delivery Manager:** six-day schedule, personal-car requirement, uncertain KPI/bonus pay.
-- **PASHA Bank — RPA Junior Specialist:** excellent theoretical fit, but a fresh index conflicts with exact pages showing the prior requisition expired in early August; kept outside the pool until an exact current application page is resolved.
+- **Capital Logistics — Accounts Payable:** **1,500 AZN + KPI**, split late hours ending around 01:00.
+- **VMF KAFE — Accountant:** **700–750 AZN**.
+- **Superstone — Accountant:** six-day schedule; economics/lifestyle not attractive enough.
+- **Baku Shipyard — Junior Accountant:** expired **21 Aug 2026**.
+- **Araz Supermarket — SAP Consultant:** exact snapshot says no longer accepting applications.
+- **Expro — Asset Coordinator/Data Processor internship:** fresh-graduate internship profile, structurally too junior.
 
 ## User-found live vacancies — 22 Aug
 
@@ -57,9 +60,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN38.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN39.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN38.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN39.csv`**
 
 ## Verification rule
 
