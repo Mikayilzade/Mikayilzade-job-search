@@ -1,33 +1,34 @@
 # Job Search Dashboard
 
-> **Candidate pool: 201 total — SEARCH CONTINUES**  
+> **Candidate pool: 208 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-21 around 12:45 AZT.
+> Last search update: 2026-08-21 around 13:40 AZT.
 >
 > Search continues until an explicit user stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; exact browser availability must still be checked manually before applying.
 
-## Latest additions — C200–C202
+## Latest additions — C203–C209
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **86** | ADJACENT | Company — Maliyyə hesabatı üzrə mütəxəssis | Agreement-based | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-maliyye-hesabati-uzre-mutexessis-148936)** |
-| A | **86** | CORE | Radisson Baku Hotel — Accounts Receivable | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/radisson-baku-hotel-accounts-receivable-148494)** |
-| B | **80** | ADJACENT | Qala Group — Baş Təchizat Mütəxəssisi / Senior Procurement Specialist | Candidate-dependent | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/qala-group-bas-techizat-mutexessisi-senior-procurement-specialist-148318)** |
+| A | **91** | CORE | Mars Overseas Baku — Baş mütəxəssis (Mühasibatlıq şöbəsi) | Agreement-based | Baku / **4 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/mars-overseas-baku-bas-mutexessis-muhasibatliq-sobesi-147536)** |
+| B | **84** | ADJACENT | Bank of Baku — Ümumi audit şöbəsinin aparıcı auditoru | Unknown | Baku / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bankofbaku.com/az/vacancies/1504)** |
+| B | **84** | ADJACENT | STP-HEAVY ENGINEERING — Tender məhsullarının alışı üzrə aparıcı mütəxəssis | Agreement-based | Sumqayit/Baku / deadline not exposed | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.stpcareer.com/vakansiyalar)** |
+| B | **82** | ADJACENT | SOCAR Downstream Management — Mal-materialların çatdırılması üzrə mütəxəssis | Agreement-based | Baku / deadline not exposed | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careera.az/company/socar-downstream-management)** |
+| B | **80** | STRETCH | Mars Overseas Baku — Hesabatlıq şöbəsinin rəhbəri | Agreement-based | Baku / **5–6 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/mars-overseas-baku-hesabatliq-sobesinin-rehberi-147776)** |
+| B | **78** | ADJACENT | Bank of Baku — Menecment informasiya sistemləri şöbəsinin eksperti | Unknown | Baku / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bankofbaku.com/az/vacancies/1520)** |
+| C | **76** | STRETCH | Azersun Holding / Azərbaycan Sənaye Bankı — Risklərin təhlili və hesabatlılıq üzrə baş mütəxəssis | Agreement-based | Baku / **9–10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/vacancies/azersun-holding-risklerin-tehlili-ve-hesabatliliq-uzre-bas-mutexessis-148068)** |
 
 ## Best fits from the latest batch
 
-**Company — Maliyyə hesabatı üzrə mütəxəssis — 86/100.** Fresh role with financial-reporting analysis, management reports, budgeting, reporting automation, advanced Excel and Power Query. Main gap is direct consolidated-financial-statements and accounting-policy ownership.
+**Mars Overseas — Baş mütəxəssis (Mühasibatlıq şöbəsi) — 91/100.** Strong combination of ERP functionality oversight, accounting records, internal controls, audits, reporting, training and process improvement. Main gaps are high 1C/1C ERP expectations and broader statutory-accounting ownership.
 
-**Radisson Baku Hotel — Accounts Receivable — 86/100.** Very direct finance-operations fit through receivables, payment follow-up, invoice review, reconciliations, reporting and Excel. Main gaps are 1C fluency and hotel-industry AR.
+**Bank of Baku — Ümumi audit şöbəsinin aparıcı auditoru — 84/100.** Internal-control evaluation, audit testing, financial/operational analysis and findings reporting transfer well from reconciliation, controls and audit-support work. Main gap is direct risk-based internal-audit ownership.
 
-**Qala Group — Senior Procurement Specialist — 80/100.** Strong vendor/P2P/ERP/Excel/reporting transfer and meaningful upside. Main risk is the requirement for five years direct strategic procurement/category-management and complex-negotiation experience.
+**STP-HEAVY ENGINEERING — Tender məhsullarının alışı üzrə aparıcı mütəxəssis — 84/100.** Supplier selection, tender procurement, payment follow-up, contracts and reporting make a strong vendor/P2P transition. Direct sourcing/negotiation and industrial procurement are the main gaps.
 
 ## Rejected / closed this run
 
-- **Kontakt Home — İradların həlli üzrə inzibatçı** — published **650–900 AZN**.
-- **Akabe İnşaat — Mühasib** — published **700–1000 AZN**.
-- **Krispy Kreme — Təchizat üzrə mütəxəssis** — published **1000–1500 AZN**.
-- **Araz Supermarket — SAP Consultant** — exact LinkedIn page says **no longer accepting applications**.
+- **Azərbaycan Respublikasının Mərkəzi Bankı — Data Operations / data əməliyyatları üzrə böyük mütəxəssis** — public vacancy copy shows deadline **18 Aug 2026**, already expired.
 
 ## Browser-confirmed live subset
 
@@ -41,10 +42,10 @@
 ## Full ledgers
 
 - **[Historical master C001–C143 → CANDIDATES.csv](./CANDIDATES.csv)**
-- **[Run 15 → CANDIDATES_RUN15.csv](./CANDIDATES_RUN15.csv)** through **[Run 23 → CANDIDATES_RUN23.csv](./CANDIDATES_RUN23.csv)**
+- **[Run 15 → CANDIDATES_RUN15.csv](./CANDIDATES_RUN15.csv)** through **[Run 24 → CANDIDATES_RUN24.csv](./CANDIDATES_RUN24.csv)**
 - **[Browser-confirmed live → VACANCIES.csv](./VACANCIES.csv)**
 - **[Closed / rejected / watch history → REJECTED.csv](./REJECTED.csv)**
-- **[Latest rejected additions → REJECTED_RUN23.csv](./REJECTED_RUN23.csv)**
+- **[Latest rejected additions → REJECTED_RUN24.csv](./REJECTED_RUN24.csv)**
 
 ## Verification rule
 
