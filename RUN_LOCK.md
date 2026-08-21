@@ -1,9 +1,9 @@
 # Job Search Run Lock
 
-state: FREE
-owner: NONE
-started_at_azt: NONE
-expires_at_azt: NONE
+state: BUSY
+owner: MANUAL_CHAT
+started_at_azt: 2026-08-22 00:34 AZT
+expires_at_azt: 2026-08-22 01:19 AZT
 
 ## Protocol
 This file prevents the manual chat and the scheduled-task chat from modifying the repository at the same time.
