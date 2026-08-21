@@ -1,41 +1,31 @@
 # Job Search Dashboard
 
-> **Candidate pool: 283 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 289 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #39.
+> Updated: 2026-08-22 after Autonomous Run #40.
 >
-> Counter note: candidate IDs now reach `C284`, but historical `C158` is absent, so the true unique total is **283**.
+> Counter note: candidate IDs now reach `C290`, but historical `C158` is absent, so the true unique total is **289**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest autonomous additions — C278–C284
+## Latest autonomous additions — C285–C290
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **88** | CORE | Marpro Logistics — Accounts Payable & Receivable Controller | Competitive / market-standard | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/internship-program/marpro-logistics-debitor-ve-kreditor-borclari-uzre-nezaretci-apar-controller-147044)** |
-| A | **84** | CORE | ADA University — Specialist, Accounts Payable | Unknown | Baku / **23 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.ada.edu.az/en/jobs/119-specialist-accounts-payable)** |
-| A | **81** | ADJACENT | FleyLab — Tətbiq və Təlim üzrə Mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://alljobsinone.com/en/vacancy/tetbiq-ve-telim-uzre-mutexessis-148039)** |
-| B | **80** | ADJACENT | IKTEX — Vendor, Bid / Tender Manager | Unknown | Baku / **7 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/iktex-vendor-bid-tender-manager-147921)** |
-| B | **79** | ADJACENT | Baku Electronics — Planlama və satınalma üzrə mütəxəssis / aparıcı mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/baku-electronics-planlama-ve-satinalma-uzre-mutexessis-aparici-mutexessis-148697)** |
-| B | **77** | ADJACENT | Harvesso — Foreign Procurement Specialist | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/harvesso-foreign-procurement-specialist-148468?hl=en)** |
-| C | **72** | STRETCH | Mars Overseas Baku — Büdcə və hesabatlıq üzrə aparıcı mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/mars-overseas-baku-budce-ve-hesabatliq-uzre-aparici-mutexessis-148587?hl=en)** |
+| A | **89** | CORE | Pizza Mizza — Kreditor borclar və ödənişləri üzrə mühasib | Agreement-based | Baku / **5 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pizza-mizza-kreditor-borclar-ve-odenisleri-uzre-muhasib-147637/vacancies)** |
+| A | **83** | ADJACENT | Milli Aviasiya Akademiyası — Sənədlərə nəzarət üzrə mütəxəssis | Unknown | Baku / fresh **20 Aug** posting | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.birjob.com/jobs/senedlere-nezaret-uzre-mutexessis-milli-aviasiya-akademiyasi-7318696)** |
+| B | **80** | ADJACENT | Enermus — Tender üzrə mütəxəssis | Agreement-based | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/enermus-tender-uzre-mutexessis-148848)** |
+| B | **79** | ADJACENT | İnnovasiya və Rəqəmsal İnkişaf Agentliyi — Daxili Audit üzrə Aparıcı mütəxəssis | Agreement-based | Baku / source conflict **30 Aug vs 5–6 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/innovasiya-ve-reqemsal-inkisaf-agentliyi-daxili-audit-uzre-aparici-mutexessis-147757)** |
+| B | **76** | ADJACENT | PASHA Insurance — Arxiv işi üzrə baş mütəxəssis | Unknown | Baku / **10–11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.position.az/az/vacancy/arxiv-isi-uzre-bas-mutexessis-1015674)** |
+| C | **74** | ADJACENT | Veysəloğlu Şirkətlər Qrupu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis | Unknown | Baku / Sep | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/veyseloglu-sirketler-qrupu-budce-ve-muhasibat-ucotu-uzre-aparici-mutexessis-148586?hl=en)** |
 
 ### Best new fits
 
-**Marpro Logistics — AP/AR Controller — 88/100.** The closest new role this run: direct AP/AR control, reconciliations, payment follow-up and finance-process building. The only major unknown is exact compensation.
+**Pizza Mizza — AP Accountant — 89/100.** Direct AP ownership, invoice processing, three-way matching, supplier balances, weekly payments and expense coding are almost exactly aligned with the profile. Main unresolved question is salary.
 
-**ADA University — Specialist, Accounts Payable — 84/100.** Direct AP and audit-support fit is strong, but local tax legislation and IFRS/GAAP are explicit requirements. The employer page gives a hard deadline of **23 August 2026**, so this is time-sensitive.
+**Milli Aviasiya Akademiyası — Document Control Specialist — 83/100.** Strong transfer through document governance, approvals, revision history, version control, audit support and structured records. Aviation compliance (ICAO/EASA) is the main transition gap.
 
-**FleyLab — Implementation & Training Specialist — 81/100.** A credible non-obvious transition from finance/SAP operations into ERP/software implementation, testing, documentation and user training. Regular client travel and training delivery are the main tradeoffs.
-
-## Rejected / screened this run
-
-- **Capital Logistics — Accounts Payable:** **1,500 AZN + KPI**, split late hours ending around 01:00.
-- **VMF KAFE — Accountant:** **700–750 AZN**.
-- **Superstone — Accountant:** six-day schedule; economics/lifestyle not attractive enough.
-- **Baku Shipyard — Junior Accountant:** expired **21 Aug 2026**.
-- **Araz Supermarket — SAP Consultant:** exact snapshot says no longer accepting applications.
-- **Expro — Asset Coordinator/Data Processor internship:** fresh-graduate internship profile, structurally too junior.
+**Enermus — Tender Specialist — 80/100.** Good vendor/P2P bridge: supplier orders, ERP entries, finance coordination, payment tracking and contract closeout. Direct tender portal and procurement ownership remain the main gap.
 
 ## User-found live vacancies — 22 Aug
 
@@ -60,7 +50,7 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN39.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN40.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
 - Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN39.csv`**
 
