@@ -1,30 +1,30 @@
 # Job Search Dashboard
 
-> **Candidate pool: 239 total — SEARCH CONTINUES**  
+> **Candidate pool: 246 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-21 around 18:45 AZT.
+> Last search update: 2026-08-21 around 19:55 AZT.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest additions — C234–C240
+## Latest additions — C241–C247
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **91** | CORE | Sabah Capital Partners — Kreditor mühasib | Candidate-dependent | Baku / **27 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/sabah-capital-partners-mmc-kreditor-muhasib-146951/vacancies)** |
-| A | **89** | CORE | Sabah Capital Partners — Receivable Accountant | Candidate-dependent | Baku / **26 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/vacancies/sabah-capital-partners-mmc-receivable-accountant-debitor-borclar-uzre-muhasib-tikinti-sahesi-146949)** |
-| A | **86** | CORE | Qafqaz NET — Aparıcı Mühasib | Unknown | Baku / **26 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/internship-program/qafqaz-net-llc-aparici-muhasib-146875/vacancies)** |
-| B | **84** | ADJACENT | PASHA Insurance — Payroll & HR Operations Lead / Senior Specialist | Unknown | Baku / **23 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/vacancies/pasha-insurance-emekhaqqi-ve-insan-resurslari-emeliyyatlari-uzre-aparici-bas-mutexessis-146748)** |
-| B | **82** | ADJACENT | AZCD Group — Xərclərə nəzarət üzrə mütəxəssis | Candidate-dependent | Baku / **24 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/azcd-group-qsc-ru-xerclere-nezaret-uzre-mutexessis-insaat-uzre-138612/vacancies)** |
-| B | **81** | ADJACENT | IRES — Business Controller | Unknown | Baku / **26 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/trainings/ires-business-controller-146916/vacancies)** |
-| B | **79** | CORE | Azerbaijan Automobiles — Aparıcı Mühasib | Interview-based | Baku / **23 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/internship-program/azerbaijan-automobiles-aparici-muhasib-146785/vacancies)** |
+| A | **88** | CORE | Royale Sea Breeze — Accountant | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/vacancies/royale-sea-breeze-mmc-accountant-148170)** |
+| A | **86** | ADJACENT | Norm — Hesabatlıq üzrə aparıcı mütəxəssis | Unknown | Baku / active index | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://smartjob.az/vacancies?job_category_id%5B%5D=123)** |
+| B | **84** | ADJACENT | Kapital Bank — Requlyativ hesabatlıq üzrə aparıcı mütəxəssis | Unknown | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muqavileler-uzre-mutexessis/requlyativ-hesabatliq-uzre-aparici-mutexessis-kapital-bank-ab5b22)** |
+| B | **83** | ADJACENT | Norm — Hesabatlıq üzrə mütəxəssis | Unknown | Baku / active index | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://smartjob.az/vacancies?job_category_id%5B%5D=123)** |
+| B | **82** | ADJACENT | Birmarket — Finance Manager / Finance Business Partner of Logistics | Competitive package | Baku | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/finance-manager-finance-business-partner-of-logistics-at-birmarket-4202625296)** |
+| B | **81** | ADJACENT | Agro Food Investments — Senior Risk Specialist | Unknown | Baku / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careera.az/job/-senior-risk-specialist)** |
+| B | **78** | CORE | IRES — Baş Mühasib | Unknown | Baku / **29 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/ires-bas-muhasib-147154/vacancies)** |
 
 ## Best fits from the latest batch
 
-**Sabah Capital Partners — Kreditor mühasib — 91/100.** Supplier/contractor invoices, payment orders, bank statements, creditor registers, cost-center allocation and reconciliations make this one of the closest new AP matches. Main gaps are 1C and construction-specific Forma 2/3 documents.
+**Royale Sea Breeze — Accountant — 88/100.** Daily accounting, bank reconciliations, account reconciliations and transaction accuracy make this the closest direct fit in the batch.
 
-**Sabah Capital Partners — Receivable Accountant — 89/100.** Strong AP-to-AR bridge through receivables monitoring, invoice/payment posting, schedules and reconciliations. Construction accounting is the main domain gap.
+**Norm — Hesabatlıq üzrə aparıcı mütəxəssis — 86/100.** Reporting, financial-data validation, controls and process improvement form a strong bridge from reconciliation/month-end work into broader reporting.
 
-**Qafqaz NET — Aparıcı Mühasib — 86/100.** Debtor/creditor monitoring, discrepancy resolution, reporting and cross-functional coordination fit strongly; local 1C/e-tax ownership is the main expansion area.
+**Kapital Bank — Requlyativ hesabatlıq üzrə aparıcı mütəxəssis — 84/100.** Financial-data integrity, controls and reporting-process optimization are highly transferable; regulatory reporting and Oracle SQL are the main gaps.
 
 ## Browser-confirmed live subset
 
@@ -38,9 +38,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN29.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN30.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + `REJECTED_RUN19.csv` … **`REJECTED_RUN29.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN30.csv`**
 
 ## Verification rule
 
