@@ -1,32 +1,35 @@
 # Job Search Dashboard
 
-> **Candidate pool: 262 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 264 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Updated: 2026-08-21 around 23:32 AZT.
+> Updated: 2026-08-21 around 23:55 AZT.
 >
-> Counter note: candidate IDs now reach `C263`, but historical `C158` is absent, so the true unique total is **262**.
+> Counter note: candidate IDs now reach `C265`, but historical `C158` is absent, so the true unique total is **264**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest additions — C261–C263
+## Latest additions — C264–C265
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **87** | ADJACENT | AZCON Holding — Data idarəetməsi üzrə baş mütəxəssis | Agreement-based | Baku / current company indexes | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.careera.az/company/azcon-holding)** |
-| B | **82** | ADJACENT | TuranBank — Əməliyyat riskləri üzrə aparıcı / baş mütəxəssis | Agreement-based | Baku / **23 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.position.az/en/vacancy/emeliyyat-riskleri-uzre-aparici-mutexessis-bas-mutexessis-1015611)** |
-| B | **80** | ADJACENT | AZCON Holding — Chief Specialist, Organizational Development and Planning | Agreement-based | Baku / fresh August posting | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://smartjob.az/index.php/vacancy/84187-chief-specialist-organizational-development-and-planning)** |
+| B | **77** | ADJACENT | Agro Food Investments — Operations Planning Specialist | Unknown | Baku / **26 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/logistika-ve-satinalma/emeliyyatlar-uzre-mutexessis/operations-planning-specialist-agro-food-investments-e4d6aa)** |
+| C | **74** | ADJACENT | Company- — SAP Administrator | Unknown | Baku / **24 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://mail.position.az/az/vacancy/sap-administrator-1015623)** |
 
 ## Best fits from the latest batch
 
-**AZCON Holding — Data idarəetməsi üzrə baş mütəxəssis — 87/100.** Data quality standards, metadata, master-data governance, controls, documentation and cross-functional implementation are unusually close to S4/MDG vendor-master and process-standardization strengths. Main gaps are formal enterprise data-governance frameworks/catalog tooling and direct role-title experience.
+**Agro Food Investments — Operations Planning Specialist — 77/100.** Operational reporting, KPI analysis, resource planning, Excel/ERP, deviation monitoring and cross-functional process improvement map well to existing operations/reporting strengths. The main limitation is the explicit agricultural production, harvest and resource-planning domain requirement. citeturn477949search0turn477949search2
 
-**TuranBank — Operational Risk Lead/Chief Specialist — 82/100.** Process mapping, control-gap identification, root-cause analysis, corrective-action tracking and reporting map well to finance controls, reconciliations, audit support and exception management. Banking RCSA/KRI methodology is the main domain gap.
-
-**AZCON Holding — Chief Specialist, Organizational Development and Planning — 80/100.** Process diagnostics, maturity assessments, methodology/procedure improvement, standards and reporting are transferable, but the role is primarily organizational development rather than finance/process operations.
+**Company- — SAP Administrator — 74/100.** SAP/S4 exposure, process understanding, issue triage and change/release documentation create a plausible systems transition, but the role is substantially more technical than business-side SAP operations. The current indexed application window runs through 24 August 2026. citeturn575791search2
 
 ## Rejected / watch this run
 
-**AZCON Holding — Strateji təşəbbüslər üzrə böyük analitik** was excluded because the exact official AZCON vacancy page states the application period has ended, even though aggregators can still surface the title. See `REJECTED_RUN34.csv`.
+Fresh listings screened out rather than padding the pool:
+- **FABER Construction — Procurement Specialist:** 1,500–2,000 AZN and partial sixth workday. citeturn624459search0
+- **FABER Construction — Financial Planning Specialist:** 1,000–1,500 AZN. citeturn624459search1
+- **Vertex — Junior Supply Chain Management Specialist:** 600–700 AZN + bonus. citeturn624459search2
+- **Azercell — SAP Logistics (MM/SD/PM) Specialist:** requires 4–6 years direct SAP functional configuration/implementation. citeturn575791search9
+- **Azercell — SAP HCM & SuccessFactors Specialist:** requires 4+ years direct SAP HCM configuration plus SuccessFactors/CPI. citeturn575791search8
+- **Respublika Diaqnostika Mərkəzi — Financial Analyst:** published 1,500 AZN. citeturn168547search3
 
 ## Browser-confirmed live subset
 
@@ -40,9 +43,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN34.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN35.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN34.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN35.csv`**
 
 ## Verification rule
 
