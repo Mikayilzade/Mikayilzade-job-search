@@ -2,24 +2,30 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Manual user-found vacancy review — 2026-08-22 around 00:22 AZT**.
-- **Candidate pool: 265 unique total.**
+- Last completed run: **Autonomous Run #37 — 2026-08-22 around 00:41 AZT**.
+- **Candidate pool: 270 unique total.**
 - **Browser-confirmed live subset: 6.**
 - User-facing interface: `DASHBOARD.md`.
-- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN36.csv`.
-- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN35.csv`.
+- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN37.csv`.
+- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN36.csv`.
 - Repository remains the sole persistent source of truth.
-- Counter reconciliation: candidate IDs reach `C266`, but historical `C158` is absent, so the true unique count is 265.
+- Counter reconciliation: candidate IDs reach `C271`, but historical `C158` is absent, so the true unique count is 270.
 
 ## User override
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. Continue autonomous search and add new high-quality options until the user explicitly stops the process.
 
-## Manual user-found review — 2026-08-22
-The user supplied two exact OBA Glorri vacancy links and stated he found them himself; both are therefore recorded as `USER_BROWSER_LIVE`.
+## Latest run result
+Added **5** new candidates, C267–C271. The strongest discovery is unusually outside finance but economically attractive and highly transferable:
+1. **U.S. Embassy Baku — Customer Service Center Representative — C267 — 85 — ADJACENT / Priority A.** Published salary USD 23,573/year. The embedded official vacancy announcement says the open period is 12–26 Aug 2026, so use **26 Aug** as the effective application deadline even though the aggregator shell shows a later date. Service-request routing, SLA/performance monitoring, accurate recordkeeping, issue follow-up and multilingual stakeholder support fit strongly. Non-finance role; background/security clearance applies.
+2. **Xalq Bank — Operational Risk Senior/Chief Specialist — C268 — 75 — ADJACENT / Priority B.** Strong overlap in controls, incident/root-cause analysis, reporting and process improvement, but direct operational-risk/ERM and banking-regulatory practice are real gaps. Deadline 28 Aug 2026.
+3. **Xalq Bank — Digital Fraud / Operations Monitoring Specialist — C269 — 73 — ADJACENT / Priority C.** Transaction monitoring, exception investigation and payment-process discipline transfer, but bank/anti-fraud experience and shift work are meaningful gaps. Deadline 18 Sep 2026.
+4. **Xalq Bank — Budget Planning & Expense Control Specialist/Lead range — C270 — 72 — ADJACENT / Priority C.** Expense control, variance analysis, Excel and optimization overlap, but mandatory banking experience plus budgeting/forecasting/modelling ownership make this a stretch. Deadline 30 Aug 2026.
+5. **Xalq Bank — Financial Analysis & Management Reporting Chief Specialist — C271 — 73 — ADJACENT / Priority C.** Dashboard/report automation and cost optimization transfer, but product costing, profitability/ratio analysis and direct finance/risk/treasury-sector experience are broader than the current AP profile. Deadline 12 Sep 2026.
 
-1. **OBA — Maliyyə üzrə Analtik (Logistika üzrə) — C266 — 79 — ADJACENT / Priority B.** This is a genuinely new candidate. Current public copies show logistics-expense analysis, supplier purchase/stock analysis, logistics KPI reporting, annual logistics budget preparation and forecast work. The strongest transferable pieces are Excel, supplier/P2P context, reporting, data discipline and variance analysis. Main gaps: minimum one year direct financial-analyst experience plus actual budgeting/forecasting ownership. Power BI and ACCA FA are preferences, not mandatory. Compensation remains unpublished. Public deadline evidence: around 11 Sep 2026.
-
-2. **OBA — BI & SQL Reporting Specialist (Lead) — existing C124.** Not a new pool addition; it was already present from a JobSearch snapshot. The user supplied the current direct Glorri link, so verification is upgraded to `USER_BROWSER_LIVE`. Manual practical-fit re-review is **72/100** rather than the historical 78 because high SQL/complex-query skills, Power BI/Tableau experience and 2–3 years direct business/data analytics are explicit requirements. Data quality/governance, business requirements, reporting and advanced Excel remain strong transferable components. Public deadline evidence: around 12 Sep 2026.
+## Rejected this run
+- **Xalq Bank — Internal Control Monitoring Specialist:** direct business-credit/borrower monitoring experience required.
+- **Xalq Bank — Payment Technologies Support Specialist:** deeply technical Java/SQL/API/messaging/Linux role rather than business-side payments.
+- **Xalq Bank — Risk Control & Reporting Senior/Chief Specialist:** direct ERM/control-framework/banking-regulation specialization too strong.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -32,10 +38,11 @@ The user supplied two exact OBA Glorri vacancy links and stated he found them hi
 ## NEXT ACTION
 1. Continue open-ended search; target roughly 6–10 genuinely useful new candidates per run when the market supports it, but keep fewer when quality/economics do not justify more.
 2. Prioritize direct AP/Finance Ops, SAP/S4/MDG/master data, finance systems/ERP, treasury/payments/settlements, controls/reporting, process automation/RPA and data quality/governance.
-3. Search fresh employer/ATS sources beyond saturated generic accounting/procurement boards, including Azerbaijan-eligible international remote roles; verify country eligibility explicitly.
-4. Search specifically for business-side SAP/ERP roles rather than technical Basis/ABAP/HCM configuration roles.
-5. Continue early compensation filtering and do not inflate scores for unpublished local salaries.
-6. Dedupe against `CANDIDATES.csv`, all `CANDIDATES_RUN*.csv`, `REJECTED.csv`, and all `REJECTED_RUN*.csv` before every addition.
-7. Preserve browser-verification separation; `VACANCIES.csv` changes only on browser-confirmed evidence.
-8. Treat strong SQL/BI/FP&A/budgeting/forecasting requirements as real gaps unless the user's manual review provides evidence of equivalent experience.
-9. Continue until an explicit user stop instruction is recorded.
+3. Keep searching Glorri/employer-specific local sources because user-found OBA vacancies proved generic searches can miss relevant roles.
+4. Search Azerbaijan-eligible international remote roles and selective Baku international-organization/embassy roles where published compensation and transferable operations skills justify a title change.
+5. Search specifically for business-side SAP/ERP roles rather than technical Basis/ABAP/HCM configuration roles.
+6. Continue early compensation filtering and do not inflate scores for unpublished local salaries.
+7. Dedupe against `CANDIDATES.csv`, all `CANDIDATES_RUN*.csv`, `REJECTED.csv`, and all `REJECTED_RUN*.csv` before every addition.
+8. Preserve browser-verification separation; `VACANCIES.csv` changes only on browser-confirmed evidence.
+9. Treat strong SQL/BI/FP&A/budgeting/forecasting/ERM requirements as real gaps unless evidence shows equivalent experience.
+10. Continue until an explicit user stop instruction is recorded.
