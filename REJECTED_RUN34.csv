@@ -1,0 +1,2 @@
+id,company,title,status,reason,source_url,last_checked,revisit_if
+R_RUN34_01,AZCON Holding,Strateji təşəbbüslər üzrə böyük analitik,EXPIRED,"Current aggregator/company indexes can still surface the title, but the exact official AZCON vacancy page states the application period has ended; employer source wins.",https://azcon.gov.az/az/vacancies/strateji-tesebbusler-uzre-boyuk-analitik-31,2026-08-21,"AZCON posts a fresh requisition with a new current application period"
