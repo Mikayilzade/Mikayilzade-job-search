@@ -1,34 +1,35 @@
 # Job Search Dashboard
 
-> **Candidate pool: 220 total — SEARCH CONTINUES**  
+> **Candidate pool: 225 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-21 around 15:40 AZT.
+> Last search update: 2026-08-21 around 16:45 AZT.
 >
 > Search continues until an explicit user stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; exact browser availability must still be checked manually before applying.
 
-## Latest additions — C216–C221
+## Latest additions — C222–C226
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **86** | CORE | ABB-İnvest — Aparıcı mühasib | Agreement-based | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/abb-invest-investisiya-sirketi-qsc-aparici-muhasib-148680?hl=az)** |
-| A | **84** | CORE | Europark — Aparıcı Mühasib | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/europark-mmc-aparici-muhasib-148634)** |
-| B | **83** | ADJACENT | Landau Education Group — Xərclərə nəzarət üzrə mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/landau-education-group-xerclere-nezaret-uzre-mutexessis-148664)** |
-| B | **82** | ADJACENT | OBA — Əmək haqqı hesablaması üzrə aparıcı mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/oba-marketler-shebekesi-emek-haqqi-hesablamasi-uzre-aparici-mutexessis-148638)** |
-| B | **81** | CORE | Company — Mühasib | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-muhasib-148500)** |
-| B | **80** | CORE | OBA — Vergi uçotu üzrə mühasib | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/oba-marketler-shebekesi-vergi-ucotu-uzre-muhasib-148682)** |
+| A | **84** | CORE | Hydex Logistics — Mühasib | Competitive / agreement-based | Baku / **21 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsite.az/vakansiya-is-elani/muhasib-24415)** |
+| B | **83** | ADJACENT | Azerbaijan SuperMarket — Vergilər üzrə mühasib | Agreement-based | Baku / **24 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/azerbaijan-supermarket-vergiler-uzre-muhasib-146723/vacancies)** |
+| B | **83** | CORE | Heydər Əliyev adına Müasir Təhsil Kompleksi — Mühasib | Agreement-based | Baku / **22 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsite.az/shirketler/heyder-eliyev-adina-muasir-tehsil-kompleksi)** |
+| B | **80** | ADJACENT | PASHA Bank — Mühasibatlıq və Vergi üzrə Baş mütəxəssis | Agreement-based | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/muhasibatliq-ve-vergi-uzre-bas-mutexessis-2255648623)** |
+| B | **78** | ADJACENT | Azerbaijan SuperMarket — Senior Financial Reporting Specialist (IFRS) | Agreement-based | Baku / **5 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsite.az/vakansiya-is-elani/senior-financial-reporting-specialist-ifrs-24654)** |
 
 ## Best fits from the latest batch
 
-**ABB-İnvest — Aparıcı mühasib — 86/100.** Strong accounting/Excel fit and a current exact listing; the key issue is mandatory ACCA F7 plus deeper local tax/statutory accounting.
+**Hydex Logistics — Mühasib — 84/100.** Direct finance/accounting overlap through reporting, bank/cash operations and controls. Deadline is today, so this is the most time-sensitive new role.
 
-**Europark — Aparıcı Mühasib — 84/100.** Good senior progression path through close, reporting, expense control and audit support; compensation remains unknown.
+**Azerbaijan SuperMarket — Vergilər üzrə mühasib — 83/100.** Supplier invoice/payment matching, debtor-creditor data, Excel and accounting-system work are close to AP strengths; the main challenge is the tax-specialist layer.
 
-**Landau Education Group — Xərclərə nəzarət — 83/100.** Strong transfer from reconciliations, expense controls and variance analysis; food-cost and physical-inventory specifics are the main new domain.
+**Heydər Əliyev adına Müasir Təhsil Kompleksi — Mühasib — 83/100.** Strong general accounting transfer and a current Baku listing; exact current detail page and salary still need manual browser confirmation.
 
 ## Rejected / closed this run
 
-- **Supertoys — Əmək haqqı üzrə mühasib** — published salary **1,200 AZN**, below target.
-- **Retinalab — Satınalma üzrə kiçik mütəxəssis** — published fixed salary **600–800 AZN + KPI**, below target.
+- **QEBELE BROYLER — Mühasib** — published salary **600–800 AZN**, below target.
+- **Music House — Mühasib-Operator** — **600–1,000 AZN**, below target.
+- **Master Blend — Mühasib** — **from 1,800 AZN**, below target.
+- **ENEM Consulting Services — Aparıcı mühasib** — **800–1,200 AZN**, below target.
 
 ## Browser-confirmed live subset
 
@@ -42,10 +43,10 @@
 ## Full ledgers
 
 - **[Historical master C001–C143 → CANDIDATES.csv](./CANDIDATES.csv)**
-- **[Run 15 → CANDIDATES_RUN15.csv](./CANDIDATES_RUN15.csv)** through **[Run 26 → CANDIDATES_RUN26.csv](./CANDIDATES_RUN26.csv)**
+- **[Run 15 → CANDIDATES_RUN15.csv](./CANDIDATES_RUN15.csv)** through **[Run 27 → CANDIDATES_RUN27.csv](./CANDIDATES_RUN27.csv)**
 - **[Browser-confirmed live → VACANCIES.csv](./VACANCIES.csv)**
 - **[Closed / rejected / watch history → REJECTED.csv](./REJECTED.csv)**
-- **[Latest rejected additions → REJECTED_RUN26.csv](./REJECTED_RUN26.csv)**
+- **[Latest rejected additions → REJECTED_RUN27.csv](./REJECTED_RUN27.csv)**
 
 ## Verification rule
 
