@@ -2,37 +2,28 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #15 — 2026-08-21 around 04:55 AZT**.
-- **Candidate pool: 150 total.**
+- Last completed run: **Autonomous Run #16 — 2026-08-21 around 05:45 AZT**.
+- **Candidate pool: 157 total.**
 - **Browser-confirmed live subset: 4.**
 - User-facing interface: `DASHBOARD.md`.
 - Historical master ledger: `CANDIDATES.csv` (C001–C143).
-- Latest additive ledger: `CANDIDATES_RUN15.csv` (C144–C150). Treat both files together as the current 150-candidate source of truth until consolidation.
+- Additive ledgers: `CANDIDATES_RUN15.csv` (C144–C150) and `CANDIDATES_RUN16.csv` (C151–C157). Treat all three together as the current 157-candidate source of truth until consolidation.
 - Repository remains the sole persistent source of truth.
 
 ## User override
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. Continue adding high-quality options until the user explicitly stops the process.
 
 ## Latest run result
-Added **7** new candidates, C144–C150:
-1. **Kontakt Home — Biznes prosesləri üzrə mütəxəssis — 89 — ADJACENT / Priority A.** ERP-process planning, business-process analysis, workflow mapping, automation opportunities, Excel/Visio, procedures, user training and process-performance work align unusually well with the candidate's ERP/process-improvement strengths. Current JobSearch page states deadline 23.08.2026. Main gaps: formal BPM/Lean Six Sigma and implementation-project ownership; salary unpublished.
-2. **AzerGold — Daxili nəzarət üzrə aparıcı mütəxəssis — 85 — ADJACENT / Priority A.** Process-control reviews, data collection/analysis, risk identification, recommendations and internal-control assessment map strongly from finance controls, reconciliations and audit support. Exact LinkedIn page remains current-looking; browser confirmation required. Main gap: direct internal-control ownership in mining/operations.
-3. **Bir ecosystem — Senior Internal Control Specialist — 84 — ADJACENT / Priority B.** Control testing, evidence review, findings/remediation, data analysis, process governance and payments context fit well; benefits describe competitive compensation plus annual performance bonus. Main gaps: payment/card-processing controls, SQL, formal risk/audit certification and strong English. Exact page is older, so freshness must be browser-checked.
-4. **International Company — Payroll Specialist — 82 — CORE / Priority B.** Payroll-related reconciliations, employee-data accuracy, HR/Finance coordination, reporting, audit support, advanced Excel and ERP preference transfer from disciplined finance operations. Current JobSearch page states deadline 27.08.2026 and competitive salary/benefits. Main gap: direct payroll and local payroll-law/tax/social-insurance expertise.
-5. **Giltex — Satınalma Meneceri — 79 — ADJACENT / Priority B.** Supplier relationships, procurement strategy, cost optimization, risk reduction and vendor controls are transferable. Current JobSearch index states deadline 29.08.2026. Main gaps: procurement-manager leadership, strategic sourcing and negotiation ownership.
-6. **Aral Group Baku — Mühasib — 78 — CORE / Priority B.** Invoices/contracts, debtor tracking, daily cash/accounting operations and monthly reporting fit finance operations, but the 6-day schedule materially reduces lifestyle score; salary is unpublished.
-7. **Aceolution — Safety Back Office Executive — 77 — ADJACENT / Priority B.** Documentation, trackers/databases, data verification, discrepancy handling, reports, audit-ready records, SOPs and quality checks transfer from controlled back-office finance work. Main risks: safety domain, contract employment and unpublished pay.
+Added **7** new candidates, C151–C157:
+1. **OBA Market — Xərclər üzrə mühasib — 89 — CORE / Priority A.** Expense allocation/accounting, document checks, current-account reconciliations, payment routing, contract/bonus matching and expense analysis are unusually close to AP/reconciliation/process-control strengths. OBA's current Glorri company index, crawled two days ago, lists a fresh 04.08.2026 repost. Exact current detail URL and salary remain unresolved, so this is `TOOL_SNAPSHOT`.
+2. **OBA Market — Maddi Vəsaitlər üzrə Mühasib — 86 — CORE / Priority A.** Inventory/material-asset accounting, purchase-document controls, debtor/creditor reconciliations, payment planning, logistics-cost reporting and ERP discipline fit finance operations well. Current OBA Glorri index lists the role dated 03.08.2026; exact detail page still needs browser verification.
+3. **OBA Market — Əmək haqqı hesablaması üzrə aparıcı mütəxəssis — 84 — ADJACENT / Priority B.** SAP payroll cycle, data validation, final settlements and payment execution transfer from controlled finance operations. Current sources show deadline 11.09.2026. Main gap: direct payroll plus Azerbaijan labor/tax/social-insurance calculations.
+4. **ABB-İnvest — Əməliyyat Riskləri üzrə Aparıcı Mütəxəssis — 84 — ADJACENT / Priority B.** Process-risk gaps, incident/root-cause tracking, corrective actions, RCSA/KRI monitoring and third-party process risk map strongly to controls/audit/process-improvement skills. Current JobSearch/SmartJob copies are fresh August listings; JobSearch shows deadline 14.09.2026.
+5. **U.S. Embassy Baku — Customer Service Center Representative — 83 — ADJACENT / Priority B.** Service-request tracking, standards/SLA monitoring, record keeping, issue routing and cross-unit coordination fit structured operations. Published salary is **USD 23,573/year** and the vacancy is open to all interested applicants; announcement text gives open period **12–26 Aug 2026**. Main gap is the non-finance/customer-service orientation and the requirement for Good Working Knowledge in English, Azerbaijani and Russian.
+6. **Aqrar Tədarük və Təchizat — Satınalma üzrə mütəxəssis / aparıcı / baş mütəxəssis — 83 — ADJACENT / Priority B.** Procurement documentation, supplier/market research, annual purchasing planning, contracts and cross-functional coordination fit P2P/vendor strengths. Fresh August sources confirm the role; direct public-procurement law and 3+ years procurement ownership are the main gaps. Deadline differs across current copies, so browser verification is important.
+7. **Falcon Finance — Audit — 78 — ADJACENT / Priority B.** Financial-resource planning review, operational/process controls, evidence checking, risk identification and reporting transfer from finance controls and audit support. Current JobSearch page shows deadline 13.09.2026. Direct BOKT audit ownership is the main gap.
 
-## Exclusions identified in this run
-- **Chronos Consulting — Finance Manager:** exact LinkedIn page says no longer accepting applications; do not count.
-- **Homebridge Hotel Apartments — Accounting Specialist:** 900 AZN net; materially below target.
-- **Baku Shipyard — Junior Accountant:** 1,000 AZN; below target.
-- **Baltic Transline Azerbaijan — Debt Collection Manager:** salary starts from 900 AZN net; below target despite transferable AR/collections work.
-- **PwC Azerbaijan — Senior Consultant, Deals:** employer application deadline was 17.08.2026; expired.
-- **AzerGold — Project Manager:** exact LinkedIn page says no longer accepting applications.
-These are recorded here for deduplication; formal REJECTED.csv consolidation remains a maintenance action for a later run.
-
-`VACANCIES.csv` was not changed because no new user-browser confirmation was available. All C144–C150 remain `TOOL_SNAPSHOT` pending manual browser verification.
+`VACANCIES.csv` was not changed because no new user-browser confirmation was available. All C151–C157 remain `TOOL_SNAPSHOT` pending manual browser verification.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -49,9 +40,9 @@ These are recorded here for deduplication; formal REJECTED.csv consolidation rem
 
 ## NEXT ACTION
 1. Continue open-ended search; target roughly 6–10 genuinely useful new candidates per run when the market supports it.
-2. **Before deduplication, read both `CANDIDATES.csv` and `CANDIDATES_RUN15.csv`**; current absolute pool is 150.
+2. Before deduplication, read `CANDIDATES.csv`, `CANDIDATES_RUN15.csv`, and `CANDIDATES_RUN16.csv`; current absolute pool is 157.
 3. Prioritize direct AP/Finance Ops; SAP/S4/MDG/master data; finance systems/ERP; controls/reporting; process automation/RPA; data quality/governance; high-value procurement/vendor/P2P and adjacent operations.
-4. Expand current employer/ATS searches in Baku and explicitly Azerbaijan-eligible remote markets; record exact access constraints.
-5. Formal maintenance when convenient: consolidate `CANDIDATES_RUN15.csv` into `CANDIDATES.csv` and move the six run-15 exclusions into `REJECTED.csv`, without changing the absolute counts or rediscovering them.
+4. Expand employer/ATS searches in Baku and explicitly Azerbaijan-eligible remote markets; record exact access constraints and published compensation where available.
+5. Formal maintenance when convenient: consolidate additive candidate ledgers into `CANDIDATES.csv` and run-15 exclusions into `REJECTED.csv` without changing counts.
 6. Preserve browser-verification separation; the user will manually test attractive links later.
 7. Continue until an explicit user stop instruction is recorded.
