@@ -1,34 +1,32 @@
 # Job Search Dashboard
 
-> **Candidate pool: 256 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 259 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Updated: 2026-08-21 around 21:32 AZT.
+> Updated: 2026-08-21 around 22:32 AZT.
 >
-> Counter note: candidate IDs now reach `C257`, but historical `C158` is absent, so the true unique total is **256**.
+> Counter note: candidate IDs now reach `C260`, but historical `C158` is absent, so the true unique total is **259**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest additions — C253–C257
+## Latest additions — C258–C260
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **87** | ADJACENT | Bravo Supermarket Azerbaijan — Internal Control Specialist | Unknown | Baku / deadline not exposed | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://bravosupermarket.az/en/career/all-vacancies/head-office/internal-control-specialist/)** |
-| A | **86** | ADJACENT | IRES — Procurement Specialist | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/trainings/ires-procurement-specialist-148546/vacancies)** |
-| B | **77** | ADJACENT | Unibank — eCommerce & Acquiring Specialist / Lead Specialist | Agreement-based | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/ecommerce-ve-ekvayrinq-uzre-mutexessis-aparici-mutexessis-2224535037)** |
-| B | **75** | ADJACENT | Bank of Baku — Operations Unit Junior Expert | Agreement-based | Baku / **22 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/emeliyyat-bolmesinin-kicik-eksperti-1539)** |
-| C | **71** | STRETCH | ABB — Risk Data Analyst / Lead Risk Data Analyst | Agreement-based | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/risk-helleri-sahesinin-risk-data-analitiki-aparici-risk-data-analitiki-5211)** |
+| A | **86** | ADJACENT | Expressbank — Payment Systems / Bank Card Settlements Lead Specialist | Agreement-based | Baku / employer page **9 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://expressbank.az/az/page/karyera)** |
+| B | **79** | ADJACENT | Tabaterra — Aparıcı mühasib | Unknown | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/tabaterra-aparici-muhasib-148726)** |
+| C | **75** | STRETCH | Tabaterra — Böyük Maliyyə Analitiki | Unknown | Baku / **2 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/maliyye-analitiki-2/boyuk-maliyye-analitiki-tabaterra-mmc-8165ca)** |
 
 ## Best fits from the latest batch
 
-**Bravo Supermarket Azerbaijan — Internal Control Specialist — 87/100.** Internal-control testing, process reviews, evidence/report preparation and remediation follow-up map closely to reconciliations, audit support, controls and process-improvement strengths. Compensation is unpublished.
+**Expressbank — Payment Systems / Bank Card Settlements Lead Specialist — 86/100.** Clearing-file uploads, account controls, payment-system interaction, processing-center files and payment/card reporting map unusually well to payment operations, reconciliations, ERP discipline and transaction controls. Main gap: 2–4 years of direct banking settlements/card-payment-system experience; compensation amount is unpublished.
 
-**IRES — Procurement Specialist — 86/100.** Purchase requisitions, POs, bid comparisons, supplier terms, contracts and Finance coordination strongly match P2P/vendor/ERP experience; direct sourcing/negotiation ownership is the main gap.
+**Tabaterra — Aparıcı mühasib — 79/100.** Accounting controls, ERP transaction discipline and inventory/material records overlap with finance-operations strengths, but Azerbaijan tax/statutory ownership and manufacturing accounting are material gaps.
 
-**Unibank — eCommerce & Acquiring Specialist — 77/100.** Merchant onboarding, partner operations and issue handling are transferable, though the commercial/acquiring side is a meaningful transition.
+**Tabaterra — Böyük Maliyyə Analitiki — 75/100.** High-upside stretch because Excel/KPI automation, working-capital, AR/AP turnover, ERP/data quality and process improvement transfer well. However, the role directly owns budgeting, forecasting, profitability/manufacturing-cost analysis and NPV/IRR modeling, so it is deliberately not scored as a near-direct fit.
 
 ## Rejected / watch this run
 
-Kept out of the pool: Supertoys Payroll Accountant (**1,200 AZN**), Home Finance Senior Finance Specialist (**1,200 AZN + bonus**), Xalq Bank Internal Control Monitoring (mandatory banking credit-monitoring background), ABB Card Center Assistant (seniority/economic mismatch), ABB Model Risk Specialist (Python/SQL/ML/model-validation gap), and Xalq Bank Payment Technology Support (freshness conflict + deep technical requirements). See `REJECTED_RUN32.csv`.
+Five current-looking roles were kept out after compensation verification: **AzəriMed Program Project Support (527–700 AZN)**, **IRES Receivables Accountant (1,500–1,800 AZN net)**, **Harvesso Foreign Procurement Specialist (800 AZN net + bonus)**, **Baku Shipyard Junior Accountant (1,000 AZN)**, and **Aviation Services Group Lead Procurement Specialist (1,900 AZN net)**. See `REJECTED_RUN33.csv`.
 
 ## Browser-confirmed live subset
 
@@ -42,9 +40,9 @@ Kept out of the pool: Supertoys Payroll Accountant (**1,200 AZN**), Home Finance
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN32.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN33.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN32.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN33.csv`**
 
 ## Verification rule
 
