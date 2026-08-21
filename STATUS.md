@@ -2,31 +2,31 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #18 — 2026-08-21 around 07:40 AZT**.
-- **Candidate pool: 171 total.**
+- Last completed run: **Autonomous Run #19 — 2026-08-21 around 08:50 AZT**.
+- **Candidate pool: 177 total.**
 - **Browser-confirmed live subset: 4.**
 - User-facing interface: `DASHBOARD.md`.
 - Historical master ledger: `CANDIDATES.csv` (C001–C143).
-- Additive ledgers: `CANDIDATES_RUN15.csv` (C144–C150), `CANDIDATES_RUN16.csv` (C151–C157), `CANDIDATES_RUN17.csv` (C159–C165 after correction), and `CANDIDATES_RUN18.csv` (C166–C172). Treat all together as the current 171-candidate source of truth until consolidation.
+- Additive ledgers: `CANDIDATES_RUN15.csv` (C144–C150), `CANDIDATES_RUN16.csv` (C151–C157), `CANDIDATES_RUN17.csv` (C159–C165 after correction), `CANDIDATES_RUN18.csv` (C166–C172), and `CANDIDATES_RUN19.csv` (C173–C178). Treat all together as the current 177-candidate source of truth until consolidation.
+- Rejected history is in `REJECTED.csv` plus additive `REJECTED_RUN19.csv` for this run's newly confirmed low-compensation items.
 - Repository remains the sole persistent source of truth.
 
 ## User override
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. Continue adding high-quality options until the user explicitly stops the process.
 
-## Data correction this run
-- Removed **C158 IRES — Receivables Accountant** from the active candidate pool because fresh exact-source evidence confirms **1,500–1,800 AZN net**, materially below the 2,500 AZN net target. The role remains preserved as `R045` in `REJECTED.csv`. This corrects the prior run's salary-unknown classification.
-
 ## Latest run result
-Added **7** new candidates, C166–C172. Net pool change is **+6** because of the C158 correction.
-1. **Landau Education Group — Aparıcı Mühasib — 88 — CORE / Priority A.** Customer-payment postings, bank-payment monitoring, debtor tracking/analysis, Excel and cross-functional finance work fit strongly. Current JobSearch deadline: 10.09.2026.
-2. **Xalq Bank — Bank Fəaliyyətinə Dəstək / Bank sistemlərinin fəaliyyətinə dəstək — 86 — ADJACENT / Priority A.** Requirements, As-Is/To-Be mapping, testing, automated-process monitoring, issue investigation, user support and vendor coordination create a strong ERP/process-support bridge. Current careers page still lists the role; current banking index gives deadline 10.09.2026.
-3. **Xalq Bank — Daxili Nəzarət / Əməliyyatların icrasına nəzarət — 85 — ADJACENT / Priority A.** Operational checks, periodic reporting, registers, Excel and control discipline align closely with reconciliations/audit-support experience. Current employer careers page lists the role; exact current deadline needs browser confirmation.
-4. **Baku Electronics — Marketinq layihələrinin idarə edilməsi üzrə mütəxəssis — 82 — ADJACENT / Priority B.** Official employer page lists the role through 15.09.2026. Scope/budget/schedule, vendor coordination, risks, issues and management reporting transfer well from process ownership.
-5. **Push30 — Lead Financial Analyst — 81 — ADJACENT / Priority B.** Strong bridge into FP&A/reporting, but mandatory ACCA FA/FR/FM or CFA Level 1 is a serious gap. Current deadline 07.09.2026.
-6. **Trilogy — Finance Operations Manager — 75 — STRETCH / Priority C.** Worldwide fully remote and published **USD 100,000/year**; invoices/payments/reconciliations/process quality are highly relevant, but professional certification, Big4 audits, people-management and US-hours requirements make interview probability low.
-7. **Klaxon Ltd — Marketinq və əməliyyatlar üzrə koordinator — 75 — ADJACENT / Priority B.** Supplier/customer/internal coordination and task tracking transfer well, but marketing scope and a six-day schedule reduce attractiveness. Current deadline 11.09.2026.
+Added **6** new candidates, C173–C178:
+1. **Marpro Logistics — AP/AR Controller — 91 — CORE / Priority A.** Direct AP/AR ownership, payment discipline, receivables collection, credit limits and cross-country finance coordination. Current JobSearch deadline: 28.08.2026. Compensation described as competitive/market-based but no amount published.
+2. **Tabaterra — Böyük Maliyyə Mütəxəssisi — 89 — ADJACENT / Priority A.** AP/AR, liquidity, budgeting, cost analysis, reporting, internal controls, audit support and ERP workflow automation make this a high-value finance progression. Current deadline: 02.09.2026.
+3. **Bank Respublika — Əməliyyatlara Nəzarət / İlkin Nəzarət — 86 — ADJACENT / Priority A.** Transaction compliance, pre/post control, exception/query handling and cross-unit coordination map strongly to reconciliation/control experience. Fresh employer/company vacancy index lists the role on 18.08.2026; exact deadline needs browser confirmation.
+4. **Rabitəbank — Corporate Operations Operator — 85 — ADJACENT / Priority A.** Corporate account operations, cash/non-cash transaction entry, SWIFT/AZIPS-related processing, documentation and reporting are strong transferable operational-finance skills. Current deadline: 18.09.2026.
+5. **Novex Group — Satınalma üzrə baş mütəxəssis — 82 — ADJACENT / Priority B.** ERP/1C procurement, suppliers, budgets and cost optimization fit P2P/vendor strengths; direct five-year procurement/team-lead ownership remains the main gap. Current deadline: 10.09.2026.
+6. **Bank of Baku — Ümumi audit şöbəsinin auditoru — 82 — ADJACENT / Priority B.** Internal controls, audit tests, financial/operational data analysis and risk reporting fit well. Deadline is **21.08.2026**, so manual browser verification is urgent today.
 
-`VACANCIES.csv` was not changed because no new user-browser confirmation was available. All C166–C172 remain `TOOL_SNAPSHOT` pending manual browser verification.
+## Rejected this run
+`REJECTED_RUN19.csv` preserves six low-compensation/expired leads found during fresh search, including Capital Logistics AP (1,500 AZN), Baku Shipyard Junior Accountant (1,000 AZN), Home Finance (1,200 AZN + bonus), UHY (500–600 AZN net), Groupone (1,000 AZN), and Agro-West Tax Accountant (1,500–1,800 AZN net). These must not be recycled into the active pool without materially improved compensation.
+
+`VACANCIES.csv` was not changed because no new user-browser confirmation was available. All C173–C178 remain `TOOL_SNAPSHOT` pending manual browser verification.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -43,10 +43,10 @@ Added **7** new candidates, C166–C172. Net pool change is **+6** because of th
 
 ## NEXT ACTION
 1. Continue open-ended search; target roughly 6–10 genuinely useful new candidates per run when the market supports it.
-2. Before deduplication, read `CANDIDATES.csv`, `CANDIDATES_RUN15.csv`, `CANDIDATES_RUN16.csv`, `CANDIDATES_RUN17.csv`, and `CANDIDATES_RUN18.csv`; current absolute pool is 171.
+2. Before deduplication, read `CANDIDATES.csv` and all `CANDIDATES_RUN15.csv` through `CANDIDATES_RUN19.csv`; current absolute pool is 177. Also read `REJECTED.csv` and `REJECTED_RUN19.csv`.
 3. Prioritize direct AP/Finance Ops; SAP/S4/MDG/master data; finance systems/ERP; controls/reporting; process automation/RPA; data quality/governance; high-value procurement/vendor/P2P and adjacent operations.
-4. Expand employer/ATS searches in Baku and explicitly Azerbaijan-eligible remote markets; record exact access constraints and published compensation where available.
+4. Expand current employer/ATS searches in Baku and explicitly Azerbaijan-eligible remote markets; record exact access constraints and published compensation where available.
 5. Keep auditing old `UNKNOWN` salaries when fresh published figures surface; remove materially under-target candidates rather than protecting the count.
-6. Formal maintenance when convenient: consolidate additive candidate ledgers into `CANDIDATES.csv` without changing counts.
+6. Formal maintenance when convenient: consolidate additive candidate/rejected ledgers into master CSVs without changing counts.
 7. Preserve browser-verification separation; the user will manually test attractive links later.
 8. Continue until an explicit user stop instruction is recorded.
