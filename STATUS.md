@@ -2,36 +2,32 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #35 — 2026-08-21 around 23:55 AZT**.
-- **Candidate pool: 264 unique total.**
-- **Browser-confirmed live subset: 4.**
+- Last completed run: **Manual user-found vacancy review — 2026-08-22 around 00:22 AZT**.
+- **Candidate pool: 265 unique total.**
+- **Browser-confirmed live subset: 6.**
 - User-facing interface: `DASHBOARD.md`.
-- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN35.csv`.
+- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN36.csv`.
 - Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN35.csv`.
 - Repository remains the sole persistent source of truth.
-- Counter reconciliation: candidate IDs reach `C265`, but historical `C158` is absent, so the true unique count is 264.
+- Counter reconciliation: candidate IDs reach `C266`, but historical `C158` is absent, so the true unique count is 265.
 
 ## User override
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. Continue autonomous search and add new high-quality options until the user explicitly stops the process.
 
-## Latest run result
-Added **2** new candidates, C264–C265. The batch was intentionally small because fresh local searches produced many under-target or overly technical roles:
-1. **Agro Food Investments — Operations Planning Specialist — 77 — ADJACENT / Priority B.** Current HRX/BirJob copies show a Baku full-time role through 26.08.2026. KPI reporting, resource planning, Excel/ERP, deviation analysis, cross-functional coordination and process improvement transfer well. Main gap: direct agricultural production/harvest/resource planning experience; compensation unpublished.
-2. **Company- — SAP Administrator — 74 — ADJACENT / Priority C.** Current Position.az listing runs through 24.08.2026. SAP/S4 familiarity, process understanding, issue triage, change/release documentation and user support create a plausible systems bridge, but infrastructure/application administration and production technical ownership are substantial gaps. Employer identity and salary are undisclosed.
+## Manual user-found review — 2026-08-22
+The user supplied two exact OBA Glorri vacancy links and stated he found them himself; both are therefore recorded as `USER_BROWSER_LIVE`.
 
-## Rejected / watch this run
-- **FABER Construction — Procurement Specialist:** fresh listing, but 1,500–2,000 AZN and partial sixth workday.
-- **FABER Construction — Financial Planning Specialist:** fresh listing, but 1,000–1,500 AZN and direct budgeting/forecasting gap.
-- **Vertex — Junior Supply Chain Management Specialist:** 600–700 AZN + bonus; far below target.
-- **Azercell — SAP Logistics (MM/SD/PM) Specialist:** requires 4–6 years direct functional configuration/implementation.
-- **Azercell — SAP HCM & SuccessFactors Specialist:** requires 4+ years SAP HCM configuration plus SuccessFactors/CPI.
-- **Respublika Diaqnostika Mərkəzi — Financial Analyst:** current through late August but published 1,500 AZN.
+1. **OBA — Maliyyə üzrə Analtik (Logistika üzrə) — C266 — 79 — ADJACENT / Priority B.** This is a genuinely new candidate. Current public copies show logistics-expense analysis, supplier purchase/stock analysis, logistics KPI reporting, annual logistics budget preparation and forecast work. The strongest transferable pieces are Excel, supplier/P2P context, reporting, data discipline and variance analysis. Main gaps: minimum one year direct financial-analyst experience plus actual budgeting/forecasting ownership. Power BI and ACCA FA are preferences, not mandatory. Compensation remains unpublished. Public deadline evidence: around 11 Sep 2026.
+
+2. **OBA — BI & SQL Reporting Specialist (Lead) — existing C124.** Not a new pool addition; it was already present from a JobSearch snapshot. The user supplied the current direct Glorri link, so verification is upgraded to `USER_BROWSER_LIVE`. Manual practical-fit re-review is **72/100** rather than the historical 78 because high SQL/complex-query skills, Power BI/Tableau experience and 2–3 years direct business/data analytics are explicit requirements. Data quality/governance, business requirements, reporting and advanced Excel remain strong transferable components. Public deadline evidence: around 12 Sep 2026.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
 2. **Unibank — Financial Efficiency Lead/Chief Specialist — 79**.
-3. **Xsolla — Delivery Manager, Self-Service — 74** — remote/Baku — USD 30k–80k/year published.
-4. **Bolt — Operations Manager — 71**.
+3. **OBA — Maliyyə üzrə Analtik (Logistika üzrə) — 79**.
+4. **Xsolla — Delivery Manager, Self-Service — 74** — remote/Baku — USD 30k–80k/year published.
+5. **OBA — BI & SQL Reporting Specialist (Lead) — 72 practical re-review**.
+6. **Bolt — Operations Manager — 71**.
 
 ## NEXT ACTION
 1. Continue open-ended search; target roughly 6–10 genuinely useful new candidates per run when the market supports it, but keep fewer when quality/economics do not justify more.
@@ -41,4 +37,5 @@ Added **2** new candidates, C264–C265. The batch was intentionally small becau
 5. Continue early compensation filtering and do not inflate scores for unpublished local salaries.
 6. Dedupe against `CANDIDATES.csv`, all `CANDIDATES_RUN*.csv`, `REJECTED.csv`, and all `REJECTED_RUN*.csv` before every addition.
 7. Preserve browser-verification separation; `VACANCIES.csv` changes only on browser-confirmed evidence.
-8. Continue until an explicit user stop instruction is recorded.
+8. Treat strong SQL/BI/FP&A/budgeting/forecasting requirements as real gaps unless the user's manual review provides evidence of equivalent experience.
+9. Continue until an explicit user stop instruction is recorded.
