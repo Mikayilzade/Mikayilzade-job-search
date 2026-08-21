@@ -1,34 +1,33 @@
 # Job Search Dashboard
 
-> **Candidate pool: 171 total — SEARCH CONTINUES**  
+> **Candidate pool: 177 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-21 around 07:40 AZT.
+> Last search update: 2026-08-21 around 08:50 AZT.
 >
 > Search continues until an explicit user stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; exact browser availability must still be checked manually before applying.
 
-## Latest additions — C166–C172
+## Latest additions — C173–C178
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **88** | CORE | Landau Education Group — Aparıcı Mühasib | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/landau-education-group-aparici-muhasib-147997)** |
-| A | **86** | ADJACENT | Xalq Bank — Bank sistemlərinin fəaliyyətinə dəstək | Agreement-based | Baku / **10 Sep indexed** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://xalqbank.az/az/ferdi/bank/career)** |
-| A | **85** | ADJACENT | Xalq Bank — Əməliyyatların icrasına nəzarət | Unknown | Baku / current careers list | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://xalqbank.az/az/ferdi/bank/career)** |
-| B | **82** | ADJACENT | Baku Electronics — Marketinq layihələrinin idarə edilməsi üzrə mütəxəssis | Unknown | Baku / **15 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bakuelectronics.az/az/vacancies/852)** |
-| B | **81** | ADJACENT | Push30 — Lead Financial Analyst | Unknown | Baku / **07 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/push30-3-lead-financial-analyst-147957?hl=en)** |
-| C | **75** | STRETCH | Trilogy — Finance Operations Manager | **USD 100,000/year** | Worldwide remote | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.crossover.com/jobs/finance/t-a0sfv00000AwM44AAF/trilogy-finance-operations-manager)** |
-| B | **75** | ADJACENT | Klaxon Ltd — Marketinq və əməliyyatlar üzrə koordinator | Competitive / interview | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/klaxon-ltd-marketinq-ve-emeliyyatlar-uzre-koordinator-148211?hl=en)** |
+| A | **91** | CORE | Marpro Logistics — AP/AR Controller | Competitive / market-based | Baku / **28 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/marpro-logistics-debitor-ve-kreditor-borclari-uzre-nezaretci-apar-controller-147044/vacancies)** |
+| A | **89** | ADJACENT | Tabaterra — Böyük Maliyyə Mütəxəssisi | Unknown | Baku / **02 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/maliyye-analitiki-2/boyuk-maliyye-mutexessisi-tabaterra-mmc-a7a14d)** |
+| A | **86** | ADJACENT | Bank Respublika — Əməliyyatlara Nəzarət / İlkin Nəzarət | Agreement-based | Baku / fresh 18 Aug listing | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/sirket/bank-respublika-asc)** |
+| A | **85** | ADJACENT | Rabitəbank — Corporate Operations Operator | Agreement-based | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/emeliyyat-bolmesi-huquqi-sexs-ve-sahibkar-fiziki-sexslere-korporativ-xidmet-gosteren-emeliyyatci-2429393401)** |
+| B | **82** | ADJACENT | Novex Group — Satınalma üzrə baş mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/novex-group-satinalma-uzre-bas-mutexessis/)** |
+| B | **82** | ADJACENT | Bank of Baku — Ümumi audit şöbəsinin auditoru | Unknown | Baku / **21 Aug — urgent** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/bank-of-baku-umumi-audit-sobesinin-auditoru/)** |
 
 ## Best fits from the latest batch
 
-**Landau Education Group — Aparıcı Mühasib — 88/100.** Customer-payment postings, bank-payment monitoring, debtor analysis, Excel and cross-functional finance coordination are close to the existing finance-operations skill set. Main gap: local 1C/accounting depth.
+**Marpro Logistics — AP/AR Controller — 91/100.** The closest new role this run: AP/AR, payment discipline, credit limits, collections and finance coordination across Azerbaijan, Georgia and Turkey. Compensation is described as competitive, but the amount is unpublished.
 
-**Xalq Bank — Bank systems support — 86/100.** Requirements, As-Is/To-Be process mapping, testing, issue investigation, user/vendor support and process automation make this a strong bridge from SAP S/4/MDG operations into ERP/business systems support. Main gap: direct banking-system experience.
+**Tabaterra — Böyük Maliyyə Mütəxəssisi — 89/100.** Strong progression from finance operations into broader finance: AP/AR, controls, reporting, budgeting, audit support and ERP-workflow automation.
 
-**Xalq Bank — Operations execution control — 85/100.** Operational checks, daily/periodic reports, registers and Excel fit reconciliation/control strengths closely; banking-control experience and exact current level remain to be verified.
+**Bank Respublika — Initial Operational Control — 86/100.** A credible move from reconciliations/audit support into transaction controls and exception handling; direct banking regulation experience is the key gap.
 
-## Correction
+## Rejected / salary audit this run
 
-**IRES — Receivables Accountant** was removed from the candidate pool after fresh exact-source evidence showed **1,500–1,800 AZN net**, below the 2,500 AZN net target. It remains in `REJECTED.csv` for deduplication history.
+Six fresh roles were kept out because published pay was materially under target, including **Capital Logistics AP — 1,500 AZN**, **Baku Shipyard Junior Accountant — 1,000 AZN**, **Home Finance — 1,200 AZN + bonus**, **UHY — 500–600 AZN net**, **Groupone — 1,000 AZN**, and **Agro-West — 1,500–1,800 AZN net**. See `REJECTED_RUN19.csv`.
 
 ## Browser-confirmed live subset
 
@@ -46,8 +45,10 @@
 - **[C151–C157 → CANDIDATES_RUN16.csv](./CANDIDATES_RUN16.csv)**
 - **[C159–C165 → CANDIDATES_RUN17.csv](./CANDIDATES_RUN17.csv)**
 - **[C166–C172 → CANDIDATES_RUN18.csv](./CANDIDATES_RUN18.csv)**
+- **[C173–C178 → CANDIDATES_RUN19.csv](./CANDIDATES_RUN19.csv)**
 - **[Browser-confirmed live → VACANCIES.csv](./VACANCIES.csv)**
 - **[Closed / rejected / watch history → REJECTED.csv](./REJECTED.csv)**
+- **[Run 19 rejected additions → REJECTED_RUN19.csv](./REJECTED_RUN19.csv)**
 
 ## Verification rule
 
