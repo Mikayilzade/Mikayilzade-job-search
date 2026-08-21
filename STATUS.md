@@ -2,36 +2,37 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #26 — 2026-08-21 around 15:40 AZT**.
-- **Candidate pool: 220 total.**
+- Last completed run: **Autonomous Run #27 — 2026-08-21 around 16:45 AZT**.
+- **Candidate pool: 225 total.**
 - **Browser-confirmed live subset: 4.**
 - User-facing interface: `DASHBOARD.md`.
 - Historical master ledger: `CANDIDATES.csv` (C001–C143).
-- Additive ledgers: `CANDIDATES_RUN15.csv` through `CANDIDATES_RUN26.csv`. Treat all together as the current source of truth until consolidation.
-- Rejected history is in `REJECTED.csv` plus additive rejected ledgers through `REJECTED_RUN26.csv`.
+- Additive ledgers: `CANDIDATES_RUN15.csv` through `CANDIDATES_RUN27.csv`. Treat all together as the current source of truth until consolidation.
+- Rejected history is in `REJECTED.csv` plus additive rejected ledgers through `REJECTED_RUN27.csv`.
 - Repository remains the sole persistent source of truth.
 
 ## Counter note
-The highest candidate ID is C221 while the absolute pool is 220 because prior candidate C158 was removed after published compensation proved materially below target. Do not infer pool size from the highest ID alone.
+The highest candidate ID is C226 while the absolute pool is 225 because prior candidate C158 was removed after published compensation proved materially below target. Do not infer pool size from the highest ID alone.
 
 ## User override
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. Continue adding high-quality options until the user explicitly stops the process.
 
 ## Latest run result
-Added **6** new candidates, C216–C221:
-1. **ABB-İnvest — Aparıcı mühasib — 86 — CORE / Priority A.** Daily accounting, 1C control and Excel fit well; exact current listing gives deadline 17.09.2026 and agreement-based pay. Main blocker is mandatory ACCA F7 plus deeper local tax/statutory accounting.
-2. **Europark — Aparıcı Mühasib — 84 — CORE / Priority A.** Month/year close, reporting, expense control and audit support form a strong senior finance-operations bridge. Exact current listing gives deadline 17.09.2026; compensation unpublished.
-3. **Landau Education Group — Xərclərə nəzarət üzrə mütəxəssis — 83 — ADJACENT / Priority B.** Expense monitoring, control, inventory accuracy and variance analysis transfer strongly from reconciliations and month-end controls. Deadline 17.09.2026.
-4. **OBA — Əmək haqqı hesablaması üzrə aparıcı mütəxəssis — 82 — ADJACENT / Priority B.** SAP, reconciliation, advanced Excel/Power Query/Pivot, error investigation and testing fit well; direct payroll and SAP HCM experience are meaningful gaps. Deadline 17.09.2026.
-5. **Company — Mühasib — 81 — CORE / Priority B.** Bank/invoice accounting, debtor-creditor work, reporting and Excel are relevant; local tax/payroll ownership and undisclosed employer/compensation reduce priority. Deadline 14.09.2026.
-6. **OBA — Vergi uçotu üzrə mühasib — 80 — CORE / Priority B.** ERP postings, supplier reconciliations, creditor/debtor analysis and payment/document controls fit; tax-declaration ownership is the main gap. Deadline 17.09.2026.
+Added **5** new candidates, C222–C226:
+1. **Hydex Logistics — Mühasib — 84 — CORE / Priority A.** Accounting/reporting, bank and cash operations, inventory controls and structured finance work fit strongly. Current Jobsite listing states deadline 21.08.2026, so manual browser verification/application is urgent. Main gaps: direct Azerbaijan tax-return ownership and 1C; salary amount unpublished.
+2. **Azerbaijan SuperMarket — Vergilər üzrə mühasib — 83 — ADJACENT / Priority B.** Supplier tax-invoice/payment matching, debtor-creditor reporting, ERP/accounting data extraction, Excel and reconciliations overlap with AP controls. Exact JobSearch listing states deadline 24.08.2026 and employer LinkedIn recently reposted the role. Main gap: direct tax-code/VAT/WHT/statutory reporting ownership.
+3. **Heydər Əliyev adına Müasir Təhsil Kompleksi — Mühasib — 83 — CORE / Priority B.** General accounting/reconciliations/reporting and structured finance operations are transferable. Current Jobsite company/category index lists deadline 22.08.2026. Exact current detail link and salary are unresolved; local statutory/1C depth may be required.
+4. **PASHA Bank — Mühasibatlıq və Vergi üzrə Baş mütəxəssis — 80 — ADJACENT / Priority B.** Month/year close, ERP, tax-process automation, analytics, Excel and cross-functional finance work make a credible broader-finance transition. Fresh listing published 20.08.2026 with deadline 20.09.2026. High-level Azerbaijan tax law and IAS12/IFRS9 are significant gaps.
+5. **Azerbaijan SuperMarket — Senior Financial Reporting Specialist (IFRS) — 78 — ADJACENT / Priority B.** Strong upside through IC reconciliations, ERP, advanced Excel, audit coordination and high-volume reporting. Current role deadline 05.09.2026. Large gap: 5–7+ years direct IFRS reporting/external audit, consolidation and fluent English.
 
 ## Rejected this run
-`REJECTED_RUN26.csv` adds:
-- **Supertoys — Əmək haqqı üzrə mühasib — REJECTED_COMP.** Published salary 1,200 AZN.
-- **Retinalab — Satınalma üzrə kiçik mütəxəssis — REJECTED_COMP.** Published fixed salary 600–800 AZN + KPI bonus.
+`REJECTED_RUN27.csv` adds four clearly under-target roles:
+- QEBELE BROYLER — Mühasib — **600–800 AZN**.
+- Music House — Mühasib-Operator — **600–1,000 AZN**.
+- Master Blend — Mühasib — **from 1,800 AZN**.
+- ENEM Consulting Services — Aparıcı mühasib — **800–1,200 AZN**.
 
-`VACANCIES.csv` was not changed because no new user-browser confirmation was available. C216–C221 remain `TOOL_SNAPSHOT` pending manual browser verification.
+`VACANCIES.csv` was not changed because no new user-browser confirmation was available. C222–C226 remain `TOOL_SNAPSHOT` pending manual browser verification.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -48,7 +49,7 @@ Added **6** new candidates, C216–C221:
 
 ## NEXT ACTION
 1. Continue open-ended search; target roughly 6–10 genuinely useful new candidates per run when the market supports it, but do not pad.
-2. Before deduplication, read `CANDIDATES.csv` and all additive candidate ledgers through `CANDIDATES_RUN26.csv`; current absolute pool is 220. Also read all rejected ledgers through `REJECTED_RUN26.csv`.
+2. Before deduplication, read `CANDIDATES.csv` and all additive candidate ledgers through `CANDIDATES_RUN27.csv`; current absolute pool is 225. Also read all rejected ledgers through `REJECTED_RUN27.csv`.
 3. Prioritize direct AP/Finance Ops; SAP/S4/MDG/master data; finance systems/ERP; controls/reporting; process automation/RPA; data quality/governance; high-value procurement/vendor/P2P and adjacent operations.
 4. Give extra attention to fresh employer/ATS pages and newly indexed roles in finance systems, reporting, AP/AR, bank operations/control, master data/data governance and automation. Prefer exact employer/careers pages when discoverable.
 5. Audit old `UNKNOWN` salaries whenever fresh published figures surface; remove materially under-target candidates rather than protecting the count.
