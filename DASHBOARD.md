@@ -1,31 +1,34 @@
 # Job Search Dashboard
 
-> **Candidate pool: 165 total — SEARCH CONTINUES**  
+> **Candidate pool: 171 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-21 around 06:40 AZT.
+> Last search update: 2026-08-21 around 07:40 AZT.
 >
 > Search continues until an explicit user stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; exact browser availability must still be checked manually before applying.
 
-## Latest additions — C158–C165
+## Latest additions — C166–C172
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **90** | CORE | IRES — Receivables Accountant | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/ires-receivables-accountant-148471?hl=en)** |
-| A | **88** | ADJACENT | Prodata — ERP üzrə mütəxəssis | Agreement-based | Baku / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrin.az/vakansiya/erp-uzre-mutexessis-42334)** |
-| A | **88** | ADJACENT | Baku Electronics — ERP üzrə mütəxəssis | Unknown | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bakuelectronics.az/az/)** |
-| A | **87** | ADJACENT | Baku Electronics — Planlama və satınalma üzrə mütəxəssis / aparıcı mütəxəssis | Interview-based | Baku / **27 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bakuelectronics.az/az/vacancies/839)** |
-| B | **84** | ADJACENT | Novas Group — Audit üzrə mütəxəssis | Interview-based | Baku / **07 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.position.az/public/en/vacancy/audit-uzre-mutexessis-1015666)** |
-| B | **82** | ADJACENT | Baku Electronics — Daxili audit üzrə kiçik mütəxəssis | Unknown | Baku / **06 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bakuelectronics.az/az/vacancies/832)** |
-| B | **80** | ADJACENT | Bank of Baku — Analitik və təqibə dəstək bölməsinin eksperti | Unknown | Baku / **03 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bankofbaku.com/az/vacancies/1538)** |
-| B | **78** | ADJACENT | Bank of Baku — Qeyri-kredit məhsulları şöbəsinin aparıcı eksperti | Unknown | Baku / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bankofbaku.com/az/vacancies/1496)** |
+| A | **88** | CORE | Landau Education Group — Aparıcı Mühasib | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/landau-education-group-aparici-muhasib-147997)** |
+| A | **86** | ADJACENT | Xalq Bank — Bank sistemlərinin fəaliyyətinə dəstək | Agreement-based | Baku / **10 Sep indexed** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://xalqbank.az/az/ferdi/bank/career)** |
+| A | **85** | ADJACENT | Xalq Bank — Əməliyyatların icrasına nəzarət | Unknown | Baku / current careers list | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://xalqbank.az/az/ferdi/bank/career)** |
+| B | **82** | ADJACENT | Baku Electronics — Marketinq layihələrinin idarə edilməsi üzrə mütəxəssis | Unknown | Baku / **15 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bakuelectronics.az/az/vacancies/852)** |
+| B | **81** | ADJACENT | Push30 — Lead Financial Analyst | Unknown | Baku / **07 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/push30-3-lead-financial-analyst-147957?hl=en)** |
+| C | **75** | STRETCH | Trilogy — Finance Operations Manager | **USD 100,000/year** | Worldwide remote | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.crossover.com/jobs/finance/t-a0sfv00000AwM44AAF/trilogy-finance-operations-manager)** |
+| B | **75** | ADJACENT | Klaxon Ltd — Marketinq və əməliyyatlar üzrə koordinator | Competitive / interview | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/klaxon-ltd-marketinq-ve-emeliyyatlar-uzre-koordinator-148211?hl=en)** |
 
 ## Best fits from the latest batch
 
-**IRES — Receivables Accountant — 90/100.** Reconciliations, customer-payment monitoring, overdue follow-up and payment-issue resolution are extremely close to the existing finance-operations skill set.
+**Landau Education Group — Aparıcı Mühasib — 88/100.** Customer-payment postings, bank-payment monitoring, debtor analysis, Excel and cross-functional finance coordination are close to the existing finance-operations skill set. Main gap: local 1C/accounting depth.
 
-**Prodata — ERP üzrə mütəxəssis — 88/100.** A strong move from SAP S/4/MDG finance-process operations into ERP support: user issues, module testing, process optimization and business-process understanding are central to the role.
+**Xalq Bank — Bank systems support — 86/100.** Requirements, As-Is/To-Be process mapping, testing, issue investigation, user/vendor support and process automation make this a strong bridge from SAP S/4/MDG operations into ERP/business systems support. Main gap: direct banking-system experience.
 
-**Baku Electronics — ERP üzrə mütəxəssis — 88/100.** The employer careers page currently lists the vacancy with a 18 September deadline. The transition is attractive because the role family connects ERP administration/testing/documentation with Finance, Sales and Logistics processes; exact current detail should be opened manually before applying.
+**Xalq Bank — Operations execution control — 85/100.** Operational checks, daily/periodic reports, registers and Excel fit reconciliation/control strengths closely; banking-control experience and exact current level remain to be verified.
+
+## Correction
+
+**IRES — Receivables Accountant** was removed from the candidate pool after fresh exact-source evidence showed **1,500–1,800 AZN net**, below the 2,500 AZN net target. It remains in `REJECTED.csv` for deduplication history.
 
 ## Browser-confirmed live subset
 
@@ -41,7 +44,8 @@
 - **[Historical master C001–C143 → CANDIDATES.csv](./CANDIDATES.csv)**
 - **[C144–C150 → CANDIDATES_RUN15.csv](./CANDIDATES_RUN15.csv)**
 - **[C151–C157 → CANDIDATES_RUN16.csv](./CANDIDATES_RUN16.csv)**
-- **[C158–C165 → CANDIDATES_RUN17.csv](./CANDIDATES_RUN17.csv)**
+- **[C159–C165 → CANDIDATES_RUN17.csv](./CANDIDATES_RUN17.csv)**
+- **[C166–C172 → CANDIDATES_RUN18.csv](./CANDIDATES_RUN18.csv)**
 - **[Browser-confirmed live → VACANCIES.csv](./VACANCIES.csv)**
 - **[Closed / rejected / watch history → REJECTED.csv](./REJECTED.csv)**
 
