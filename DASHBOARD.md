@@ -1,34 +1,38 @@
 # Job Search Dashboard
 
-> **Candidate pool: 184 total — SEARCH CONTINUES**  
+> **Candidate pool: 191 total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 4**  
-> Last search update: 2026-08-21 around 09:35 AZT.
+> Last search update: 2026-08-21 around 10:35 AZT.
 >
 > Search continues until an explicit user stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; exact browser availability must still be checked manually before applying.
 
-## Latest additions — C179–C185
+## Latest additions — C186–C192
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **88** | ADJACENT | ATB Bank — Biznesin proseslərinin idarə edilməsi üzrə aparıcı mütəxəssis | Agreement-based | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/biznesin-proseslerinin-idare-edilmesi-sobesinin-aparici-mutexessisi-2513313258)** |
-| A | **86** | ADJACENT | Veysəloğlu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/veyseloglu-sirketler-qrupu-budce-ve-muhasibat-ucotu-uzre-aparici-mutexessis-148586?hl=en)** |
-| B | **83** | ADJACENT | Mars Overseas Baku — Satınalma üzrə baş mütəxəssis | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/mars-overseas-baku-satinalma-uzre-bas-mutexessis/)** |
-| B | **81** | ADJACENT | ATB Bank — Layihələrin idarə edilməsi üzrə aparıcı mütəxəssis | Agreement-based | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/lahiyelerin-idare-edilmesi-sobesinin-aparici-mutexessis-557145567)** |
-| B | **77** | ADJACENT | Xalq Bank — Anti-fraud rules management | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/xalq-bank-odenis-aletleri-idaresinin-reqemsal-deleduzluqla-mubarize-uzre-is-sobesinin-aparici-bas-mutexessisi-qaydalarin-idare-olunmasi-uzre/)** |
-| C | **76** | STRETCH | ATB Bank — Korporativ strategiya və planlaşdırma üzrə baş mütəxəssis | Agreement-based | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/korporativ-strategiya-ve-planlasdirma-sobesinin-bas-mutexessisi-3645707874)** |
-| C | **75** | STRETCH | Unibank — Kredit Riskləri Ehtiyatlanması və Analitikası üzrə Mütəxəssis | Agreement-based | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/kredit-riskleri-ehtiyatlanmasi-ve-analitikasi-uzre-mutexessis-2499245981)** |
+| A | **89** | ADJACENT | ERPgo — ERP Support Consultant | Unknown | Baku / deadline unpublished | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.erpgo.az/en_GB/jobs/apply/erp-support-consultant-12)** |
+| A | **86** | ADJACENT | PASHA Life — Hesabatlılıq şöbəsinin baş mütəxəssisi | Agreement-based | Baku / browser-check | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://finstaff.az/vakansiya/17781/)** |
+| B | **84** | CORE | Fancy Group — Uçot və inzibati işlər üzrə mütəxəssis | Competitive / interview-based | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/fancy-group-mmc-ucot-ve-inzibati-isler-uzre-mutexessis-144813)** |
+| B | **82** | ADJACENT | FOTON — Satınalmalar üzrə Baş Mütəxəssis | Interview-based | Baku / **6 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://joblabs.pro/vakansiyalar/foton-satinalmalar-uzre-bas-mutexessis/)** |
+| B | **79** | ADJACENT | PASHA Bank — Təşkilati Risklərin İdarə Edilməsi üzrə Baş mütəxəssis | Agreement-based | Baku / **15 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-teskilati-risklerin-idare-edilmesi-uzre-bas-mutexessis-148567)** |
+| B | **76** | ADJACENT | Bank Respublika — PL/TMM və Komplayens Kiçik Mütəxəssis/Mütəxəssis | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://alljobsinone.com/en/vacancy/pltmm-ve-komplayens-departamentine-kicik-mutexessismutexessis-148128)** |
+| C | **74** | STRETCH | PASHA Bank — Model riskləri üzrə Kiçik mütəxəssis | Agreement-based | Baku / **14–18 Sep** source conflict | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/model-riskleri-uzre-kicik-mutexessis-587720478)** |
 
 ## Best fits from the latest batch
 
-**ATB Bank — Business Process Management — 88/100.** Strongest new fit: AS-IS/TO-BE process mapping, inefficiency detection, automation/digitalization and procedure design are highly transferable from ERP/process-improvement work.
+**ERPgo — ERP Support Consultant — 89/100.** Best new systems-transition role: ERP support, user issues, business-process understanding, documentation and coordination map directly to S4/MDG/process-improvement strengths. Main unknowns are salary and how much hands-on configuration ownership is expected.
 
-**Veysəloğlu — Budget & Accounting Lead Specialist — 86/100.** A strong move from finance operations into broader budgeting/reporting and management-accounting work, with the main gap being direct budgeting depth.
+**PASHA Life — Reporting Lead Specialist — 86/100.** Strong bridge from finance operations into reporting/data-quality work. The bigger step is IFRS/group financial-reporting ownership.
 
-**Mars Overseas Baku — Senior Procurement Specialist — 83/100.** Supplier/tender/contract/reporting work is a credible P2P/vendor progression; direct sourcing and negotiation ownership remain the main gaps.
+**Fancy Group — Accounting & Administrative Specialist — 84/100.** Strong day-to-day accounting overlap with document controls, 1C, cash and stock accounting; compensation is described as competitive/interview-based, but level/seniority should be checked before applying.
 
 ## Rejected / salary audit this run
 
-**Ferrum Capital — Problemli kreditlər üzrə mütəxəssis — 700 AZN** was rejected as materially below the economic target. See `REJECTED_RUN20.csv`.
+- **Harvesso — Foreign Procurement Specialist — 800 AZN net fixed + KPI bonus**.
+- **Army Group — Maliyyə müdiri — 2,000–2,500 AZN**.
+- **Eurostar Group — Keyfiyyətə Nəzarət üzrə Mütəxəssis — 1,300 AZN**.
+
+See `REJECTED_RUN21.csv`.
 
 ## Browser-confirmed live subset
 
@@ -48,10 +52,12 @@
 - **[C166–C172 → CANDIDATES_RUN18.csv](./CANDIDATES_RUN18.csv)**
 - **[C173–C178 → CANDIDATES_RUN19.csv](./CANDIDATES_RUN19.csv)**
 - **[C179–C185 → CANDIDATES_RUN20.csv](./CANDIDATES_RUN20.csv)**
+- **[C186–C192 → CANDIDATES_RUN21.csv](./CANDIDATES_RUN21.csv)**
 - **[Browser-confirmed live → VACANCIES.csv](./VACANCIES.csv)**
 - **[Closed / rejected / watch history → REJECTED.csv](./REJECTED.csv)**
 - **[Run 19 rejected additions → REJECTED_RUN19.csv](./REJECTED_RUN19.csv)**
 - **[Run 20 rejected additions → REJECTED_RUN20.csv](./REJECTED_RUN20.csv)**
+- **[Run 21 rejected additions → REJECTED_RUN21.csv](./REJECTED_RUN21.csv)**
 
 ## Verification rule
 
