@@ -2,34 +2,32 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #42 — 2026-08-22 around 05:45 AZT**.
+- Last completed run: **Autonomous Run #43 — 2026-08-22 around 06:45 AZT**.
 - Last manual vacancy review: **2026-08-22 — Tabaterra / Target Logistics**.
-- **Candidate pool: 301 unique total.**
+- **Candidate pool: 307 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN42.csv`.
-- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN40.csv`.
+- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN43.csv`.
+- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN43.csv`.
 - Repository remains the sole persistent source of truth.
-- Counter reconciliation: candidate IDs reach `C302`, but historical `C158` is absent, so the true unique count is 301.
+- Counter reconciliation: candidate IDs reach `C308`, but historical `C158` is absent, so the true unique count is 307.
 
 ## User override
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. Continue autonomous search and add new high-quality options until the user explicitly stops the process.
 
 ## Latest run result
-Added **6** new candidates, C297–C302:
-1. **PASHA Bank — Maliyyə nəzarəti üzrə mütəxəssis — C297 — 82 — ADJACENT / Priority A.** Strong control/reconciliation/process fit: account-balance checks, non-standard entry monitoring, month/year-end controls, discrepancy follow-up and automation. Deadline **10 Sep 2026**. Main gaps: banking-product knowledge and SQL.
-2. **Starcom — Accountant — C299 — 85 — CORE / Priority A.** Daily accounting, invoices, reconciliations, bank operations/payments, month-end, audit support, Excel/ERP and process improvement align closely. Deadline **7 Sep**; compensation negotiable but unpublished. Main gaps: local tax/accounting and broader journal/accrual/AR scope.
-3. **Bank Respublika — Biznesə dəstək şöbəsinin kiçik mütəxəssisi/mütəxəssisi — C298 — 77 — ADJACENT / Priority B.** Business reporting, process analysis/testing/optimization, digitalization and cross-functional coordination transfer well. Deadline **17 Sep**. Direct corporate-banking/product experience is a real gap.
-4. **PASHA Bank — Layihələrin İdarə edilməsi üzrə Kiçik Layihə Rəhbəri — C300 — 75 — ADJACENT / Priority B.** Coordination, deadlines, issue tracking, documentation and reporting transfer well, but formal project-management/banking context is new and junior title creates salary risk. Deadline **10 Sep**.
-5. **GRC Lead Specialist (employer undisclosed via jobU) — C301 — 72 — STRETCH / Priority C.** Controls, documentation, audit coordination and remediation tracking transfer, while direct GRC frameworks/ISO 27001/PCI DSS/SWIFT CSP remain substantial gaps. Deadline **13 Sep**.
-6. **PASHA Bank — Digital Fraud Operations Junior Specialist — C302 — 73 — ADJACENT / Priority C.** Payment/transaction monitoring and exception handling transfer, but card/fraud-domain experience is missing and junior title may underpay. Deadline **6 Sep**.
+Added **6** new candidates, C303–C308:
+1. **Carlsberg Azerbaijan — Planning & Delivery Specialist for Raw & Packaging Materials — C303 — 81 — ADJACENT / Priority A.** ERP PO creation, supplier coordination, invoice/supporting-document checks, inventory control, budget monitoring and advanced Excel map well to P2P/AP operations. Deadline **12 Sep 2026**. Main gaps: direct materials planning/procurement/logistics and customs/import operations.
+2. **Veysəloğlu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis — C304 — 78 — ADJACENT / Priority B.** Daily ERP finance transactions, month-end expense accounting, payment planning/execution and cash reporting overlap well. Main gaps: financial-statement/budgeting ownership and local statutory/tax accounting.
+3. **Ikma Machinery — Sales Support Manager — C308 — 78 — ADJACENT / Priority B.** Excel, order/project coordination, logistics support and stakeholder follow-up transfer well; direct commercial/sales-support ownership is new. Deadline **10 Sep**.
+4. **Ram Holding — Satınalma üzrə baş mütəxəssis — C305 — 76 — ADJACENT / Priority B.** Strong P2P/vendor-process transfer, but 3–5 years direct sourcing/tender/negotiation experience is requested. Deadline **6 Sep**.
+5. **PMD Projects — Satınalmalar üzrə aparıcı mütəxəssis — C306 — 75 — ADJACENT / Priority B.** Supplier evaluation, procurement requests, bid comparisons and document controls transfer; direct procurement/tender ownership is the gap. Deadline **11 Sep**.
+6. **Novex Group — Satınalma üzrə baş mütəxəssis — C307 — 73 — ADJACENT / Priority C.** ERP/1C, supplier work, reporting and budget-control exposure fit, but 5+ years direct procurement/supply-chain and team coordination make it a stretch. Deadline **10 Sep**.
 
 ## Rejected this run
-- **Capital Logistics — Accounts Payable:** excellent AP match but **1,500 AZN + KPI** and evening/night schedule to 01:00.
-- **ABB-Invest — Aparıcı mühasib:** ACCA F7 explicitly mandatory plus local tax/statutory/1C depth.
-- **Strata — Material Accountant:** **1,500–2,000 AZN** and direct construction/material-accounting requirement.
-- **New Look Consultancy — Assistant Accountant:** **700 AZN** and female-only requirement.
-- **Kontakt Home — Complaint Resolution Administrator:** **650–900 AZN**.
+- **Harvesso — Foreign Procurement Specialist:** 800 AZN net fixed + performance bonus.
+- **Retinalab — Satınalma üzrə kiçik mütəxəssis:** 600–800 AZN + KPI and Saturday work.
+- **Bank of Baku — Aparıcı Mikrokreditlər bölməsinin eksperti:** deadline 21 Aug 2026, already expired.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -41,14 +39,14 @@ Added **6** new candidates, C297–C302:
 7. **Bolt — Operations Manager — 71**.
 
 ## NEXT ACTION
-1. Continue open-ended search; target roughly 6–10 genuinely useful new candidates per run when the market supports it, but keep fewer when quality/economics do not justify more.
-2. Re-check strongest unverified direct fits first: **Hyatt Regency AP, Pizza Mizza AP, ADA University AP, Marpro Logistics AP/AR Controller, Starcom Accountant and PASHA Bank Financial Control**.
+1. Continue open-ended search; add roughly 6–10 genuinely useful new candidates per run when quality/economics support it.
+2. Re-check strongest unverified direct fits first: **Hyatt Regency AP, Pizza Mizza AP, ADA University AP, Marpro Logistics AP/AR Controller, Starcom Accountant, PASHA Bank Financial Control and Carlsberg Planning & Delivery**.
 3. Prioritize direct AP/Finance Ops, SAP/S4/MDG/master data, finance systems/ERP, treasury/payments/settlements, controls/reporting, process automation/RPA and data quality/governance.
-4. Keep searching employer-specific pages and Glorri/HRX/JobSearch because fresh roles continue to appear there before broader indexes catch up.
+4. Keep searching employer-specific pages and Glorri/HRX/JobSearch; fresh roles continue to appear there before broader indexes catch up.
 5. Search more AP/AR controller, finance-operations, payment operations, ERP implementation/support and business-application support roles.
-6. Search Azerbaijan-eligible international remote roles and selective Baku international-organization/embassy roles where published compensation and transferable operations skills justify a title change.
-7. Search business-side SAP/ERP and payment operations roles rather than technical Basis/ABAP/DBA/payment-engineering roles.
-8. Continue early compensation filtering and do not inflate scores for unpublished local salaries; verify economics before application where title/pay risk exists.
+6. Search Azerbaijan-eligible international remote roles and selective Baku international-organization/embassy roles where compensation and transferable operations skills justify a title change.
+7. Search business-side SAP/ERP and payment operations rather than technical Basis/ABAP/DBA/payment-engineering roles.
+8. Continue early compensation filtering and do not inflate scores for unpublished local salaries.
 9. Dedupe against `CANDIDATES.csv`, all `CANDIDATES_RUN*.csv`, `REJECTED.csv`, and all `REJECTED_RUN*.csv` before every addition.
 10. Preserve browser-verification separation; `VACANCIES.csv` changes only on browser-confirmed evidence.
 11. Treat SQL/BI/FP&A/budgeting/forecasting/ERM, manufacturing accounting, payroll/HCM, local tax/statutory ownership, mandatory accounting certifications and direct audit methodology as real gaps unless demonstrated otherwise.
