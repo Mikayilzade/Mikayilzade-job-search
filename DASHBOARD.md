@@ -1,39 +1,39 @@
 # Job Search Dashboard
 
-> **Candidate pool: 404 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 409 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #61.
+> Updated: 2026-08-22 after Autonomous Run #62.
 >
-> Candidate IDs now reach `C405`; historical `C158` is absent, so the true unique total is **404**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C410`; historical `C158` is absent, so the true unique total is **409**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C401–C405
+## Latest additions — C406–C410
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **88** | CORE | Kapital Bank — Hesablaşmalar üzrə mütəxəssis | Agreement-based | Baku / **27 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/hesablasmalar-uzre-mutexessis-8064)** |
-| A | **87** | CORE | PASHA Bank — Ödənişlərin icrası qrupunun Kiçik mütəxəssisi | Agreement-based | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/hesablasmalar-sobesinin-odenislerin-icrasi-qrupunun-kicik-mutexessisi-3461981467)** |
-| B | **82** | ADJACENT | Prime Leasing — Əməliyyatlar üzrə kiçik mütəxəssis | Unknown | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/prime-leasing-mmc-emeliyyatlar-uzre-kicik-mutexessis-emeliyyat-sobesi-148779)** |
-| C | **74** | ADJACENT | PASHA Bank — EXS və Risk Monitorinq qrupu üzrə Kiçik Mütəxəssis | Agreement-based | Baku / **21 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/kreditlere-nezaret-departamentinin-exs-ve-risk-monitorinq-qrupu-uzre-kicik-mutexessis-2579430211)** |
-| C | **73** | ADJACENT | Bank of Baku — Analitik və təqibə dəstək bölməsinin eksperti | Agreement-based | Baku / **3 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/analitik-ve-teqibe-destek-bolmesinin-eksperti-1538)** |
+| A | **86** | CORE | Starcom — Accountant | Negotiable | Baku / **7 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/starcom-accountant-147859)** |
+| B | **82** | CORE | Bank of Baku — Əməliyyat bölməsinin kiçik eksperti | Agreement-based | Baku / **22 Aug — urgent** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/emeliyyat-bolmesinin-kicik-eksperti-1539)** |
+| B | **79** | ADJACENT | Rabitəbank — Korporativ əməliyyatçı | Agreement-based | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/emeliyyat-bolmesi-huquqi-sexs-ve-sahibkar-fiziki-sexslere-korporativ-xidmet-gosteren-emeliyyatci-2429393401)** |
+| B | **75** | ADJACENT | ABB — Xəzinə bölməsinin meneceri - Zərbad | Agreement-based | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/xezine-bolmesinin-meneceri-zerbad-5216)** |
+| C | **71** | ADJACENT | Bank Respublika — Portfel keyfiyyətinə nəzarət mütəxəssisi | Agreement-based | Baku/regions / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/baki-ve-regionlar-uzre-portfel-keyfiyyetine-nezaret-mutexessisi-163551274)** |
 
 ### Best new fits
 
-**Kapital Bank — Settlements Specialist — 88/100.** Reconciliation of bank/partner operations, clearing and settlements, accounting-system knowledge and Excel are unusually close to payment execution/reconciliation strengths. Main gap: direct bank-clearing experience and SQL.
+**Starcom — Accountant — 86/100.** Daily accounting, invoices, reconciliations, bank operations/payments, AR, month-end, audit support, ERP/Excel and process improvement make this one of the stronger direct finance bridges. Main gaps are local tax/accounting procedures and broader journal/accrual ownership.
 
-**PASHA Bank — Payment Execution — 87/100.** Payment instruction checks, execution, documentation, controls and internal/external customer support are a strong bridge from AP payment operations. Main risks: banking AML/CTF rules and the junior title's compensation ceiling.
+**Bank of Baku — Operations Junior Expert — 82/100.** Document checks, system transactions, account opening/maintenance and payment-routing support transfer well from ERP-based finance operations. The main concerns are credit-accounting specifics, junior-title economics and the **22 Aug** deadline.
 
-**Prime Leasing — Operations Junior Specialist — 82/100.** Transaction execution, system registration, document checking and procedure compliance transfer well from ERP-driven finance operations; leasing-specific domain knowledge is the main gap.
+**Rabitəbank — Corporate Operations — 79/100.** Corporate account servicing, statements, payment intake, reporting and procedural controls are a credible transition from AP/payment operations; direct branch/corporate-banking experience remains the key gap.
 
 ## Browser-confirmed live subset
 
-Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed in Run #61 because no new user/browser confirmation was available.
+Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed in Run #62 because no new user/browser confirmation was available.
 
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN61.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN62.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN61.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN62.csv`**
 
 ## Verification rule
 
