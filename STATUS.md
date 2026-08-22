@@ -2,32 +2,31 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #43 — 2026-08-22 around 06:45 AZT**.
+- Last completed run: **Autonomous Run #44 — 2026-08-22 around 07:30 AZT**.
 - Last manual vacancy review: **2026-08-22 — Tabaterra / Target Logistics**.
-- **Candidate pool: 307 unique total.**
+- **Candidate pool: 313 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN43.csv`.
-- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN43.csv`.
+- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN44.csv`.
+- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN44.csv`.
 - Repository remains the sole persistent source of truth.
-- Counter reconciliation: candidate IDs reach `C308`, but historical `C158` is absent, so the true unique count is 307.
+- Counter reconciliation: candidate IDs reach `C314`, but historical `C158` is absent, so the true unique count is 313.
 
 ## User override
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. Continue autonomous search and add new high-quality options until the user explicitly stops the process.
 
 ## Latest run result
-Added **6** new candidates, C303–C308:
-1. **Carlsberg Azerbaijan — Planning & Delivery Specialist for Raw & Packaging Materials — C303 — 81 — ADJACENT / Priority A.** ERP PO creation, supplier coordination, invoice/supporting-document checks, inventory control, budget monitoring and advanced Excel map well to P2P/AP operations. Deadline **12 Sep 2026**. Main gaps: direct materials planning/procurement/logistics and customs/import operations.
-2. **Veysəloğlu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis — C304 — 78 — ADJACENT / Priority B.** Daily ERP finance transactions, month-end expense accounting, payment planning/execution and cash reporting overlap well. Main gaps: financial-statement/budgeting ownership and local statutory/tax accounting.
-3. **Ikma Machinery — Sales Support Manager — C308 — 78 — ADJACENT / Priority B.** Excel, order/project coordination, logistics support and stakeholder follow-up transfer well; direct commercial/sales-support ownership is new. Deadline **10 Sep**.
-4. **Ram Holding — Satınalma üzrə baş mütəxəssis — C305 — 76 — ADJACENT / Priority B.** Strong P2P/vendor-process transfer, but 3–5 years direct sourcing/tender/negotiation experience is requested. Deadline **6 Sep**.
-5. **PMD Projects — Satınalmalar üzrə aparıcı mütəxəssis — C306 — 75 — ADJACENT / Priority B.** Supplier evaluation, procurement requests, bid comparisons and document controls transfer; direct procurement/tender ownership is the gap. Deadline **11 Sep**.
-6. **Novex Group — Satınalma üzrə baş mütəxəssis — C307 — 73 — ADJACENT / Priority C.** ERP/1C, supplier work, reporting and budget-control exposure fit, but 5+ years direct procurement/supply-chain and team coordination make it a stretch. Deadline **10 Sep**.
+Added **6** new candidates, C309–C314:
+1. **BAT — Corporate Finance Analyst — C309 — 81 — ADJACENT / Priority A.** AR operations, month-end validation, variance analysis, Excel and multinational finance-process work transfer well. Major gaps: monthly forecasting and direct Overheads/CAPEX budget ownership. BAT states competitive salary plus annual performance bonus, amount unpublished.
+2. **Landau Education Group — Aparıcı mühasib — C310 — 83 — CORE / Priority A.** Bank/payment monitoring, receivables, 1C transactions, Excel and cross-functional accounting operations map closely. Deadline **8 Sep 2026**. Main caveat: 1C/local accounting and AR focus rather than SAP/AP.
+3. **SOCAR Downstream Management — Maliyyə nəzarəti üzrə aparıcı mütəxəssis — C311 — 77 — ADJACENT / Priority B.** Internal controls, SAP/ERP, audit participation, procedures and variance/cost analysis transfer well; direct budgeting/management-accounting/reporting depth remains a material gap.
+4. **Baku Electronics — Planlama və satınalma üzrə mütəxəssis/aparıcı mütəxəssis — C312 — 78 — ADJACENT / Priority B.** Procurement planning, financial-data reading, Excel, analytics and P2P/vendor coordination are relevant. Deadline **17 Sep 2026**. Direct planning/procurement/logistics experience is the main gap.
+5. **Qalan AZ — Senior Mühasib — C313 — 78 — CORE / Priority B.** AP/AR and general accounting fit; HRX currently lists it active with a very short remaining application window. Compensation and exact detail page remain unresolved.
+6. **Qaya Nəqliyyat — Baş Mühasib — C314 — 72 — STRETCH / Priority C.** Published **3,000–5,000 AZN/month** makes it economically interesting, but chief-accountant, payroll, tax/statutory and team-management ownership are major gaps. Keep only as a compensation-driven stretch.
 
 ## Rejected this run
-- **Harvesso — Foreign Procurement Specialist:** 800 AZN net fixed + performance bonus.
-- **Retinalab — Satınalma üzrə kiçik mütəxəssis:** 600–800 AZN + KPI and Saturday work.
-- **Bank of Baku — Aparıcı Mikrokreditlər bölməsinin eksperti:** deadline 21 Aug 2026, already expired.
+- **Chirag Plaza — Mühasib:** six-day 09:00–18:00 schedule plus full local tax/statutory reporting and unpublished compensation.
+- **Baku Steel Company — Maliyyə departamentində Baş mütəxəssis:** role centers on IFRS statements, consolidation and manufacturing cost analysis with 5+ years relevant experience; transition gap is too large.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -40,7 +39,7 @@ Added **6** new candidates, C303–C308:
 
 ## NEXT ACTION
 1. Continue open-ended search; add roughly 6–10 genuinely useful new candidates per run when quality/economics support it.
-2. Re-check strongest unverified direct fits first: **Hyatt Regency AP, Pizza Mizza AP, ADA University AP, Marpro Logistics AP/AR Controller, Starcom Accountant, PASHA Bank Financial Control and Carlsberg Planning & Delivery**.
+2. Re-check strongest unverified direct fits first: **Hyatt Regency AP, Pizza Mizza AP, ADA University AP, Marpro Logistics AP/AR Controller, Starcom Accountant, PASHA Bank Financial Control, Carlsberg Planning & Delivery, BAT Corporate Finance and Landau Aparıcı mühasib**.
 3. Prioritize direct AP/Finance Ops, SAP/S4/MDG/master data, finance systems/ERP, treasury/payments/settlements, controls/reporting, process automation/RPA and data quality/governance.
 4. Keep searching employer-specific pages and Glorri/HRX/JobSearch; fresh roles continue to appear there before broader indexes catch up.
 5. Search more AP/AR controller, finance-operations, payment operations, ERP implementation/support and business-application support roles.
