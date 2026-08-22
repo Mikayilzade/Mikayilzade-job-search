@@ -1,31 +1,30 @@
 # Job Search Dashboard
 
-> **Candidate pool: 313 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 318 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #44.
+> Updated: 2026-08-22 after Autonomous Run #45.
 >
-> Counter note: candidate IDs now reach `C314`, but historical `C158` is absent, so the true unique total is **313**.
+> Counter note: candidate IDs now reach `C319`, but historical `C158` is absent, so the true unique total is **318**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest autonomous additions — C309–C314
+## Latest autonomous additions — C315–C319
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **83** | CORE | Landau Education Group — Aparıcı mühasib | Unknown | Baku / **8 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/aparici-muhasib-landau-education-group-e2ea94)** |
-| A | **81** | ADJACENT | BAT — Corporate Finance Analyst | Competitive + annual bonus, amount unknown | Baku / current | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/maliyye-analitiki-2/corporate-finance-analyst-bat-c6ef65)** |
-| B | **78** | ADJACENT | Baku Electronics — Planlama və satınalma üzrə mütəxəssis / aparıcı mütəxəssis | Unknown | Azerbaijan / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/ru/vakansii/logistika-i-zakupki/specialist-po-zakupkam/planlama-ve-satinalma-uzre-mutexessis-aparici-mutexessis-baku-electronics-b94cb6)** |
-| B | **78** | CORE | Qalan AZ — Senior Mühasib | Unknown | Baku / short window | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/sirketler/qalan-az)** |
-| B | **77** | ADJACENT | SOCAR Downstream Management — Maliyyə nəzarəti üzrə aparıcı mütəxəssis | Unknown | Baku / current | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/maliyye-nezareti-uzre-aparici-mutexessis-socar-downstream-management-53b5a4)** |
-| C | **72** | STRETCH | Qaya Nəqliyyat — Baş Mühasib | **3,000–5,000 AZN/month** | Azerbaijan / current | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/ru/navyki/audit-coordination)** |
+| A | **83** | ADJACENT | Baku Electronics — ERP üzrə mütəxəssis | Unknown | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/baku-electronics-erp-uzre-mutexessis-148736)** |
+| B | **80** | ADJACENT | Xalq Bank — Ödəniş sistemləri ilə iş şöbəsinin aparıcı / baş mütəxəssisi | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://banco.az/az/jobs)** |
+| B | **79** | ADJACENT | AZCD Group — Internal Control Specialist | Unknown | Baku / current employer page | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://azcdgroup.com/career)** |
+| B | **78** | ADJACENT | Azerbaijan International Mining Company — Procurement Specialist (Baku) | Unknown | Baku / current-looking | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://smartjob.az/index.php/vacancies?job_category_id%5B%5D=67)** |
+| C | **71** | ADJACENT | Bank of Baku — Qeyri-kredit məhsulları şöbəsinin aparıcı eksperti | Unknown | Baku / **31 Aug employer index** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bankofbaku.com/az/vacancies)** |
 
 ### Best new fits
 
-**Landau Education Group — Aparıcı mühasib — 83/100.** Bank/payment monitoring, receivables, 1C transaction accounting, Excel and cross-functional accounting operations are close to the existing finance-operations base. Main negatives are 1C rather than SAP, AR/sales-accounting focus and possible broader local-accounting expectations.
+**Baku Electronics — ERP üzrə mütəxəssis — 83/100.** This is one of the more interesting system-side transitions: ERP support, stock/master-data changes, internal requests, finance/procurement document handling and problem resolution align closely with SAP/S4/MDG finance operations. The explicit SQL and Power BI requirement keeps it below a direct-fit score.
 
-**BAT — Corporate Finance Analyst — 81/100.** AR operations, month-end validation, variance analysis and multinational finance-process work transfer well. The job also offers stated competitive salary plus annual performance bonus, but direct forecasting and Overheads/CAPEX budget ownership are real FP&A gaps.
+**Xalq Bank — Payment Systems Lead/Chief Specialist — 80/100.** Payment-system reporting, Excel/Power Query and analytical control work map well to payment/reconciliation strengths. The real barrier is direct bank-card/payment-system experience, which the role explicitly asks for.
 
-**Baku Electronics — Planning & Procurement — 78/100.** Procurement planning, data/file maintenance, financial-statement reading, Excel and P2P/vendor coordination overlap well. Direct 2–4 years planning/procurement experience and logistics knowledge are the main gaps.
+**AZCD Group — Internal Control Specialist — 79/100.** Process-control testing, weakness identification, inventory/process monitoring and remediation fit the controls/process-improvement side of the profile. Employer site currently shows the vacancy, but compensation and exact deadline are still unknown.
 
 ## User-found live vacancies — 22 Aug
 
@@ -50,9 +49,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN44.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN45.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN44.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN45.csv`**
 
 ## Verification rule
 
