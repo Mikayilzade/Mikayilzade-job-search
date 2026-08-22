@@ -2,47 +2,35 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #57 — 2026-08-22 around 17:15 AZT**.
-- **Candidate pool: 382 unique total.**
+- Last completed run: **Autonomous Run #58 — 2026-08-22 around 17:25 AZT**.
+- **Candidate pool: 387 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN57.csv`.
-- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN57.csv`.
-- Repository remains the sole persistent source of truth.
-- Counter reconciliation: candidate IDs reach `C383`, but historical `C158` is absent, so the true unique count is 382.
+- Additive candidate ledgers continue through `CANDIDATES_RUN58.csv`; rejected ledgers through `REJECTED_RUN58.csv`.
+- Counter reconciliation: candidate IDs reach `C388`, but historical `C158` is absent, so true unique count is 387.
 
 ## User override
-Continue open-ended search and add new high-quality options until the user explicitly stops the process. The former 100-candidate cap is retired.
+Continue open-ended search until the user explicitly stops. Former 100-candidate cap is retired.
 
 ## Latest run result
-Added **3** new candidates, C381–C383. This run deliberately stayed below the usual 6–10 because the fresh scan produced many duplicates or clearly sub-target roles and quality takes priority over count.
-1. **North West Construction — Maliyyə üzrə kiçik mütəxəssis — C381 — 91 — Priority A.** Fresh 19 Aug posting. Invoices, payment records/schedules, supplier queries, procurement/receiving documentation, AP ledger and audit support are almost a direct functional match. Salary is agreement-based/unknown; junior title is the main economic risk.
-2. **ERPGo — ERP Support Consultant — C382 — 82 — Priority B.** Employer-hosted application form remains indexed. SAP/S4/MDG, process troubleshooting, user support, testing and master-data discipline transfer strongly. Detailed requirements and compensation are unpublished; browser freshness should be checked because the indexed crawl is older.
-3. **Madina Group — Maliyyə mütəxəssisi — C383 — 72 — Priority C.** Deadline **19 Sep**. Finance/Excel/process strengths transfer, but annual budgeting, financial planning and cash-flow forecasting are central duties and remain material gaps.
+Added **5** new candidates, C384–C388:
+1. **Zəhmət Ruzi (SAB) — Accounts Payable Accountant — C384 — 92 — Priority A.** Employer career page currently exposes the role. Near-direct AP/P2P fit; 1C/local tax/e-taxes are gaps; salary candidate-based and unpublished.
+2. **Novum — ERP Functional Consultant, Finance (D365 F&O) — C386 — 84 — Priority B.** Strong ERP-user-to-consultant bridge; Dynamics configuration/implementation is new and posting freshness requires browser check.
+3. **Zəhmət Ruzi (SAB) — Inspection and Control Manager — C385 — 79 — Priority B.** Employer page publishes **3000 AZN net**. Controls/risk/root-cause fit is useful; direct manager-level audit/control experience is a material gap.
+4. **Baku Marriott Boulevard — HR Coordinator (Maternity Cover) — C387 — 76 — Priority B.** Deadline **25 Aug**. SAP/data/workflow coordination transfers, but HR/EMAS is new and contract stability is limited.
+5. **Deloitte — Senior Consultant, Business Process Solutions — C388 — 70 — Priority C.** High-upside consulting stretch; accounting/finance background qualifies partially, but local tax/social-insurance/payroll/statutory work is central and a large gap.
 
 ## Screened out this run
-- **AzRe Reinsurance — Mühasib:** 1,500 AZN gross; rejected on compensation despite useful AR/AP/payment overlap.
-- **Emsan — Mühasib:** 900 AZN; rejected on compensation.
-- **RNK Insurance Services — part-time night Accountant:** 600–800 AZN net and 21:00–01:00 shift; rejected on economics/lifestyle.
-- **Clima Service — Tender Specialist:** posting explicitly limits applicants to female candidates; also Saturday schedule/direct tender experience.
-- **Company — Mühasib** and **Strata — Mühasib:** rediscovered but already rejected in Run #56 for 800 / 1,500 AZN compensation.
-- **Baku Electronics ERP / planning-procurement, Prodata ERP, IRES Receivables:** rediscovered; already in candidate history, so no duplicates added.
-
-## Browser-confirmed live subset
-1. **Xsolla — Finance Coordinator — 86**.
-2. **Unibank — Financial Efficiency Lead/Chief Specialist — 79**.
-3. **OBA — Maliyyə üzrə Analtik (Logistika üzrə) — 79**.
-4. **Xsolla — Delivery Manager, Self-Service — 74** — remote/Baku — USD 30k–80k/year published.
-5. **Tabaterra — Aparıcı mühasib — 74**.
-6. **OBA — BI & SQL Reporting Specialist (Lead) — 72 practical re-review**.
-7. **Bolt — Operations Manager — 71**.
+- SAB Internal Audit and Control Analyst — 1000 AZN net.
+- SAB 1C Administrator — 1200 AZN net.
+- SAB Junior Procurement Specialist — 800 AZN.
+- NOV Accounts Payable & Billing Specialist — exact listing says no longer accepting applications and is four years old.
+- TRIBU Group Financial Controller — fresh discovery but controller/IFRS/group-reporting leadership gap is too large to count without stronger detail.
 
 ## NEXT ACTION
-1. Prioritize exact freshness/compensation checks for **North West Construction — Maliyyə üzrə kiçik mütəxəssis (C381)** and **ERPGo — ERP Support Consultant (C382)**.
-2. Re-check the near-deadline **ADA University — Specialist, Accounts Payable**, **Finance / Data Associate — C371**, **SOCAR workforce planning — C380**, **Veysəloğlu Supplier Orders Lead**, and **Marpro Logistics — AP/AR Controller**.
-3. Continue focused scans of AP/AR, payment execution / settlements / treasury operations, bank back-office, finance controls and reconciliations.
-4. Continue fresh SAP/ERP functional support, master data, contract/commercial administration, business-process automation and P2P/procurement analytics searches.
-5. Prefer employer career pages and current ATS routes; use aggregators mainly for discovery/deadline triangulation.
-6. Keep compensation filtering strict; clearly sub-target published pay goes to rejected history.
-7. Preserve browser verification separation: `VACANCIES.csv` changes only on user/browser-confirmed exact live evidence.
-8. Continue until an explicit user stop instruction is recorded.
+1. Urgently re-check **SAB Accounts Payable Accountant (C384)** and **Novum ERP Functional Consultant (C386)** for exact browser freshness and compensation.
+2. Re-check near-deadline **Baku Marriott HR Coordinator (25 Aug)**, ADA AP, Finance/Data Associate, SOCAR workforce planning, Veysəloğlu Supplier Orders and Marpro AP/AR.
+3. Continue AP/AR, payment execution/settlements, treasury operations, finance controls/reconciliations and bank back-office scans.
+4. Continue SAP/ERP functional support, master data, business-process automation, commercial/contract administration and P2P/procurement analytics.
+5. Keep compensation filtering strict and do not change `VACANCIES.csv` without browser-confirmed live evidence.
+6. Continue until explicit user stop.
