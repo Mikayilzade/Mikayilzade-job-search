@@ -1,45 +1,39 @@
 # Job Search Dashboard
 
-> **Candidate pool: 382 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 387 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #57.
+> Updated: 2026-08-22 after Autonomous Run #58.
 >
-> Candidate IDs now reach `C383`; historical `C158` is absent, so the true unique total is **382**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C388`; historical `C158` is absent, so the true unique total is **387**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C381–C383
+## Latest additions — C384–C388
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **91** | CORE | North West Construction — Maliyyə üzrə kiçik mütəxəssis | Agreement-based | Baku / fresh 19 Aug | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://smartjob.az/index.php/vacancy/84317-maliyye-uzre-kicik-mutexessis)** |
-| B | **82** | ADJACENT | ERPGo — ERP Support Consultant | Unknown | Baku / employer application form | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.erpgo.az/en_GB/jobs/apply/erp-support-consultant-12)** |
-| C | **72** | ADJACENT | Madina Group — Maliyyə mütəxəssisi | Interview-based | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/madina-group-maliyye-mutexessisi-148821)** |
+| A | **92** | CORE | Zəhmət Ruzi (SAB) — Accounts Payable Accountant | Candidate-based / unknown | Khirdalan / employer career page | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://sab.az/en/career/)** |
+| B | **84** | ADJACENT | Novum — ERP Functional Consultant, Finance (D365 F&O) | Unknown | Baku / posting freshness check | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/enterprise-resources-planning-functional-consultant-at-novum-llc-4382025377)** |
+| B | **79** | ADJACENT | Zəhmət Ruzi (SAB) — Inspection and Control Manager | **3000 AZN net** | Baku / employer career page | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://sab.az/en/career/)** |
+| B | **76** | ADJACENT | Baku Marriott Boulevard — HR Coordinator (Maternity Cover) | Unknown | Baku / **25 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://alljobsinone.com/en/vacancy/hr-coordinator-maternity-cover-baki-60263848)** |
+| C | **70** | STRETCH | Deloitte — Senior Consultant, Business Process Solutions | Unknown | Baku / actively hiring snapshot | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://az.linkedin.com/jobs/view/senior-consultant-to-business-processes-solutions-team-at-deloitte-4433149827)** |
 
 ### Best new fits
 
-**North West Construction — Maliyyə üzrə kiçik mütəxəssis — 91/100.** Processing invoices for goods/services, payment and transaction records, supplier queries, payment schedules, procurement/receiving documentation, AP ledger maintenance and audit support are almost a direct match to the existing AP/P2P skill set. The main issue is economic: salary is unpublished and the junior title may suppress the range.
+**Zəhmət Ruzi (SAB) — Accounts Payable Accountant — 92/100.** Electronic invoices, acceptance acts, payment orders/schedules, supplier settlements, reporting and Excel are almost direct AP/P2P overlap. Main gaps are 1C, local tax/accounting rules and e-taxes; salary is unpublished.
 
-**ERPGo — ERP Support Consultant — 82/100.** A credible transition from SAP S/4/MDG and finance operations into ERP support/implementation: process troubleshooting, user support, testing, master-data discipline and process improvement all transfer. The employer-hosted application form is available, but detailed requirements/pay and current browser freshness need confirmation.
+**Novum — ERP Functional Consultant, Finance — 84/100.** The vacancy explicitly pitches a move from finance/ERP user into ERP consulting. SAP/S4/MDG process knowledge, testing, user support and finance operations transfer well, while Dynamics 365 configuration/implementation is new. Posting age means exact freshness needs checking.
 
-**Madina Group — Maliyyə mütəxəssisi — 72/100.** Useful finance/Excel/process overlap, but this is deliberately scored as a stretch because annual budgeting, financial planning and cash-flow forecasting are core responsibilities rather than minor extras.
+**Zəhmət Ruzi (SAB) — Inspection and Control Manager — 79/100.** Published **3000 AZN net** clears the economic target. Controls, risk, root-cause and corrective-action work transfer, but manager-level direct audit/control experience is a real gap.
 
 ## Browser-confirmed live subset
 
-| Score | Company / Role | Salary | Link |
-|---:|---|---|---|
-| **86** | Xsolla — Finance Coordinator | Unknown | **[Open ↗](https://jobs.lever.co/xsolla/1f631bc8-c9aa-418f-926b-0b14403c1dbb)** |
-| **79** | Unibank — Financial Efficiency Lead/Chief Specialist | Unknown | **[Open ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232?sector=29)** |
-| **79** | OBA — Maliyyə üzrə Analtik (Logistika üzrə) | Unknown | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-maliyye-uzre-analtik-logistika-uzre-33864807?isLocal=true)** |
-| **74** | Xsolla — Delivery Manager, Self-Service | **USD 30k–80k/year** | **[Open ↗](https://jobs.lever.co/xsolla/fd4791bd-88ba-47fc-9542-f556298e7e31)** |
-| **74** | Tabaterra — Aparıcı mühasib | Unknown | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/bas-muhasib/aparici-muhasib-tabaterra-mmc-b56b96)** |
-| **72** | OBA — BI & SQL Reporting Specialist (Lead) | Unknown | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-bi-sql-reporting-specialist-lead-30821625?isLocal=true)** |
-| **71** | Bolt — Operations Manager | Unknown | **[Open ↗](https://bolt.eu/en/careers/positions/ce0c7cb3-b4f0-495f-9fed-1daade980a06/)** |
+Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed in Run #58 because no new user/browser confirmation was available.
 
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN57.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN58.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN57.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN58.csv`**
 
 ## Verification rule
 
