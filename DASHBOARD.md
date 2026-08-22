@@ -1,31 +1,39 @@
 # Job Search Dashboard
 
-> **Candidate pool: 324 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 333 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #46.
+> Updated: 2026-08-22 after Manual Run #48.
 >
-> Counter note: candidate IDs now reach `C325`, but historical `C158` is absent, so the true unique total is **324**.
+> Counter note: candidate IDs now reach `C334`, but historical `C158` is absent, so the true unique total is **333**.
 >
-> The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
+> Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest autonomous additions — C320–C325
+## Latest additions — C331–C334
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **86** | ADJACENT | PASHA Bank — Biznes Proseslərin İdarəedilməsi şöbəsinin RPA üzrə Kiçik Mütəxəssisi | Unknown | Baku / **11–12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/pasha-bank-biznes-proseslerin-idareedilmesi-sobesinin-rpa-uzre-kicik-mutexessisi/)** |
-| A | **84** | ADJACENT | Unibank — Daxili nəzarət hesabatlığı üzrə Aparıcı mütəxəssis | Unknown | Baku / **27 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232)** |
-| B | **80** | ADJACENT | Azər Türk Bank — Satınalmalar şöbəsinin Aparıcı / Baş mütəxəssisi | Unknown | Baku / **30 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://banco.az/az/jobs)** |
-| B | **79** | ADJACENT | PASHA Bank — Məhsul üzrə Mütəxəssis (Hesab və ödəniş xidmətləri) | Unknown | Baku / current Aug listing | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/satis/satis-uzre-mutexessis/mehsul-uzre-mutexessis-hesab-ve-odenis-xidmetleri-pasha-bank-e2cebb)** |
-| B | **76** | ADJACENT | PASHA Bank — Layihələrin İdarə edilməsi üzrə Kiçik Layihə Rəhbəri | Unknown | Baku / **9–10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-layihelerin-idare-edilmesi-uzre-kicik-layihe-rehberi-148049/vacancies)** |
-| C | **74** | ADJACENT | PASHA Bank — Rəqəmsal dələduzluq əməliyyatlar qrupu üzrə kiçik mütəxəssis | Agreement-based | Baku / **5–6 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/reqemsal-deleduzluq-emeliyyatlar-qrupu-uzre-kicik-mutexessis-215859142)** |
+| A | **83** | ADJACENT | IKTEX — Vendor, Bid / Tender Manager | Unknown | Baku / **7 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/iktex-vendor-bid-tender-manager-147921)** |
+| A | **81** | DIRECT | Bridge Group — Financial Reporting Specialist | Interview-based | Baku / **4 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/bridge-group-of-companies-financial-reporting-specialist-147526)** |
+| B | **77** | DIRECT | Master Blend — Mühasib (Accountant) | **1,800–2,000 AZN** | Baku / **29 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/master-blend-ru-muhasib-accountant-147161)** |
+| B | **76** | ADJACENT | Mars Overseas Baku — Büdcə və hesabatlıq üzrə aparıcı mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/mars-overseas-baku-budce-ve-hesabatliq-uzre-aparici-mutexessis-148587)** |
 
 ### Best new fits
 
-**PASHA Bank — RPA Junior Specialist — 86/100.** Process analysis, automation opportunity identification, requirements gathering, documentation, testing, training and continuous improvement align unusually well with the existing Excel/VBA automation and finance-process background. The main gaps are formal RPA tooling/configuration and the explicit 1+ year BA/process-improvement/RPA experience requirement.
+**IKTEX — Vendor, Bid / Tender Manager — 83/100.** Vendor onboarding, quotation/payment-term control, compliance documentation, approvals, deadline tracking and finance/legal coordination transfer well from vendor-master and P2P operations. Direct tender ownership and ICT commercial experience are the main gaps.
 
-**Unibank — Internal Control Reporting Lead Specialist — 84/100.** Operational controls, incident tracking, root-cause/risk analysis, large-data reporting and process-control optimization fit strongly with reconciliation, audit-support, exception-handling and control experience. Oracle PL/SQL and direct bank/internal-control ownership are the main gaps.
+**Bridge Group — Financial Reporting Specialist — 81/100.** Vendor bills, supplier-document checks, bank postings and intercompany reconciliations are unusually close to existing AP/month-end work. The biggest issue is that ACCA F3 is explicitly required.
 
-**Azər Türk Bank — Procurement Lead/Chief Specialist — 80/100.** P2P/vendor/document control, Excel/ERP and stakeholder follow-up transfer well from AP/vendor-master experience; direct sourcing, tendering and negotiation are the main transition gaps.
+**Master Blend — Accountant — 77/100.** The transactional side is strong: invoices, AP/AR, bank payments, reconciliations and ERP. The score is capped because the role also owns payroll, tax filings, fixed assets and full statutory reporting.
+
+## Previous strong additions — Run #47
+
+| Score | Company / Role | Salary | Deadline |
+|---:|---|---|---|
+| **87** | Apertech — ERP Consultant | Unknown | **18 Sep** |
+| **84** | PASHA Insurance — Business Process Management Lead/Chief Specialist | Unknown | **18 Sep** |
+| **82** | Respublika Diaqnostika Mərkəzi — Transformation Specialist | Interview-based | **6 Sep** |
+| **80** | IRES — Receivables Accountant | **1,500–1,800 AZN net** | **14 Sep** |
+| **79** | Baltic Transline Azerbaijan — Debt Collection Manager | Unknown | **29 Aug** |
 
 ## User-found live vacancies — 22 Aug
 
@@ -50,7 +58,7 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN46.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN48.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
 - Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN45.csv`**
 
