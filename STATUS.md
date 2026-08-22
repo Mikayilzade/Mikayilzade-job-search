@@ -2,35 +2,35 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #58 — 2026-08-22 around 17:25 AZT**.
-- **Candidate pool: 387 unique total.**
+- Last completed run: **Autonomous Run #59 — 2026-08-22 around 17:40 AZT**.
+- **Candidate pool: 393 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Additive candidate ledgers continue through `CANDIDATES_RUN58.csv`; rejected ledgers through `REJECTED_RUN58.csv`.
-- Counter reconciliation: candidate IDs reach `C388`, but historical `C158` is absent, so true unique count is 387.
+- Additive candidate ledgers continue through `CANDIDATES_RUN59.csv`; rejected ledgers through `REJECTED_RUN59.csv`.
+- Counter reconciliation: candidate IDs reach `C394`, but historical `C158` is absent, so true unique count is 393.
 
 ## User override
 Continue open-ended search until the user explicitly stops. Former 100-candidate cap is retired.
 
 ## Latest run result
-Added **5** new candidates, C384–C388:
-1. **Zəhmət Ruzi (SAB) — Accounts Payable Accountant — C384 — 92 — Priority A.** Employer career page currently exposes the role. Near-direct AP/P2P fit; 1C/local tax/e-taxes are gaps; salary candidate-based and unpublished.
-2. **Novum — ERP Functional Consultant, Finance (D365 F&O) — C386 — 84 — Priority B.** Strong ERP-user-to-consultant bridge; Dynamics configuration/implementation is new and posting freshness requires browser check.
-3. **Zəhmət Ruzi (SAB) — Inspection and Control Manager — C385 — 79 — Priority B.** Employer page publishes **3000 AZN net**. Controls/risk/root-cause fit is useful; direct manager-level audit/control experience is a material gap.
-4. **Baku Marriott Boulevard — HR Coordinator (Maternity Cover) — C387 — 76 — Priority B.** Deadline **25 Aug**. SAP/data/workflow coordination transfers, but HR/EMAS is new and contract stability is limited.
-5. **Deloitte — Senior Consultant, Business Process Solutions — C388 — 70 — Priority C.** High-upside consulting stretch; accounting/finance background qualifies partially, but local tax/social-insurance/payroll/statutory work is central and a large gap.
+Added **6** new candidates, C389–C394:
+1. **Unibank — Daxili nəzarət hesabatlığı üzrə Mütəxəssis — C390 — 85 — Priority A.** Fresh 19 Aug posting / deadline 19 Sep. Strong controls, exception analysis, incident/corrective-action and large-data reporting fit; Oracle PL/SQL/direct bank-control experience are gaps.
+2. **PASHA Bank — Maliyyə Texnologiyaları sahəsinin Tarif qrupunun Məhsul üzrə Analitiki — C389 — 84 — Priority A.** Fresh 19 Aug / deadline 18 Sep. Requirements, UAT/testing, workflows, documentation, IT coordination and process-improvement bridge well from SAP/S4 operations; direct bank product ownership is the main gap.
+3. **ATB Bank — Biznesin proseslərinin idarə edilməsi şöbəsinin aparıcı mütəxəssisi — C391 — 81 — Priority B.** Fresh 18 Aug / deadline 17 Sep. Automation/process optimization fit is strong; formal BPMN/Bizagi/Lean-Six-Sigma and dedicated BPM experience are gaps.
+4. **ATB Bank — Layihələrin idarə edilməsi şöbəsinin aparıcı mütəxəssis — C392 — 80 — Priority B.** Project/KPI/status/risk/escalation coordination is transferable; formal PM methodology and project-budget/resource ownership are gaps.
+5. **Unibank — eCommerce və Ekvayrinq üzrə Mütəxəssis / aparıcı Mütəxəssis — C393 — 78 — Priority B.** Posted 21 Aug / deadline 20 Sep. Payments/transaction investigation, partner onboarding and KPI work transfer; acquiring lifecycle and SQL are significant gaps.
+6. **Milli Aviasiya Akademiyası — Sənədlərə nəzarət üzrə mütəxəssis — C394 — 76 — Priority B.** Posted 20 Aug. Document control, revision history, approvals, audit support and structured process records fit well; ICAO/EASA/document-control domain knowledge is missing and salary is unknown.
 
 ## Screened out this run
-- SAB Internal Audit and Control Analyst — 1000 AZN net.
-- SAB 1C Administrator — 1200 AZN net.
-- SAB Junior Procurement Specialist — 800 AZN.
-- NOV Accounts Payable & Billing Specialist — exact listing says no longer accepting applications and is four years old.
-- TRIBU Group Financial Controller — fresh discovery but controller/IFRS/group-reporting leadership gap is too large to count without stronger detail.
+- **ASG — Senior Procurement Specialist:** published 2,200 AZN, below target.
+- **PASHA Bank — Mühasibatlıq və Vergi üzrə Baş mütəxəssis:** fresh role but tax/statutory specialization gap is too large.
+- **Milli Aviasiya Akademiyası — Personalın təlimləri üzrə auditor:** aviation-specific ICAO/EASA and training-compliance requirements make the domain gap too large.
+- **Bank of Baku — Əməliyyat bölməsinin kiçik eksperti:** current but junior/compensation risk and bank-credit operations dominate; WATCH rather than candidate.
 
 ## NEXT ACTION
-1. Urgently re-check **SAB Accounts Payable Accountant (C384)** and **Novum ERP Functional Consultant (C386)** for exact browser freshness and compensation.
-2. Re-check near-deadline **Baku Marriott HR Coordinator (25 Aug)**, ADA AP, Finance/Data Associate, SOCAR workforce planning, Veysəloğlu Supplier Orders and Marpro AP/AR.
-3. Continue AP/AR, payment execution/settlements, treasury operations, finance controls/reconciliations and bank back-office scans.
-4. Continue SAP/ERP functional support, master data, business-process automation, commercial/contract administration and P2P/procurement analytics.
-5. Keep compensation filtering strict and do not change `VACANCIES.csv` without browser-confirmed live evidence.
+1. Prioritize exact freshness/compensation checks for **Unibank Internal Control Reporting (C390)**, **PASHA Product Analyst (C389)** and **ATB Business Process Management (C391)**.
+2. Continue searching fresh finance controls, reconciliation, bank back-office/payment execution, ERP/SAP support and master-data roles.
+3. Expand process-automation/BPM, project coordination, product operations, merchant/payment operations and business-support roles where the transferable-skill bridge is credible.
+4. Re-check near-deadline candidates already recorded: Baku Marriott HR Coordinator, ADA AP, Finance/Data Associate, SOCAR workforce planning, Veysəloğlu Supplier Orders and Marpro AP/AR.
+5. Keep compensation filtering strict; do not change `VACANCIES.csv` without browser-confirmed live evidence.
 6. Continue until explicit user stop.
