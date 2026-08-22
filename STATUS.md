@@ -2,29 +2,29 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #64 — 2026-08-22 around 22:32 AZT**.
-- **Candidate pool: 421 unique total.**
+- Last completed run: **Autonomous Run #65 — 2026-08-22 around 23:50 AZT**.
+- **Candidate pool: 427 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Additive candidate ledgers continue through `CANDIDATES_RUN64.csv`; rejected ledgers through `REJECTED_RUN64.csv`.
-- Counter reconciliation: candidate IDs reach `C422`, but historical `C158` is absent, so true unique count is 421.
+- Additive candidate ledgers continue through `CANDIDATES_RUN65.csv`; rejected ledgers through `REJECTED_RUN65.csv`.
+- Counter reconciliation: candidate IDs reach `C428`, but historical `C158` is absent, so true unique count is 427.
 
 ## User override
 Continue open-ended search until the user explicitly stops. Former 100-candidate cap is retired.
 
 ## Latest run result
-Added **6** new candidates, C417–C422:
-1. **Mind Services — Əməliyyat Analitiki — C417 — 87 — Priority A.** Deadline **21 Sep**. Especially strong transition role: structured review of contracts/invoices/shipping documents, discrepancy detection, Excel/Pivot, digital systems, process tracking and reporting. The employer explicitly says prior field experience is not required and provides a 6-week intensive training path. Compensation is unpublished; international-trade/customs/INCOTERMS knowledge is the main learnable gap.
-2. **B2B Group — Satınalma üzrə Koordinator — C418 — 85 — Priority A.** Deadline **20 Sep**. Procurement requests/RFQs, procedure compliance, supplier/commercial-offer analysis, delayed/risky process follow-up, reporting and supplier-data systematization map strongly to P2P/vendor/Excel strengths. Direct procurement-team coordination is the main gap.
-3. **OBA — Operativ Nəzarət üzrə mütəxəssis (Bakı) — C419 — 77 — Priority B.** Deadline **20 Sep**. Controls, checklists, cash/collection and goods-receipt monitoring, inventory checks, exception reporting and remediation follow-up fit well. Mandatory own car and field/CCTV-control experience are the main drawbacks.
-4. **Vault.az — Tender və Satınalma üzrə Mütəxəssis — C420 — 76 — Priority B.** Deadline **20 Sep**. Supplier research, quotation collection, purchasing documents, contracts, coordination and reporting transfer well; direct tender ownership/e-tender platforms remain real gaps.
-5. **PASHA Bank — EXS və Risk Monitorinq üzrə Kiçik Mütəxəssis — C421 — 75 — Priority B.** Deadline **21 Sep**. Analytical reporting, system-integration follow-up and process/control discipline are useful overlaps; credit-risk modelling is new. SQL/Python/R are preferred rather than stated mandatory.
-6. **Company — Maliyyə hesabatı üzrə mütəxəssis — C422 — 70 — Priority C.** Deadline **20 Sep**. Excel/Power Query, reporting-process automation and accounting-data analysis transfer, but consolidated/statutory reporting, management reporting and budgeting are substantial gaps, so it remains a stretch.
+Added **6** new candidates, C423–C428:
+1. **Retail Group Azerbaijan — Accountant — C423 — 89 — Priority A.** Deadline **19 Sep**. Daily sales/cash/card/bank reconciliation, discrepancy investigation, refunds, cash controls, high transaction volume, Excel and ERP/POS are exceptionally close to existing finance-operations strengths. Retail context is new; salary is agreement-based/unpublished.
+2. **Prime Core Construction — Accountant AP/AR — C424 — 85 — Priority A.** Fresh 19 Aug posting. AP/AR, vendor/customer reconciliations, invoices, bank/cash/card allocation, aging, month-end, audit support, cost coding, Excel and ERP are a strong direct functional fit. The explicit construction/real-estate experience requirement and retention/percentage-of-completion accounting are material gaps, so the score is deliberately below the apparent title fit.
+3. **Bank Respublika — Biznesə dəstək şöbəsinin kiçik mütəxəssisi/mütəxəssisi — C425 — 78 — Priority B.** Deadline **17 Sep**. Business-process analysis/testing/optimization, requirements, reporting, digitalization and cross-functional coordination transfer well. Direct corporate-banking/product experience is the principal gap.
+4. **Norm OJSC — Əsas Vəsaitlər və İnventar üzrə Kiçik Mühasib — C426 — 77 — Priority B.** Deadline **31 Aug**. SAP monitoring, inventory/fixed-asset controls, correcting wrong postings, physical-count differences, PR/PO/contracts and audit support fit well. Direct fixed-asset/depreciation accounting and the Qaradag commute reduce the score.
+5. **Blackwell — Procurement Specialist — C427 — 74 — Priority C.** Deadline **24 Aug**. Supplier/quotation/ERP/vendor coordination is transferable, but the mandatory 3 years of Oil & Gas/industrial procurement plus Incoterms/import/customs and negotiation ownership are substantial gaps. Retained because it is a credible near-deadline stretch with procurement upside.
+6. **Bank of Baku — Analitik və təqibə dəstək bölməsinin eksperti — C428 — 71 — Priority C.** Deadline **3 Sep**. Data structuring, reporting, Excel and operational monitoring transfer, but high SQL is explicit and problematic-loan analytics is a genuine domain gap.
 
 ## Screened out this run
-- **Faber Construction — Satınalma üzrə mütəxəssis:** 1,500–2,000 AZN and a short sixth working day; rejected on economics/lifestyle.
-- **Vertex — Təchizat zəncirinin idarə edilməsi üzrə kiçik mütəxəssis:** 600–700 AZN + bonus; rejected on compensation despite good PO/RFP/supplier overlap.
-- **Baku Electronics planning/procurement:** rediscovered; already in candidate history, so no duplicate added.
+- **MER Group — Əməliyyatlar üzrə mütəxəssis:** fresh but requires 3 years direct restaurant/hospitality/retail-service operations and is dominated by restaurant operational standards, food safety and regional travel; rejected on fit.
+- **Holcim — Cost Controller:** fresh deadline 19 Sep, but available indexed detail did not expose enough responsibility/requirement evidence to score responsibly in this run; not added rather than guessing.
+- Previously found roles were rechecked for duplication; no duplicate candidate IDs were added.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -36,10 +36,11 @@ Added **6** new candidates, C417–C422:
 7. **Bolt — Operations Manager — 71**.
 
 ## NEXT ACTION
-1. Prioritize exact browser/freshness and compensation checks for **Mind Services Operations Analyst (C417)** and **B2B Group Procurement Coordinator (C418)**.
-2. Continue current-day scans because new 21 Sep postings are appearing now; focus first on employer pages and fresh JobSearch/ATS entries.
-3. Continue AP/P2P, settlements/payment execution, finance controls, reconciliations, bank back-office and transaction-control searches.
-4. Continue SAP/ERP support, master data, process automation/BPM, RPA-adjacent, implementation support and product/process operations roles where the bridge from S4/MDG/Excel automation is credible.
-5. Continue procurement-operations / supplier-data / RFQ / PO-coordination roles, but reject clearly sub-target salaries even when skills overlap is strong.
-6. Keep `VACANCIES.csv` unchanged without browser-confirmed live evidence.
-7. Continue until explicit user stop.
+1. Prioritize browser/freshness and compensation checks for **Retail Group Accountant (C423)** and **Prime Core Accountant AP/AR (C424)**; both are unusually strong functional fits but compensation is not published.
+2. Urgently re-check **Blackwell Procurement Specialist (C427)** before the **24 Aug** deadline and retain only if the user is comfortable with the direct-industry-experience gap.
+3. Continue fresh AP/P2P, AR/O2C, settlements/payment execution, finance controls, reconciliations, cash/card operations and bank back-office searches.
+4. Continue SAP/ERP support, master data, process automation/BPM, RPA-adjacent, implementation support and product/process operations roles where S4/MDG/Excel automation provides a credible bridge.
+5. Continue procurement-operations / supplier-data / RFQ / PO-coordination roles, but reject clearly sub-target salaries and do not soften direct industry-experience requirements.
+6. Revisit **Holcim Cost Controller** only if detailed current responsibilities/requirements become available; do not score from title alone.
+7. Keep `VACANCIES.csv` unchanged without browser-confirmed live evidence.
+8. Continue until explicit user stop.
