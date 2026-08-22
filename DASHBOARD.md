@@ -1,29 +1,29 @@
 # Job Search Dashboard
 
-> **Candidate pool: 362 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 368 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #53.
+> Updated: 2026-08-22 after Autonomous Run #54.
 >
-> Candidate IDs now reach `C363`; historical `C158` is absent, so the true unique total is **362**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C369`; historical `C158` is absent, so the true unique total is **368**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C358–C363
+## Latest additions — C364–C369
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **87** | CORE | Radisson — Accounts Receivable | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/radisson-baku-hotel-accounts-receivable-148494)** |
-| A | **86** | CORE | Royale Sea Breeze MMC — Accountant | Competitive | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/vacancies/royale-sea-breeze-mmc-accountant-148170)** |
-| B | **82** | ADJACENT | Veysəloğlu — Tədarükçü sifarişləri üzrə aparıcı mütəxəssis | Competitive / market-based | Baku / **24 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/logistika-ve-satinalma/satinalma-uzre-mutexessis/tedarukcu-sifarisleri-uzre-aparici-mutexessis-veyseloglu-3ceb4c)** |
-| B | **80** | ADJACENT | IRES — Procurement Specialist | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/logistika-ve-satinalma/satinalma-uzre-mutexessis/procurement-specialist-ires-767a5e)** |
-| B | **76** | ADJACENT | Aviation Services Group — Cost Controller | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/aviation-services-group-cost-controller-148116)** |
-| C | **72** | STRETCH | Xalq Bank — Payment Tools / Operations Monitoring Specialist | Unknown | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/asc-xalq-bank-odenis-aletleri-idaresinin-reqemsal-deleduzluqla-mubarize-uzre-is-sobesinin-mutexessisi-emeliyyat-monitorinqi-uzre-148757)** |
+| A | **88** | CORE | PASHA Bank — Payment Execution Junior Specialist | Unknown | Baku / late Aug–Sep; deadline conflict | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/hesablasmalar-sobesinin-odenislerin-icrasi-qrupunun-kicik-mutexessisi-3461981467)** |
+| B | **82** | ADJACENT | Bank Respublika — Business Support Junior Specialist/Specialist | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/bank-respublika-asc-biznese-destek-sobesinin-kicik-mutexessisimutexessisi-148665)** |
+| B | **78** | STRETCH | m10 / Bir — IT Business Analyst, Payment Platforms Tribe | Unknown | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/mehsul-ve-layihe/biznes-analitik/it-business-analyst-payment-platforms-tribe-m10-44702c)** |
+| B | **77** | ADJACENT | PROSYS — IT Business Analyst | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/prosys-llc-it-uzre-biznes-analitik-148368)** |
+| B | **76** | ADJACENT | Xalq Bank — Payment Systems Lead/Chief Specialist | Unknown | Baku / index **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.xalqbank.az/az/ferdi/bank/career)** |
+| C | **74** | STRETCH | PASHA Bank — B2B Open Banking Product Owner | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-hesab-ve-odenis-xidmetleri-maliyye-texnologiyalari-sahesinin-b2b-aciq-bankciliq-qrupunun-mehsul-sahibi-148131)** |
 
 ### Best new fits
 
-**Radisson — Accounts Receivable — 87/100.** Daily receivables and payment tracking, invoice review, overdue monitoring, reporting and cross-functional coordination are extremely close to the current AP/reconciliation/payment skill set. Main gaps are direct AR ownership and 1C.
+**PASHA Bank — Payment Execution Junior Specialist — 88/100.** Payment execution, checking transaction information and supporting documents, system registration, customer support and exception/compliance handling are unusually close to AP payment-proposal and finance-operations work. Main unknowns are banking AML/CTF depth and whether a junior-grade salary can meet the target.
 
-**Royale Sea Breeze MMC — Accountant — 86/100.** Daily accounting operations, source documents, bank reconciliations, AP/AR, bank-operation registers, KYB documentation and Excel are strong matches. Payroll plus VAT/tax/statutory support broaden the role beyond the current core.
+**Bank Respublika — Business Support Specialist — 82/100.** Business reporting, process/tool development, technology adoption and coordination across internal teams fit the process-improvement and operational-strength profile. The role is more commercial/banking-product oriented than the current finance core.
 
-**Veysəloğlu — Supplier Orders Lead — 82/100.** Supplier-order processes, ERP, Excel, deadline control and operational coordination map well to P2P/vendor strengths. Direct procurement/logistics tenure is the main transition gap; the **24 Aug** deadline is near.
+**m10 / Bir — IT Business Analyst, Payment Platforms — 78/100.** Payments, process flows, requirements, root-cause analysis and stakeholder coordination are relevant; formal IT BA experience plus APIs, SQL/Postman and Agile remain genuine technical gaps.
 
 ## Browser-confirmed live subset
 
@@ -40,9 +40,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN53.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN54.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN53.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN54.csv`**
 
 ## Verification rule
 
