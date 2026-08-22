@@ -1,31 +1,31 @@
 # Job Search Dashboard
 
-> **Candidate pool: 289 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 295 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #40.
+> Updated: 2026-08-22 after Autonomous Run #41.
 >
-> Counter note: candidate IDs now reach `C290`, but historical `C158` is absent, so the true unique total is **289**.
+> Counter note: candidate IDs now reach `C296`, but historical `C158` is absent, so the true unique total is **295**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest autonomous additions — C285–C290
+## Latest autonomous additions — C291–C296
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **89** | CORE | Pizza Mizza — Kreditor borclar və ödənişləri üzrə mühasib | Agreement-based | Baku / **5 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pizza-mizza-kreditor-borclar-ve-odenisleri-uzre-muhasib-147637/vacancies)** |
-| A | **83** | ADJACENT | Milli Aviasiya Akademiyası — Sənədlərə nəzarət üzrə mütəxəssis | Unknown | Baku / fresh **20 Aug** posting | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.birjob.com/jobs/senedlere-nezaret-uzre-mutexessis-milli-aviasiya-akademiyasi-7318696)** |
-| B | **80** | ADJACENT | Enermus — Tender üzrə mütəxəssis | Agreement-based | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/enermus-tender-uzre-mutexessis-148848)** |
-| B | **79** | ADJACENT | İnnovasiya və Rəqəmsal İnkişaf Agentliyi — Daxili Audit üzrə Aparıcı mütəxəssis | Agreement-based | Baku / source conflict **30 Aug vs 5–6 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/innovasiya-ve-reqemsal-inkisaf-agentliyi-daxili-audit-uzre-aparici-mutexessis-147757)** |
-| B | **76** | ADJACENT | PASHA Insurance — Arxiv işi üzrə baş mütəxəssis | Unknown | Baku / **10–11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.position.az/az/vacancy/arxiv-isi-uzre-bas-mutexessis-1015674)** |
-| C | **74** | ADJACENT | Veysəloğlu Şirkətlər Qrupu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis | Unknown | Baku / Sep | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/veyseloglu-sirketler-qrupu-budce-ve-muhasibat-ucotu-uzre-aparici-mutexessis-148586?hl=en)** |
+| A | **88** | CORE | Hyatt Regency — Accounts Payable Clerk | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.viralsplicer.com/en/vacancy/accounts-payable-clerk-148071)** |
+| A | **86** | ADJACENT | PRODATA — ERP üzrə mütəxəssis | Agreement-based | Baku / late Aug–mid Sep source conflict | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrin.az/vakansiya/erp-uzre-mutexessis-42334)** |
+| B | **80** | ADJACENT | AzəriMed MMC — Proqram Layihəsinə Dəstək üzrə Mütəxəssis | Unknown | Baku / fresh Aug posting | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://soften.dev/jobs/proqram-layihesine-destek-uzre-mutexessis-4701)** |
+| C | **74** | STRETCH | Sea Breeze Health Valley — Business & Strategy Analyst | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://alljobsinone.com/es/vacancy/business-strategy-analyst-148045)** |
+| C | **73** | ADJACENT | OBA — Əmək haqqı hesablaması üzrə aparıcı mütəxəssis | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://mail.position.az/en/vacancy/emek-haqqi-hesablamasi-uzre-aparici-mutexessis-1015677)** |
+| C | **72** | ADJACENT | Eden Agro — Büdcə və hesabatlılıq üzrə kiçik mütəxəssis | Interview-based | Baku / current August listing | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://easyjob.az/en/budce-ve-hesabatliliq-uzre-kicik-mutexessis)** |
 
 ### Best new fits
 
-**Pizza Mizza — AP Accountant — 89/100.** Direct AP ownership, invoice processing, three-way matching, supplier balances, weekly payments and expense coding are almost exactly aligned with the profile. Main unresolved question is salary.
+**Hyatt Regency — Accounts Payable Clerk — 88/100.** Direct AP match: invoice records, vendor maintenance, vendor reconciliations, expense allocation and payment/billing work. The main unresolved issue is compensation.
 
-**Milli Aviasiya Akademiyası — Document Control Specialist — 83/100.** Strong transfer through document governance, approvals, revision history, version control, audit support and structured records. Aviation compliance (ICAO/EASA) is the main transition gap.
+**PRODATA — ERP üzrə mütəxəssis — 86/100.** A strong potential transition from SAP/S4 finance operations into ERP support: process understanding, user requests, issue triage, module testing and process optimization. Formal ERP-support experience and SQL are the main gaps.
 
-**Enermus — Tender Specialist — 80/100.** Good vendor/P2P bridge: supplier orders, ERP entries, finance coordination, payment tracking and contract closeout. Direct tender portal and procurement ownership remain the main gap.
+**AzəriMed — Proqram Layihəsinə Dəstək üzrə Mütəxəssis — 80/100.** Good systems/process transition through ticket handling, first-line issue analysis, escalation, user support, documentation and reporting. More technical than current finance work, but still plausible.
 
 ## User-found live vacancies — 22 Aug
 
@@ -50,7 +50,7 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN40.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN41.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
 - Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN39.csv`**
 
