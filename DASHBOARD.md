@@ -1,28 +1,29 @@
 # Job Search Dashboard
 
-> **Candidate pool: 344 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 350 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #50.
+> Updated: 2026-08-22 after Autonomous Run #51.
 >
-> Candidate IDs now reach `C345`; historical `C158` is absent, so the true unique total is **344**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C351`; historical `C158` is absent, so the true unique total is **350**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status; `STATUS_CONFLICT` means evidence conflicts and needs manual re-open before applying.
 
-## Latest additions — C341–C345
+## Latest additions — C346–C351
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **89** | ADJACENT | eiGroup — Contracts & Commercial Administration Specialist | Unknown | Baku / current employer page | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://eigroup.breezy.hr/p/4b81afb3ed42-contracts-commercial-administration-specialist)** |
-| B | **80** | ADJACENT | İnnovasiya və Rəqəmsal İnkişaf Agentliyi — Daxili Audit üzrə Aparıcı mütəxəssis | Unknown | Baku / late Aug–early Sep | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/innovasiya-ve-reqemsal-inkisaf-agentliyi-daxili-audit-uzre-aparici-mutexessis-147757)** |
-| B | **76** | ADJACENT | IRES — Internal Control Expert | Unknown | Baku / **29–30 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/ires-internal-control-expert-147186/about-company)** |
-| C | **74** | STRETCH | ASG Business Aviation — Airworthiness Safety & Records Specialist | Unknown | Baku / current Aug listing | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/ru/vakansii/logistika-i-zakupki/specialist-po-bezopasnosti-poletov/airworthiness-safety-records-specialist-asg-business-aviation-1f2e2a)** |
-| C | **73** | ADJACENT | AzerGold — Internal Control / Ethics & Compliance Specialist | Unknown | Baku / **22 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.birjob.com/jobs/mutexessis-daxili-nezaret-sobesi-etika-ve-uygunluq-azergold-7250241)** |
+| A | **87** | ADJACENT | Airswift — Project Requisitioner (Nationals Only) | Unknown | Baku / current employer index | 🟠 STATUS_CONFLICT | **[Open ↗](https://www.airswift.com/jobs/project-requisitioner-nationals-only-1264129)** |
+| A | **87** | ADJACENT | Azerconnect Group — Junior SCM Support Analyst | Unknown | Baku hybrid / **27–28 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/azerconnect-junior-scm-support-analyst-147242/about-company)** |
+| A | **84** | CORE | Qafqaz NET LLC — Mühasib | Unknown | Baku / **2–3 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/internship-program/qafqaz-net-llc-muhasib-147476/vacancies)** |
+| B | **81** | ADJACENT | IRES — Procurement Specialist | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/trainings/ires-procurement-specialist-148546/vacancies)** |
+| B | **77** | ADJACENT | SOCAR Upstream MI LLC — Satınalmalar və təchizat üzrə baş mütəxəssis | Agreement-based | Baku / current Aug listing | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://smartjob.az/vacancy/84066-satinalmalar-ve-techizat-uzre-bas-mutexessis)** |
+| B | **77** | ADJACENT | Chirag Plaza — Mühasib | Agreement-based | Baku / **7 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/chirag-plaza-muhasib-147915)** |
 
 ### Best new fits
 
-**eiGroup — Contracts & Commercial Administration Specialist — 89/100.** Contract lifecycle tracking, invoices, purchase orders, acceptance acts, supporting payment documentation, Finance/Legal/vendor coordination and deadline control are unusually close to the existing AP/P2P/vendor/process skill set. Main unknown is compensation.
+**Airswift — Project Requisitioner — 87/100.** Supplier payments, SAP data entry, purchasing procedures and documentation/project-team support are exceptionally close to AP/P2P/SAP strengths. Important caveat: Airswift's current Baku vacancy index lists the role as current, but the linked detail page carries older metadata, so re-open before application.
 
-**İnnovasiya və Rəqəmsal İnkişaf Agentliyi — Internal Audit Lead Specialist — 80/100.** Process flows, risk points, testing documentation, findings and corrective-action tracking transfer strongly from reconciliations, audit support and controls. Direct internal-audit ownership remains the key gap.
+**Azerconnect — Junior SCM Support Analyst — 87/100.** ERP Procurement/SCM support, requirements, testing, issue resolution and user training are one of the strongest system-side transitions in the pool. Oracle Fusion/EBS configuration/OUM and the junior-title compensation risk are the main gaps.
 
-**IRES — Internal Control Expert — 76/100.** Control-gap analysis, corrective actions, stakeholder coordination and reporting fit well; COSO and 3–5 years direct internal-control/risk/audit experience are explicit gaps.
+**Qafqaz NET — Mühasib — 84/100.** Daily accounting, incoming electronic invoices, 1C posting, payments and cross-functional document flow fit closely with finance operations. Salary remains unknown; local 1C/e-invoicing practice is the main transition gap.
 
 ## Browser-confirmed live subset
 
@@ -39,12 +40,13 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN50.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN51.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN50.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN51.csv`**
 
 ## Verification rule
 
 - ✅ `USER_BROWSER_LIVE` — exact vacancy opened by the user and confirmed available.
 - ❌ `USER_BROWSER_CLOSED` — user confirmed closed/removed.
 - 🟡 `TOOL_SNAPSHOT` — current-looking search evidence; re-open exact link immediately before tailoring a CV or applying.
+- 🟠 `STATUS_CONFLICT` — current evidence conflicts; manual re-open is required before application.
