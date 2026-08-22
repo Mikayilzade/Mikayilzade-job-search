@@ -1,40 +1,40 @@
 # Job Search Dashboard
 
-> **Candidate pool: 415 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 421 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #63.
+> Updated: 2026-08-22 after Autonomous Run #64.
 >
-> Candidate IDs now reach `C416`; historical `C158` is absent, so the true unique total is **415**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C422`; historical `C158` is absent, so the true unique total is **421**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C411–C416
+## Latest additions — C417–C422
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **84** | ADJACENT | PASHA Bank — RPA üzrə Kiçik Mütəxəssis | Agreement-based | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/pasha-bank-biznes-proseslerin-idareedilmesi-sobesinin-rpa-uzre-kicik-mutexessisi/)** |
-| A | **84** | ADJACENT | Xalq Bank — Bank sistemlərinin fəaliyyətinə dəstək | Unknown | Baku / **10 Sep reported** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.xalqbank.az/az/ferdi/bank/career)** |
-| B | **82** | ADJACENT | Kapital Bank — Proseslər üzrə ekspert | Agreement-based | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/prosesler-uzre-ekspert-8060)** |
-| A | **82** | ADJACENT | Xalq Bank — Ödəniş sistemləri üzrə aparıcı / baş mütəxəssis | Unknown | Baku / **11 Sep reported** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.xalqbank.az/az/ferdi/bank/career)** |
-| B | **76** | ADJACENT | PASHA Bank — Kiçik Layihə Rəhbəri | Unknown | Baku / **29 Aug–10 Sep source conflict** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/mehsul-ve-layihe/layihe-meneceri/layihelerin-idare-edilmesi-uzre-kicik-layihe-rehberi-pasha-bank-06032d)** |
-| C | **71** | STRETCH | Xalq Bank — Maliyyə təhlili və idarəedici hesabatlılıq üzrə baş mütəxəssis | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/trainings/asc-xalq-bank-maliyye-menecmenti-idaresinin-maliyye-tehlili-ve-idareedici-hesabatliliq-sobesinin-bas-mutexessisi-148259/vacancies)** |
+| A | **87** | ADJACENT | Mind Services — Əməliyyat Analitiki | Unknown | Baku / **21 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/mind-services-emeliyyat-analitiki-149047)** |
+| A | **85** | ADJACENT | B2B Group — Satınalma üzrə Koordinator | Agreement-based | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/b2b-group-satinalma-uzre-koordinator-148933)** |
+| B | **77** | ADJACENT | OBA — Operativ Nəzarət üzrə mütəxəssis (Bakı) | Unknown | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/oba-marketler-shebekesi-operativ-nezaret-uzre-mutexessis-baki-149026)** |
+| B | **76** | ADJACENT | Vault.az — Tender və Satınalma üzrə Mütəxəssis | Agreement-based | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/vaultaz-tender-ve-satinalma-uzre-mutexessis-148966)** |
+| B | **75** | STRETCH | PASHA Bank — EXS və Risk Monitorinq üzrə Kiçik Mütəxəssis | Unknown | Baku / **21 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-kreditlere-nezaret-departamentinin-exs-ve-risk-monitorinq-qrupu-uzre-kicik-mutexessis-149065)** |
+| C | **70** | STRETCH | Company — Maliyyə hesabatı üzrə mütəxəssis | Agreement-based | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-maliyye-hesabati-uzre-mutexessis-148936)** |
 
 ### Best new fits
 
-**PASHA Bank — RPA üzrə Kiçik Mütəxəssis — 84/100.** Process automation, requirements gathering, documentation, cost-benefit review, testing, user support and performance improvement align unusually well with the existing Excel/VBA/process-improvement profile. Main gaps: direct RPA tooling and formal BA/RPA experience.
+**Mind Services — Operations Analyst — 87/100.** One of the most interesting transition roles found so far: the employer explicitly accepts candidates changing profession and provides six weeks of intensive training. Contract/invoice/document checking, discrepancy detection, Excel/Pivot, digital systems and end-to-end process tracking are unusually close to the existing skill set.
 
-**Xalq Bank — Bank systems support — 84/100.** Business requirements, as-is/to-be process modelling, testing, post-automation control, system issue investigation and user support are a credible transition from SAP S/4/MDG finance operations. The main barrier is the requirement for direct banking/bank-systems experience.
+**B2B Group — Procurement Coordinator — 85/100.** RFQs, purchase requests, procedure compliance, supplier/commercial-offer comparisons, delayed/risky process monitoring, reporting and data systematization strongly overlap with P2P/vendor/Excel work. The main stretch is direct procurement-team coordination rather than functional skill mismatch.
 
-**Kapital Bank — Process Expert — 82/100.** Strong overlap with finding manual steps, process bottlenecks and automation opportunities. This is a useful transition role if the employer values practical automation/process improvement over formal Agile/product-process credentials.
+**OBA — Operational Control Specialist — 77/100.** Practical control/checklist/inventory/cash-process work transfers well from reconciliation and finance controls. The mandatory own-car requirement and field/CCTV nature materially reduce the fit.
 
 ## Browser-confirmed live subset
 
-Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed in Run #63 because no new user/browser confirmation was available.
+Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed in Run #64 because no new user/browser confirmation was available.
 
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN63.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN64.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN63.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN64.csv`**
 
 ## Verification rule
 
