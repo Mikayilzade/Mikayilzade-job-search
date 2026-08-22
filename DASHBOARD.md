@@ -1,31 +1,31 @@
 # Job Search Dashboard
 
-> **Candidate pool: 295 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 301 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #41.
+> Updated: 2026-08-22 after Autonomous Run #42.
 >
-> Counter note: candidate IDs now reach `C296`, but historical `C158` is absent, so the true unique total is **295**.
+> Counter note: candidate IDs now reach `C302`, but historical `C158` is absent, so the true unique total is **301**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest autonomous additions — C291–C296
+## Latest autonomous additions — C297–C302
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **88** | CORE | Hyatt Regency — Accounts Payable Clerk | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.viralsplicer.com/en/vacancy/accounts-payable-clerk-148071)** |
-| A | **86** | ADJACENT | PRODATA — ERP üzrə mütəxəssis | Agreement-based | Baku / late Aug–mid Sep source conflict | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrin.az/vakansiya/erp-uzre-mutexessis-42334)** |
-| B | **80** | ADJACENT | AzəriMed MMC — Proqram Layihəsinə Dəstək üzrə Mütəxəssis | Unknown | Baku / fresh Aug posting | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://soften.dev/jobs/proqram-layihesine-destek-uzre-mutexessis-4701)** |
-| C | **74** | STRETCH | Sea Breeze Health Valley — Business & Strategy Analyst | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://alljobsinone.com/es/vacancy/business-strategy-analyst-148045)** |
-| C | **73** | ADJACENT | OBA — Əmək haqqı hesablaması üzrə aparıcı mütəxəssis | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://mail.position.az/en/vacancy/emek-haqqi-hesablamasi-uzre-aparici-mutexessis-1015677)** |
-| C | **72** | ADJACENT | Eden Agro — Büdcə və hesabatlılıq üzrə kiçik mütəxəssis | Interview-based | Baku / current August listing | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://easyjob.az/en/budce-ve-hesabatliliq-uzre-kicik-mutexessis)** |
+| A | **85** | CORE | Starcom — Accountant | Negotiable | Baku / **7 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/starcom-accountant-147859)** |
+| A | **82** | ADJACENT | PASHA Bank — Maliyyə nəzarəti üzrə mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-maliyye-nezareti-uzre-mutexessis-148024)** |
+| B | **77** | ADJACENT | Bank Respublika — Biznesə dəstək şöbəsinin kiçik mütəxəssisi/mütəxəssisi | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/bank-respublika-asc-biznese-destek-sobesinin-kicik-mutexessisimutexessisi-148665)** |
+| B | **75** | ADJACENT | PASHA Bank — Layihələrin İdarə edilməsi üzrə Kiçik Layihə Rəhbəri | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-layihelerin-idare-edilmesi-uzre-kicik-layihe-rehberi-148049)** |
+| C | **73** | ADJACENT | PASHA Bank — Digital Fraud Operations Junior Specialist | Unknown | Baku / **6 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-reqemsal-deleduzluq-emeliyyatlar-qrupu-uzre-kicik-mutexessis-147777)** |
+| C | **72** | STRETCH | Undisclosed employer via jobU — GRC Lead Specialist | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/grc-muhendisi/idareetme-risk-ve-komplayens-grc-sobesinin-aparici-mutexessisi-jobu-2a4c8d)** |
 
 ### Best new fits
 
-**Hyatt Regency — Accounts Payable Clerk — 88/100.** Direct AP match: invoice records, vendor maintenance, vendor reconciliations, expense allocation and payment/billing work. The main unresolved issue is compensation.
+**Starcom — Accountant — 85/100.** Strong overlap with daily accounting operations, invoices, reconciliations, bank payments, month-end support, audit requests, Excel/ERP and process improvement. Local tax/accounting procedures and broader journals/accruals/AR are the main gaps.
 
-**PRODATA — ERP üzrə mütəxəssis — 86/100.** A strong potential transition from SAP/S4 finance operations into ERP support: process understanding, user requests, issue triage, module testing and process optimization. Formal ERP-support experience and SQL are the main gaps.
+**PASHA Bank — Financial Control Specialist — 82/100.** Account-balance checks, reconciliation/control routines, non-standard entry monitoring, discrepancy tracking and process automation map unusually well to finance-operations controls experience. SQL and direct banking-product knowledge are the key gaps.
 
-**AzəriMed — Proqram Layihəsinə Dəstək üzrə Mütəxəssis — 80/100.** Good systems/process transition through ticket handling, first-line issue analysis, escalation, user support, documentation and reporting. More technical than current finance work, but still plausible.
+**Bank Respublika — Business Support Specialist — 77/100.** Business reporting, process analysis/testing, optimization, digitalization and cross-functional coordination fit well. The main limitation is the explicit 1–2 years of banking/corporate-banking experience.
 
 ## User-found live vacancies — 22 Aug
 
@@ -50,9 +50,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN41.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN42.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN39.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN40.csv`**
 
 ## Verification rule
 
