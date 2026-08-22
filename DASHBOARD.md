@@ -1,40 +1,38 @@
 # Job Search Dashboard
 
-> **Candidate pool: 427 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 431 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #65.
+> Updated: 2026-08-23 after Autonomous Run #66.
 >
-> Candidate IDs now reach `C428`; historical `C158` is absent, so the true unique total is **427**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C432`; historical `C158` is absent, so the true unique total is **431**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C423–C428
+## Latest additions — C429–C432
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **89** | CORE | Retail Group Azerbaijan — Accountant | Agreement-based | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/retail-group-azerbaijan-accountant-148872/vacancies)** |
-| A | **85** | CORE | Prime Core Construction — Accountant AP/AR | Unknown | Baku / fresh **19 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jooble.az/en/vacancies/tecili-is-elani-prime-core-construction-accountant-apar-8218954)** |
-| B | **78** | ADJACENT | Bank Respublika — Biznesə dəstək şöbəsinin kiçik mütəxəssisi/mütəxəssisi | Agreement-based | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/bank-respublika-asc-biznese-destek-sobesinin-kicik-mutexessisimutexessisi-148665)** |
-| B | **77** | ADJACENT | Norm OJSC — Əsas Vəsaitlər və İnventar üzrə Kiçik Mühasib | Unknown | Baku/Qaradağ / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/norm-ojsc-esas-vesaitler-ve-inventar-uzre-kicik-muhasib-149078)** |
-| C | **74** | ADJACENT | Blackwell — Procurement Specialist | Competitive / experience-based | Baku / **24 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/blackwell-procurement-specialist-146786/about-company?hl=en)** |
-| C | **71** | STRETCH | Bank of Baku — Analitik və təqibə dəstək bölməsinin eksperti | Agreement-based | Baku / **3 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/analitik-ve-teqibe-destek-bolmesinin-eksperti-1538)** |
+| A | **84** | CORE | Express Bank — Hesablaşmalar departamenti, Müştəri əməliyyatları şöbəsinin mütəxəssisi | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/express-bank-hesablasmalar-departamenti-musteri-emeliyyatlari-sobesinin-mutexessisi-148322)** |
+| A | **82** | CORE | Radisson Baku Hotel — Accounts Receivable | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/radisson-baku-hotel-accounts-receivable-148494)** |
+| B | **75** | ADJACENT | Xalq Bank — Əməliyyat Monitorinqi / Anti-fraud | Unknown | Baku / **18 Sep** / shift work | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/asc-xalq-bank-odenis-aletleri-idaresinin-reqemsal-deleduzluqla-mubarize-uzre-is-sobesinin-mutexessisi-emeliyyat-monitorinqi-uzre-148757)** |
+| C | **74** | ADJACENT | TABİA Group — Daxili nəzarət üzrə mütəxəssis | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/tabia-group-daxili-nezaret-uzre-mutexessis-148120)** |
 
 ### Best new fits
 
-**Retail Group Azerbaijan — Accountant — 89/100.** Daily sales, cash, card and bank reconciliation; discrepancy investigation; refund controls; cash audits; large transaction volumes; Excel and ERP/POS make this one of the clearest finance-operations matches in the current pool. Retail experience is an advantage rather than a hard requirement; compensation is unpublished.
+**Express Bank — Client Operations / Settlements — 84/100.** Customer transactions and related payments, bank-system postings, internal entries, document preparation and support requests are very close to finance-operations/payment-processing strengths. Direct banking-operations experience and compensation remain the main unknowns.
 
-**Prime Core Construction — Accountant AP/AR — 85/100.** The AP/AR core is excellent: vendor/customer reconciliations, invoices, bank/cash/card allocation, aging, month-end, audit support and ERP/Excel. The score is intentionally restrained because 2 years of construction/real-estate accounting and construction-specific retention/percentage-of-completion knowledge are explicitly requested.
+**Radisson Baku Hotel — Accounts Receivable — 82/100.** Daily receivables and payment tracking, invoice checks, overdue follow-up, account reconciliations, reporting and cross-functional coordination are a strong AP-to-AR transition. Direct AR ownership and 1C are the main gaps; hotel experience is preferred.
 
-**Bank Respublika — Business Support — 78/100.** Strong process-analysis/testing/optimization, business-requirements, reporting, digitalization and cross-functional coordination overlap. The direct corporate-banking/product requirement is a real transition gap.
+**Xalq Bank — Transaction Monitoring / Anti-fraud — 75/100.** Monitoring and investigating transactions, handling alerts, detail orientation and controls offer a credible move toward payments-risk operations. The employer requests 1–2 years of banking experience and the job uses shifts, so this remains adjacent rather than core.
 
 ## Browser-confirmed live subset
 
-Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed in Run #65 because no new user/browser confirmation was available.
+Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed in Run #66 because no new user/browser confirmation was available.
 
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN65.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN66.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN65.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN66.csv`**
 
 ## Verification rule
 
