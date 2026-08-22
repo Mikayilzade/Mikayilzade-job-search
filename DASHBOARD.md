@@ -1,30 +1,31 @@
 # Job Search Dashboard
 
-> **Candidate pool: 318 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 324 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #45.
+> Updated: 2026-08-22 after Autonomous Run #46.
 >
-> Counter note: candidate IDs now reach `C319`, but historical `C158` is absent, so the true unique total is **318**.
+> Counter note: candidate IDs now reach `C325`, but historical `C158` is absent, so the true unique total is **324**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest autonomous additions — C315–C319
+## Latest autonomous additions — C320–C325
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **83** | ADJACENT | Baku Electronics — ERP üzrə mütəxəssis | Unknown | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/baku-electronics-erp-uzre-mutexessis-148736)** |
-| B | **80** | ADJACENT | Xalq Bank — Ödəniş sistemləri ilə iş şöbəsinin aparıcı / baş mütəxəssisi | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://banco.az/az/jobs)** |
-| B | **79** | ADJACENT | AZCD Group — Internal Control Specialist | Unknown | Baku / current employer page | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://azcdgroup.com/career)** |
-| B | **78** | ADJACENT | Azerbaijan International Mining Company — Procurement Specialist (Baku) | Unknown | Baku / current-looking | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://smartjob.az/index.php/vacancies?job_category_id%5B%5D=67)** |
-| C | **71** | ADJACENT | Bank of Baku — Qeyri-kredit məhsulları şöbəsinin aparıcı eksperti | Unknown | Baku / **31 Aug employer index** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bankofbaku.com/az/vacancies)** |
+| A | **86** | ADJACENT | PASHA Bank — Biznes Proseslərin İdarəedilməsi şöbəsinin RPA üzrə Kiçik Mütəxəssisi | Unknown | Baku / **11–12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/pasha-bank-biznes-proseslerin-idareedilmesi-sobesinin-rpa-uzre-kicik-mutexessisi/)** |
+| A | **84** | ADJACENT | Unibank — Daxili nəzarət hesabatlığı üzrə Aparıcı mütəxəssis | Unknown | Baku / **27 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://unibank.az/az/hrsnew/vacanciesHrm/232)** |
+| B | **80** | ADJACENT | Azər Türk Bank — Satınalmalar şöbəsinin Aparıcı / Baş mütəxəssisi | Unknown | Baku / **30 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://banco.az/az/jobs)** |
+| B | **79** | ADJACENT | PASHA Bank — Məhsul üzrə Mütəxəssis (Hesab və ödəniş xidmətləri) | Unknown | Baku / current Aug listing | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/satis/satis-uzre-mutexessis/mehsul-uzre-mutexessis-hesab-ve-odenis-xidmetleri-pasha-bank-e2cebb)** |
+| B | **76** | ADJACENT | PASHA Bank — Layihələrin İdarə edilməsi üzrə Kiçik Layihə Rəhbəri | Unknown | Baku / **9–10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-layihelerin-idare-edilmesi-uzre-kicik-layihe-rehberi-148049/vacancies)** |
+| C | **74** | ADJACENT | PASHA Bank — Rəqəmsal dələduzluq əməliyyatlar qrupu üzrə kiçik mütəxəssis | Agreement-based | Baku / **5–6 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/reqemsal-deleduzluq-emeliyyatlar-qrupu-uzre-kicik-mutexessis-215859142)** |
 
 ### Best new fits
 
-**Baku Electronics — ERP üzrə mütəxəssis — 83/100.** This is one of the more interesting system-side transitions: ERP support, stock/master-data changes, internal requests, finance/procurement document handling and problem resolution align closely with SAP/S4/MDG finance operations. The explicit SQL and Power BI requirement keeps it below a direct-fit score.
+**PASHA Bank — RPA Junior Specialist — 86/100.** Process analysis, automation opportunity identification, requirements gathering, documentation, testing, training and continuous improvement align unusually well with the existing Excel/VBA automation and finance-process background. The main gaps are formal RPA tooling/configuration and the explicit 1+ year BA/process-improvement/RPA experience requirement.
 
-**Xalq Bank — Payment Systems Lead/Chief Specialist — 80/100.** Payment-system reporting, Excel/Power Query and analytical control work map well to payment/reconciliation strengths. The real barrier is direct bank-card/payment-system experience, which the role explicitly asks for.
+**Unibank — Internal Control Reporting Lead Specialist — 84/100.** Operational controls, incident tracking, root-cause/risk analysis, large-data reporting and process-control optimization fit strongly with reconciliation, audit-support, exception-handling and control experience. Oracle PL/SQL and direct bank/internal-control ownership are the main gaps.
 
-**AZCD Group — Internal Control Specialist — 79/100.** Process-control testing, weakness identification, inventory/process monitoring and remediation fit the controls/process-improvement side of the profile. Employer site currently shows the vacancy, but compensation and exact deadline are still unknown.
+**Azər Türk Bank — Procurement Lead/Chief Specialist — 80/100.** P2P/vendor/document control, Excel/ERP and stakeholder follow-up transfer well from AP/vendor-master experience; direct sourcing, tendering and negotiation are the main transition gaps.
 
 ## User-found live vacancies — 22 Aug
 
@@ -49,7 +50,7 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN45.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN46.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
 - Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN45.csv`**
 
