@@ -2,32 +2,32 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #54 — 2026-08-22 around 14:27 AZT**.
-- **Candidate pool: 368 unique total.**
+- Last completed run: **Autonomous Run #55 — 2026-08-22 around 15:27 AZT**.
+- **Candidate pool: 374 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN54.csv`.
-- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN54.csv`.
+- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN55.csv`.
+- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN55.csv`.
 - Repository remains the sole persistent source of truth.
-- Counter reconciliation: candidate IDs reach `C369`, but historical `C158` is absent, so the true unique count is 368.
+- Counter reconciliation: candidate IDs reach `C375`, but historical `C158` is absent, so the true unique count is 374.
 
 ## User override
 Continue open-ended search and add new high-quality options until the user explicitly stops the process. The former 100-candidate cap is retired.
 
 ## Latest run result
-Added **6** new candidates, C364–C369:
-1. **PASHA Bank — Payment Execution Junior Specialist — C364 — 88 — Priority A.** Fresh August listing. Payment execution, transaction/document checks, system registration and exception/compliance handling are unusually close to payment-proposal and finance-operations experience. Main gaps: bank AML/CTF rules and direct banking payments; junior title creates compensation risk.
-2. **Bank Respublika — Business Support Junior Specialist/Specialist — C365 — 82 — Priority B.** Deadline **17 Sep**. Business reporting, process/tool development, cross-functional coordination and technology-enabled sales support transfer well from finance operations and automation work.
-3. **m10 / Bir (Kapital Bank) — IT Business Analyst, Payment Platforms Tribe — C367 — 78 — Priority B.** Deadline **19 Sep**. Payments/process/requirements/root-cause work is relevant, but formal IT BA, fintech APIs, SQL/Postman and Agile are substantial gaps.
-4. **PROSYS — IT Business Analyst — C366 — 77 — Priority B.** Deadline **13 Sep**. Process optimization and requirements/documentation fit the automation mindset; 3 years formal BA plus SQL/PLSQL/Jira/Visio/Agile are real gaps.
-5. **Xalq Bank — Payment Systems Lead/Chief Specialist — C368 — 76 — Priority B.** Current employer career page and banking vacancy index list the role; index deadline **11 Sep**. Strong Excel/Power Query/payment reporting overlap, but direct card/payment-system banking experience is requested.
-6. **PASHA Bank — B2B Open Banking Product Owner — C369 — 74 — Priority C.** Current August listing, JobSearch deadline **11 Sep**. Payment services, KPI monitoring and stakeholder/process ownership transfer, but formal product ownership/backlog/roadmap leadership is a major stretch.
+Added **6** new candidates, C370–C375:
+1. **Kontakt Home — Biznes prosesləri üzrə mütəxəssis — C370 — 88 — Priority A.** Deadline **19 Sep**. AS-IS/TO-BE mapping, GAP analysis, ERP integration points, automation/AI opportunity assessment and cross-functional process improvement align unusually well with SAP/S4 finance-process and VBA automation strengths. Main gaps are formal BPM/BA tooling, SQL/API basics and dedicated transformation-project experience.
+2. **Anonymous employer — Finance / Data Associate — C371 — 85 — Priority A.** Deadline **23 Aug**. Treasury/deposit coordination, reconciliation, financial-data validation, Excel, dashboards, ERP familiarity and structured recurring reporting are a strong bridge from finance operations. Budget/P&L reporting and investment-holding context are adjacent gaps; employer and pay are unpublished.
+3. **Mars Overseas Baku — Baş mütəxəssis (Mühasibatlıq şöbəsi) — C372 — 84 — Priority A.** Deadline **4 Sep**. ERP functionality, finance-operation controls, accounting-register accuracy and process implementation are strong transfer areas; broader statutory/local accounting ownership remains a gap.
+4. **OBA — Əmək haqqı hesablaması üzrə aparıcı mütəxəssis — C373 — 76 — Priority B.** Current sources show deadlines between **3–17 Sep**. SAP, recurring high-volume calculations, validation, controls and payment execution transfer, but end-to-end payroll plus Azerbaijani payroll tax/DSMF/insurance ownership are real gaps.
+5. **Azercell — SAP Logistics (MM/SD/PM) Specialist — C374 — 72 — Priority C.** Fresh **19 Aug** listing with employer application route. S/4HANA/P2P/testing/documentation fit is strong, but 4–6 years direct MM/SD/PM configuration and lifecycle implementation experience make this a genuine technical stretch.
+6. **Anonymous Company — Data / Finance Manager — C375 — 71 — Priority C.** Deadline **30 Aug**. Payment workflows, banking, controls, reconciliations, Excel/Power Query and data integrity overlap well; investor reporting, budgeting/forecasting, treasury ownership and team leadership make the senior transition gap substantial.
 
 ## Screened out this run
-- **Capital Logistics — Accounts Payable:** excellent direct fit but published **1,500 AZN + KPI**, late shifts to 01:00 and fluent English requirement; rejected on economics/lifestyle.
-- **Baku Steel Company — Senior Vendor Management Specialist:** company index residue conflicts with exact LinkedIn closed state and dated 31 Jul deadline; preserved as status conflict/closed.
-- **VMF KAFE — Accountant:** fresh but **700–750 AZN**, far below target.
-- **Agro Vest DC — Tax Accountant:** **1,500–1,800 AZN net**, below target and tax/statutory-heavy.
+- **Azera Holding — Aparıcı Mühasib:** fresh/current deadline around **29–30 Aug**, but published pay starts at **1,500 AZN** and the role is broad statutory/tax/payroll accounting; rejected on economics and scope.
+- **Kontakt Home — Kreditor:** exact recent requisition expired **19–20 Aug**; not re-added despite aggregator residue.
+- **Capital Logistics — Accounts Payable:** rediscovered but already rejected earlier for **1,500 AZN + KPI**, late shifts to 01:00 and fluent-English requirement.
+- **Baku Electronics — ERP Specialist:** rediscovered; already present in the candidate history, so no duplicate.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -39,12 +39,12 @@ Added **6** new candidates, C364–C369:
 7. **Bolt — Operations Manager — 71**.
 
 ## NEXT ACTION
-1. Prioritize exact re-open/application checks for **ADA University — Specialist, Accounts Payable** before **23 Aug**, **Veysəloğlu — Supplier Orders Lead** before **24 Aug**, and **Marpro Logistics — AP/AR Controller** before **27–28 Aug**.
-2. Add a focused scan of **payment execution / settlements / treasury operations / banking back-office** roles because Run #54 showed strong transferability from AP/payment operations without requiring full accounting or FP&A ownership.
-3. Continue fresh search for **direct AP/AR/controller, SAP/ERP functional support, contract/commercial administration, master data and P2P/procurement analytics**.
-4. Prefer employer career pages and current ATS/application routes; use aggregators for discovery/deadline triangulation only.
+1. Urgently re-open/application-check **ADA University — Specialist, Accounts Payable** before **23 Aug**, **Finance / Data Associate — C371** before **23 Aug**, **Veysəloğlu — Supplier Orders Lead** before **24 Aug**, and **Marpro Logistics — AP/AR Controller** before **27–28 Aug**.
+2. Continue a focused scan of **payment execution / settlements / treasury operations / banking back-office** roles because transferability from AP/payment operations remains strong.
+3. Search fresh **direct AP/AR/controller, SAP/ERP functional support, contract/commercial administration, master data, business-process automation and P2P/procurement analytics** roles.
+4. Prefer employer career pages and current ATS/application routes; use aggregators primarily for discovery and deadline triangulation.
 5. Continue international search only for explicit Azerbaijan eligibility, worldwide remote, or lawful contractor/EOR/relocation routes.
 6. Keep compensation filtering strict; clearly sub-target published pay goes to rejected history.
 7. Preserve browser verification separation: `VACANCIES.csv` changes only on user/browser-confirmed exact live evidence.
-8. Treat banking/card-domain experience, SQL/APIs, formal BA/product ownership, direct procurement/tendering, local tax/statutory ownership, FP&A and specialist audit/risk/compliance as real gaps unless demonstrated otherwise.
+8. Treat payroll/local tax, SQL/APIs, formal BPM/BA, SAP module configuration, budgeting/FP&A, direct procurement/tendering and specialist audit/risk/compliance as real gaps unless demonstrated otherwise.
 9. Continue until an explicit user stop instruction is recorded.
