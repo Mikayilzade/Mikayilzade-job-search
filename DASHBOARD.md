@@ -1,40 +1,40 @@
 # Job Search Dashboard
 
-> **Candidate pool: 421 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 427 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #64.
+> Updated: 2026-08-22 after Autonomous Run #65.
 >
-> Candidate IDs now reach `C422`; historical `C158` is absent, so the true unique total is **421**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C428`; historical `C158` is absent, so the true unique total is **427**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C417–C422
+## Latest additions — C423–C428
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **87** | ADJACENT | Mind Services — Əməliyyat Analitiki | Unknown | Baku / **21 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/mind-services-emeliyyat-analitiki-149047)** |
-| A | **85** | ADJACENT | B2B Group — Satınalma üzrə Koordinator | Agreement-based | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/b2b-group-satinalma-uzre-koordinator-148933)** |
-| B | **77** | ADJACENT | OBA — Operativ Nəzarət üzrə mütəxəssis (Bakı) | Unknown | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/oba-marketler-shebekesi-operativ-nezaret-uzre-mutexessis-baki-149026)** |
-| B | **76** | ADJACENT | Vault.az — Tender və Satınalma üzrə Mütəxəssis | Agreement-based | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/vaultaz-tender-ve-satinalma-uzre-mutexessis-148966)** |
-| B | **75** | STRETCH | PASHA Bank — EXS və Risk Monitorinq üzrə Kiçik Mütəxəssis | Unknown | Baku / **21 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-kreditlere-nezaret-departamentinin-exs-ve-risk-monitorinq-qrupu-uzre-kicik-mutexessis-149065)** |
-| C | **70** | STRETCH | Company — Maliyyə hesabatı üzrə mütəxəssis | Agreement-based | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-maliyye-hesabati-uzre-mutexessis-148936)** |
+| A | **89** | CORE | Retail Group Azerbaijan — Accountant | Agreement-based | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/retail-group-azerbaijan-accountant-148872/vacancies)** |
+| A | **85** | CORE | Prime Core Construction — Accountant AP/AR | Unknown | Baku / fresh **19 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jooble.az/en/vacancies/tecili-is-elani-prime-core-construction-accountant-apar-8218954)** |
+| B | **78** | ADJACENT | Bank Respublika — Biznesə dəstək şöbəsinin kiçik mütəxəssisi/mütəxəssisi | Agreement-based | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/bank-respublika-asc-biznese-destek-sobesinin-kicik-mutexessisimutexessisi-148665)** |
+| B | **77** | ADJACENT | Norm OJSC — Əsas Vəsaitlər və İnventar üzrə Kiçik Mühasib | Unknown | Baku/Qaradağ / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/norm-ojsc-esas-vesaitler-ve-inventar-uzre-kicik-muhasib-149078)** |
+| C | **74** | ADJACENT | Blackwell — Procurement Specialist | Competitive / experience-based | Baku / **24 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/blackwell-procurement-specialist-146786/about-company?hl=en)** |
+| C | **71** | STRETCH | Bank of Baku — Analitik və təqibə dəstək bölməsinin eksperti | Agreement-based | Baku / **3 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.hellojob.az/vakansiya/analitik-ve-teqibe-destek-bolmesinin-eksperti-1538)** |
 
 ### Best new fits
 
-**Mind Services — Operations Analyst — 87/100.** One of the most interesting transition roles found so far: the employer explicitly accepts candidates changing profession and provides six weeks of intensive training. Contract/invoice/document checking, discrepancy detection, Excel/Pivot, digital systems and end-to-end process tracking are unusually close to the existing skill set.
+**Retail Group Azerbaijan — Accountant — 89/100.** Daily sales, cash, card and bank reconciliation; discrepancy investigation; refund controls; cash audits; large transaction volumes; Excel and ERP/POS make this one of the clearest finance-operations matches in the current pool. Retail experience is an advantage rather than a hard requirement; compensation is unpublished.
 
-**B2B Group — Procurement Coordinator — 85/100.** RFQs, purchase requests, procedure compliance, supplier/commercial-offer comparisons, delayed/risky process monitoring, reporting and data systematization strongly overlap with P2P/vendor/Excel work. The main stretch is direct procurement-team coordination rather than functional skill mismatch.
+**Prime Core Construction — Accountant AP/AR — 85/100.** The AP/AR core is excellent: vendor/customer reconciliations, invoices, bank/cash/card allocation, aging, month-end, audit support and ERP/Excel. The score is intentionally restrained because 2 years of construction/real-estate accounting and construction-specific retention/percentage-of-completion knowledge are explicitly requested.
 
-**OBA — Operational Control Specialist — 77/100.** Practical control/checklist/inventory/cash-process work transfers well from reconciliation and finance controls. The mandatory own-car requirement and field/CCTV nature materially reduce the fit.
+**Bank Respublika — Business Support — 78/100.** Strong process-analysis/testing/optimization, business-requirements, reporting, digitalization and cross-functional coordination overlap. The direct corporate-banking/product requirement is a real transition gap.
 
 ## Browser-confirmed live subset
 
-Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed in Run #64 because no new user/browser confirmation was available.
+Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed in Run #65 because no new user/browser confirmation was available.
 
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN64.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN65.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN64.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN65.csv`**
 
 ## Verification rule
 
