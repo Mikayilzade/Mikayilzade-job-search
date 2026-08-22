@@ -2,29 +2,29 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #60 — 2026-08-22 around 18:31 AZT**.
-- **Candidate pool: 399 unique total.**
+- Last completed run: **Autonomous Run #61 — 2026-08-22 around 19:40 AZT**.
+- **Candidate pool: 404 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Additive candidate ledgers continue through `CANDIDATES_RUN60.csv`; rejected ledgers through `REJECTED_RUN60.csv`.
-- Counter reconciliation: candidate IDs reach `C400`, but historical `C158` is absent, so true unique count is 399.
+- Additive candidate ledgers continue through `CANDIDATES_RUN61.csv`; rejected ledgers through `REJECTED_RUN61.csv`.
+- Counter reconciliation: candidate IDs reach `C405`, but historical `C158` is absent, so true unique count is 404.
 
 ## User override
 Continue open-ended search until the user explicitly stops. Former 100-candidate cap is retired.
 
 ## Latest run result
-Added **6** new candidates, C395–C400:
-1. **Bank Respublika — Əməliyyatlara Nəzarət / İlkin Nəzarət Mütəxəssisi / Aparıcı Mütəxəssisi — C395 — 88 — Priority A.** Deadline **17 Sep**. Operational controls, pre/post checks, daily/monthly reporting, new-product/report testing and query resolution align extremely well with reconciliation, audit-support and finance-control experience. Banking-regulation/internal-control specialization is the main gap.
-2. **Expressbank — Bank kartları üzrə hesablaşmalar / aparıcı mütəxəssis — C396 — 87 — Priority A.** Employer career page remains current; deadline around **9–10 Sep**. Clearing files, account controls, payment-system coordination and settlement reporting are a strong bridge from payment proposals, reconciliations and transaction controls. Direct card-processing experience is the key gap.
-3. **Unibank — Bank proseslərinə dəstək Şöbəsinin kiçik Mütəxəssisi — C398 — 84 — Priority B.** Employer page deadline **9 Sep**. Operational-request investigation, recurring system processes, user/application support, problematic-payment investigation and end-of-day close map strongly to SAP/S4/MDG operations. Initial Oracle SQL plus junior-title economics are risks.
-4. **Kapital Bank — Proseslər üzrə ekspert — C397 — 82 — Priority B.** Deadline **13 Sep**. Process mapping, manual-step removal, end-to-end optimization, automation and AI/digital tooling are highly relevant to the demonstrated VBA/Excel/process-improvement strengths; formal product/agile-process ownership is the main transition gap.
-5. **Unibank — Korporativ xidmətlər üzrə kiçik Mütəxəssis/Mütəxəssis — C399 — 77 — Priority B.** Deadline **6 Sep**. Corporate-account/document/transaction operations are transferable, but the customer-sales/service component is broader than AP.
-6. **Expressbank — Universal bank işçisi/mütəxəssis/aparıcı/böyük mütəxəssis — C400 — 76 — Priority B.** Employer page deadline **18 Sep**. Payment-document/account operations and document controls fit, though branch sales/credit duties and compensation uncertainty reduce the score.
+Added **5** new candidates, C401–C405:
+1. **Kapital Bank — Hesablaşmalar üzrə mütəxəssis — C401 — 88 — Priority A.** Deadline **27 Aug**. Bank/partner reconciliation, clearing, settlement execution, accounting-system knowledge and Excel are a strong match to payment/reconciliation experience. SQL and direct bank-clearing experience are the main gaps.
+2. **PASHA Bank — Hesablaşmalar şöbəsinin Ödənişlərin icrası qrupunun Kiçik mütəxəssisi — C402 — 87 — Priority A.** Deadline **13 Sep**. Payment checks/execution, documentation, controls and customer support are close to AP payment operations. Banking AML/CTF process knowledge and junior-title economics are the main risks.
+3. **Prime Leasing — Əməliyyatlar üzrə kiçik mütəxəssis — C403 — 82 — Priority B.** Deadline **18 Sep**. Transaction execution, system registration, document verification and procedure compliance transfer well from ERP-driven finance operations; leasing-specific operations are the main gap.
+4. **PASHA Bank — EXS və Risk Monitorinq qrupu üzrə Kiçik Mütəxəssis — C405 — 74 — Priority C.** Deadline **21 Sep**. Finance/reporting, integration-support and process-monitoring strengths transfer; credit-risk modeling is new and SQL/Python/R are desirable.
+5. **Bank of Baku — Analitik və təqibə dəstək bölməsinin eksperti — C404 — 73 — Priority C.** Deadline **3 Sep**. Large-data structuring, recurring reporting and KPI monitoring fit, but high SQL and problem-loan analytics are real gaps.
 
 ## Screened out this run
-- **Expro — Accounts Assistant:** current 3-month internship explicitly aimed at fresh 2025–2026 graduates; rejected on seniority/economics.
-- **ABB — Kart mərkəzinin fəaliyyətinə dair asisstent:** fresh but primarily physical card delivery/basic reporting; rejected on scope/seniority/economics.
-- **Bank of Baku — Əməliyyat bölməsinin kiçik eksperti:** fresh near-deadline junior branch-credit operations role; WATCH/not counted because economics and seniority are weak.
+- **Beynəlxalq Lizinq — Mühasib:** 800–900 AZN; rejected on compensation.
+- **New Look Consultancy — Mühasib köməkçisi:** 700 AZN and explicitly female-only; rejected on compensation/eligibility.
+- **PASHA Bank — Mühasibatlıq və Vergi üzrə Baş mütəxəssis:** fresh but dominated by senior Azerbaijan tax ownership, IAS 12/IFRS/tax declarations; rejected on specialist-fit gap.
+- **ABB — Model Risk Management Specialist/Lead:** fresh but requires model validation, Python/SQL/statistics/ML; rejected on technical-fit gap.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -36,8 +36,8 @@ Added **6** new candidates, C395–C400:
 7. **Bolt — Operations Manager — 71**.
 
 ## NEXT ACTION
-1. Prioritize exact freshness/compensation checks for **Bank Respublika Operations Control (C395)**, **Expressbank Card Settlements (C396)** and **Unibank Bank Process Support (C398)**.
-2. Continue searching fresh AP/P2P, finance controls, settlements/payment execution, bank back-office, reconciliation, treasury-operations and transaction-control roles.
+1. Prioritize exact freshness/compensation checks for **Kapital Bank Settlements (C401)** and **PASHA Bank Payment Execution (C402)** because they are among the strongest payments/reconciliation bridges and Kapital Bank closes **27 Aug**.
+2. Continue searching fresh AP/P2P, settlements/payment execution, bank back-office, finance controls, reconciliation, treasury-operations and transaction-control roles.
 3. Continue SAP/ERP support, master-data, process automation/BPM, process/product operations and implementation-support roles where the bridge from S4/MDG/Excel automation is credible.
 4. Re-check older high-fit candidates with near deadlines before they expire; move exact closed/expired evidence to rejected history rather than counting stale snapshots.
 5. Keep compensation filtering strict; do not change `VACANCIES.csv` without browser-confirmed live evidence.
