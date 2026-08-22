@@ -1,29 +1,28 @@
 # Job Search Dashboard
 
-> **Candidate pool: 339 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 344 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #49.
+> Updated: 2026-08-22 after Autonomous Run #50.
 >
-> Candidate IDs now reach `C340`; historical `C158` is absent, so the true unique total is **339**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C345`; historical `C158` is absent, so the true unique total is **344**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C335–C340
+## Latest additions — C341–C345
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **83** | ADJACENT | TABIA Group — Internal Control Specialist | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/daxili-nezaret-uzre-mutexessis/daxili-nezaret-uzre-mutexessis-tabia-group-llc-e96bfe)** |
-| B | **80** | ADJACENT | Landau Education Group — Expense Control Specialist | Unknown | Baku / **17–18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/landau-education-group-xerclere-nezaret-uzre-mutexessis-148664)** |
-| B | **80** | ADJACENT | Fregat LLC — Procurement Specialist | Interview-based | Baku / current | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://umano.az/?prop_item=31480&vacancy_type=1)** |
-| B | **77** | ADJACENT | Europark MMC — Aparıcı Mühasib | Unknown | Baku / **16 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/vacancies/europark-mmc-aparici-muhasib-148634)** |
-| C | **72** | STRETCH | AGRO-WEST DC — 1C Data Admin | **2,500–3,000 AZN** | Baku / current | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/companies-en/agro-west-dc-llc-3/vacancies)** |
-| C | **71** | ADJACENT | Company — Payroll Specialist | Competitive / amount unknown | Baku / **27 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-payroll-specialist-146912?hl=en)** |
+| A | **89** | ADJACENT | eiGroup — Contracts & Commercial Administration Specialist | Unknown | Baku / current employer page | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://eigroup.breezy.hr/p/4b81afb3ed42-contracts-commercial-administration-specialist)** |
+| B | **80** | ADJACENT | İnnovasiya və Rəqəmsal İnkişaf Agentliyi — Daxili Audit üzrə Aparıcı mütəxəssis | Unknown | Baku / late Aug–early Sep | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/innovasiya-ve-reqemsal-inkisaf-agentliyi-daxili-audit-uzre-aparici-mutexessis-147757)** |
+| B | **76** | ADJACENT | IRES — Internal Control Expert | Unknown | Baku / **29–30 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/ires-internal-control-expert-147186/about-company)** |
+| C | **74** | STRETCH | ASG Business Aviation — Airworthiness Safety & Records Specialist | Unknown | Baku / current Aug listing | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/ru/vakansii/logistika-i-zakupki/specialist-po-bezopasnosti-poletov/airworthiness-safety-records-specialist-asg-business-aviation-1f2e2a)** |
+| C | **73** | ADJACENT | AzerGold — Internal Control / Ethics & Compliance Specialist | Unknown | Baku / **22 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.birjob.com/jobs/mutexessis-daxili-nezaret-sobesi-etika-ve-uygunluq-azergold-7250241)** |
 
 ### Best new fits
 
-**TABIA Group — Internal Control Specialist — 83/100.** ERP, financial/process checks, Excel, process optimization and internal-control work map well to reconciliations, audit support and exception handling. The main gap is direct internal-control ownership.
+**eiGroup — Contracts & Commercial Administration Specialist — 89/100.** Contract lifecycle tracking, invoices, purchase orders, acceptance acts, supporting payment documentation, Finance/Legal/vendor coordination and deadline control are unusually close to the existing AP/P2P/vendor/process skill set. Main unknown is compensation.
 
-**Landau — Expense Control Specialist — 80/100.** Expense analysis, stock controls, discrepancy investigation and purchased-item document/price checks fit finance controls and P2P strengths. Catering cost control, recipe costing, IIKO and 1C are direct gaps.
+**İnnovasiya və Rəqəmsal İnkişaf Agentliyi — Internal Audit Lead Specialist — 80/100.** Process flows, risk points, testing documentation, findings and corrective-action tracking transfer strongly from reconciliations, audit support and controls. Direct internal-audit ownership remains the key gap.
 
-**Fregat — Procurement Specialist — 80/100.** Supplier evaluation, quotations/payment terms, POs, audit records, cost analysis and finance/warehouse coordination are a strong P2P/vendor bridge; sourcing and negotiation ownership remain the main transition gap.
+**IRES — Internal Control Expert — 76/100.** Control-gap analysis, corrective actions, stakeholder coordination and reporting fit well; COSO and 3–5 years direct internal-control/risk/audit experience are explicit gaps.
 
 ## Browser-confirmed live subset
 
@@ -40,9 +39,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN49.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN50.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN49.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN50.csv`**
 
 ## Verification rule
 
