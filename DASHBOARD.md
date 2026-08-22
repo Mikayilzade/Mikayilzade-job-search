@@ -1,38 +1,40 @@
 # Job Search Dashboard
 
-> **Candidate pool: 441 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 447 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-23 after Autonomous Run #68.
+> Updated: 2026-08-23 after Autonomous Run #69.
 >
-> Candidate IDs now reach `C442`; historical `C158` is absent, so the true unique total is **441**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C448`; historical `C158` is absent, so the true unique total is **447**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C439–C442
+## Latest additions — C443–C448
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| B | **78** | ADJACENT | Qala Group — Baş Təchizat Mütəxəssisi / Senior Procurement Specialist | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/logistika-ve-satinalma/satinalma-uzre-mutexessis/bas-techizat-mutexessisi-senior-procurement-specialist-qala-group-f09f0f)** |
-| B | **76** | ADJACENT | PASHA Bank — Rəqəmsal dələduzluq əməliyyatlar qrupu üzrə kiçik mütəxəssis | Unknown | Baku / **5 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://finstaff.az/pdf_vakansiya_pub.php?id=18140)** |
-| C | **74** | ADJACENT | Xalq Bank — Risk nəzarəti və hesabatlıq üzrə aparıcı/böyük/baş mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://finstaff.az/vakansiya/18157/)** |
-| C | **72** | STRETCH | Company — Maliyyə hesabatı üzrə mütəxəssis | Agreement-based | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-maliyye-hesabati-uzre-mutexessis-148936)** |
+| A | **94** | CORE | Sabah Capital Partners — Kreditor mühasib | Candidate-based / unpublished | Baku / **27 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/kreditor-muhasib-sabah-capital-partners-mmc-d91805)** |
+| A | **88** | CORE | Sabah Capital Partners — Receivable Accountant | Candidate-based / unpublished | Baku / **26–27 Aug** source conflict | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/receivable-accountant-debitor-borclar-uzre-muhasib-tikinti-sahesi-sabah-capital-bb34a5)** |
+| B | **79** | ADJACENT | Safe Life — Mühasib | Agreement-based | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/muhasib-safe-life-mmc-df73ee)** |
+| B | **76** | ADJACENT | İdeal Kredit BOKT — Mühasib | Unknown | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/ideal-kredit-bokt-muhasib-148823)** |
+| B | **76** | ADJACENT | Detal Construction — Satınalma və Təchizat üzrə Mütəxəssis | Agreement-based | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/detal-construction-satinalma-ve-techizat-uzre-mutexessis-insaat-sahesi-148771)** |
+| B | **75** | ADJACENT | AGT Cargo — Mühasib | Unknown | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/agt-cargo-muhasib-148820)** |
 
 ### Best new fits
 
-**Qala Group — Senior Procurement Specialist — 78/100.** Supplier management, ERP, procurement-process discipline, market/financial analysis and cross-functional coordination transfer well from P2P/vendor operations. The main gaps are 5+ years direct procurement plus tender/contract/negotiation ownership.
+**Sabah Capital Partners — Kreditor mühasib — 94/100.** Supplier/contractor invoices, payment orders, AP registers, bank statements, reconciliations, cost-center allocation and document flow are almost a direct match to the current AP/P2P profile. Main gaps are 1C and construction-specific Forma 2/Forma 3; the junior label creates a compensation risk.
 
-**PASHA Bank — Digital Fraud Operations Junior Specialist — 76/100.** Transaction monitoring, exception/control work, incident handling, complaint follow-up, Excel and process-improvement thinking create a credible adjacent move. The key gaps are banking/card-product and fraud-system experience.
+**Sabah Capital Partners — Receivable Accountant — 88/100.** Customer receivables, invoices, payment schedules, bank-statement checks, monthly AR reporting, ERP data and audit support make this a very strong AR-side transition. Source snapshots disagree between 26 and 27 Aug for the deadline, so it should be checked immediately.
 
-**Xalq Bank — Risk Control & Reporting — 74/100.** Control processes, documentation, incident analysis, coordination and reporting are relevant; direct enterprise-risk experience and the master's requirement make this a stretch rather than a core fit.
+**Safe Life — Mühasib — 79/100.** Fresh local accounting role with agreement-based pay, Excel and document/control overlap. Broader local tax/statutory accounting remains the main gap.
 
 ## Browser-confirmed live subset
 
-Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed in Run #68 because no new user/browser confirmation was available.
+Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed in Run #69 because no new user/browser confirmation was available.
 
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN68.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN69.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN68.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN69.csv`**
 
 ## Verification rule
 
