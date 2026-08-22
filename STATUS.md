@@ -2,32 +2,32 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #51 — 2026-08-22 around 12:00 AZT**.
-- **Candidate pool: 350 unique total.**
+- Last completed run: **Autonomous Run #52 — 2026-08-22 around 12:30 AZT**.
+- **Candidate pool: 356 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN51.csv`.
-- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN51.csv`.
+- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN52.csv`.
+- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN52.csv`.
 - Repository remains the sole persistent source of truth.
-- Counter reconciliation: candidate IDs reach `C351`, but historical `C158` is absent, so the true unique count is 350.
+- Counter reconciliation: candidate IDs reach `C357`, but historical `C158` is absent, so the true unique count is 356.
 
 ## User override
 Continue open-ended search and add new high-quality options until the user explicitly stops the process. The former 100-candidate cap is retired.
 
 ## Latest run result
-Added **6** new candidates, C346–C351:
-1. **Airswift — Project Requisitioner (Nationals Only) — C346 — 87 — Priority A / STATUS_CONFLICT.** Airswift's current Baku vacancy index lists a permanent Baku role dated 11 Aug 2026, while the linked exact detail page still carries older Sep 2025 metadata. Supplier payments, SAP data entry, purchasing procedures and project-document support fit exceptionally well, but browser freshness must be rechecked and the role requests 3+ years similar experience plus fluent English.
-2. **Azerconnect Group — Junior SCM Support Analyst — C347 — 87 — Priority A.** Current copies show deadline **27–28 Aug** and hybrid office/home work. ERP Procurement/SCM requirements, issue resolution, module testing, functional documentation and end-user support are an unusually strong bridge from SAP S/4/MDG/P2P work. Oracle Fusion/EBS configuration/OUM are the main gaps; junior title creates compensation risk.
-3. **Qafqaz NET LLC — Mühasib — C348 — 84 — Priority A.** Current copies show deadline around **2–3 Sep**. Daily accounting, incoming e-invoices, 1C posting, payments and document-flow coordination with procurement/sales/warehouse map closely to finance operations. Local 1C/e-invoice practice is the main gap; compensation is unpublished.
-4. **IRES — Procurement Specialist — C349 — 81 — Priority B.** Deadline **13 Sep**. PR-to-PO processing, supplier/commercial-document comparison, payment terms, contracts and Finance coordination transfer strongly; sourcing, tender evaluation, negotiation, logistics/customs and 1C procurement are real gaps.
-5. **SOCAR Upstream MI LLC — Procurement & Supply Chief Specialist — C350 — 77 — Priority B.** Fresh August listing, salary by agreement. ERP/Excel, supplier coordination and process discipline transfer, but annual procurement planning, strategy, market research and direct procurement ownership make this a meaningful stretch.
-6. **Chirag Plaza — Mühasib — C351 — 77 — Priority B.** Deadline **7 Sep**, salary by agreement. Debtor/creditor accounting, bank payments, invoices/contracts/acceptance acts and reconciliations fit well; local tax/statutory reporting and a six-day schedule reduce attractiveness.
+Added **6** new candidates, C352–C357:
+1. **Marpro Logistics — Accounts Payable & Receivable Controller — C352 — 93 — Priority A.** Current JobSearch copies show deadline **27–28 Aug** and compensation described as competitive/market-based. AP/AR control, payment planning, creditor/debtor management, multi-country cash coordination, credit limits, overdue follow-up and ERP/Excel are an exceptionally direct progression from AP/reconciliation/payment operations. The role is more collection-heavy and requires assertive stakeholder conversations.
+2. **ADA University — Specialist, Accounts Payable — C353 — 92 — Priority A.** Exact employer page shows closing date **23 Aug**. Direct AP/accounting operations, audit support, documentation, advanced Excel and stakeholder work fit extremely closely. Local tax legislation and IFRS/GAAP are explicit gaps; supervisor coverage can include tax-return tasks.
+3. **Enermus — Tender üzrə mütəxəssis — C354 — 83 — Priority A.** Fresh August listing. Supplier orders, ERP/1C entries, sales/accounting coordination, finance-operation tracking, acceptance acts and contract/document control transfer strongly from P2P/vendor operations. Direct tender ownership and 2+ years procurement/tender experience are the main gaps.
+4. **Baku Electronics — Daxili audit üzrə kiçik mütəxəssis — C357 — 80 — Priority B.** Employer careers index lists deadline **6 Sep**. ERP-vs-physical reconciliation, discrepancy investigation, documentation, control testing and recommendation follow-up fit well; direct internal-audit/IIA knowledge is a real gap and junior title creates compensation risk.
+5. **Aqrar Tədarük və Təchizat ASC — Satınalma üzrə mütəxəssis / aparıcı / baş mütəxəssis — C355 — 79 — Priority B.** Deadline **28 Aug**, salary by agreement. Supplier-market research, procurement documentation, annual-plan coordination and stakeholder work are transferable; state-procurement legislation and direct tender ownership are material gaps.
+6. **Fancy Group MMC — Uçot və inzibati işlər üzrə mütəxəssis — C356 — 77 — Priority B.** Deadline around **13–14 Sep**. Primary documents, 1C data entry, cash reporting, inventory/turnover records and document control fit transaction-control strengths. 1C/ƏMAS and potentially junior/admin-heavy scope are the main risks.
 
 ## Screened out this run
-- **Caspian Cable Systems — Əməliyyatçı mühasib:** fresh current copy is functionally strong, but explicitly lists age 21–25; repository profile does not establish eligibility for that access criterion, and local tax/statutory scope is material. Recorded as WATCH_ACCESS in `REJECTED_RUN51.csv`.
-- **New Look Consultancy — Mühasib köməkçisi:** 700 AZN and female-only application criterion; rejected.
-- **Akabe İnşaat — Mühasib:** matching current copy publishes 1,000 AZN; rejected on economics.
-- Marriott Baku accounting search snapshots were not added because current employer-search evidence was internally inconsistent across crawl versions; wait for a stable current exact requisition rather than padding the pool.
+- **ABB-İnvest — Aparıcı mühasib:** otherwise relevant but **ACCA F7 is mandatory**, plus local tax/statutory accounting and 1C; recorded in `REJECTED_RUN52.csv`.
+- **Capital Logistics — Accounts Payable:** excellent direct fit but published **1,500 AZN + KPI**, materially below target, with late shifts; rejected on economics/lifestyle.
+- **Caspian Industry — Satınalma və Satış Meneceri:** requires 8–10 years direct procurement/supply-chain/sales/tender/international-trade experience and 5 years managerial leadership; transition gap too large.
+- **Azəriş LTD — Maliyyə Rəhbəri:** requires senior finance-management, budgeting, statutory/tax and department leadership ownership well beyond demonstrated scope.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -39,11 +39,13 @@ Added **6** new candidates, C346–C351:
 7. **Bolt — Operations Manager — 71**.
 
 ## NEXT ACTION
-1. Continue fresh search with emphasis on **direct AP/AR/controller, SAP/ERP functional support, payment/settlement operations, contract/commercial administration and P2P/procurement analytics**.
-2. Re-check **Airswift Project Requisitioner** exact freshness first because current employer index and exact-page metadata conflict.
-3. Prioritize employer career pages and current JobSearch/HRX/Glorri/SmartJob/Banco feeds; reject stale crawl-only vacancies when exact current evidence conflicts.
-4. Search Azerbaijan-eligible international finance operations / ERP / payment roles with published compensation where possible; lawful worldwide contractor/EOR/relocation only.
-5. Keep compensation filtering strict; junior/local accounting roles with clearly sub-target pay should go directly to rejected history.
-6. Preserve browser verification separation: `VACANCIES.csv` changes only on user/browser-confirmed exact live evidence.
-7. Treat Oracle configuration/OUM, direct strategic procurement, local tax/statutory ownership, SQL/BI, FP&A/budgeting, formal audit/risk/compliance and fluent/native-language requirements as real gaps unless demonstrated otherwise.
-8. Continue until an explicit user stop instruction is recorded.
+1. Prioritize exact re-open/application checks for **ADA University — Specialist, Accounts Payable** before **23 Aug** and **Marpro Logistics — AP/AR Controller** before **27–28 Aug**.
+2. Continue fresh search with emphasis on **direct AP/AR/controller, SAP/ERP functional support, payment/settlement operations, contract/commercial administration and P2P/procurement analytics**.
+3. Inspect the current **Baku Electronics ERP üzrə mütəxəssis** employer listing and deduplicate it carefully against historical ERP candidates before adding.
+4. Re-check **Airswift Project Requisitioner** exact freshness because current employer index and exact-page metadata conflict.
+5. Prioritize employer career pages and current JobSearch/HRX/Glorri/SmartJob/Banco feeds; reject stale crawl-only vacancies when exact current evidence conflicts.
+6. Search Azerbaijan-eligible international finance operations / ERP / payment roles with published compensation where possible; lawful worldwide contractor/EOR/relocation only.
+7. Keep compensation filtering strict; junior/local accounting roles with clearly sub-target pay should go directly to rejected history.
+8. Preserve browser verification separation: `VACANCIES.csv` changes only on user/browser-confirmed exact live evidence.
+9. Treat Oracle configuration/OUM, direct strategic procurement, local tax/statutory ownership, SQL/BI, FP&A/budgeting, formal audit/risk/compliance and fluent/native-language requirements as real gaps unless demonstrated otherwise.
+10. Continue until an explicit user stop instruction is recorded.
