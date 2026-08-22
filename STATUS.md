@@ -2,32 +2,33 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #55 — 2026-08-22 around 15:27 AZT**.
-- **Candidate pool: 374 unique total.**
+- Last completed run: **Autonomous Run #56 — 2026-08-22 around 16:28 AZT**.
+- **Candidate pool: 379 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN55.csv`.
-- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN55.csv`.
+- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN56.csv`.
+- Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN56.csv`.
 - Repository remains the sole persistent source of truth.
-- Counter reconciliation: candidate IDs reach `C375`, but historical `C158` is absent, so the true unique count is 374.
+- Counter reconciliation: candidate IDs reach `C380`, but historical `C158` is absent, so the true unique count is 379.
 
 ## User override
 Continue open-ended search and add new high-quality options until the user explicitly stops the process. The former 100-candidate cap is retired.
 
 ## Latest run result
-Added **6** new candidates, C370–C375:
-1. **Kontakt Home — Biznes prosesləri üzrə mütəxəssis — C370 — 88 — Priority A.** Deadline **19 Sep**. AS-IS/TO-BE mapping, GAP analysis, ERP integration points, automation/AI opportunity assessment and cross-functional process improvement align unusually well with SAP/S4 finance-process and VBA automation strengths. Main gaps are formal BPM/BA tooling, SQL/API basics and dedicated transformation-project experience.
-2. **Anonymous employer — Finance / Data Associate — C371 — 85 — Priority A.** Deadline **23 Aug**. Treasury/deposit coordination, reconciliation, financial-data validation, Excel, dashboards, ERP familiarity and structured recurring reporting are a strong bridge from finance operations. Budget/P&L reporting and investment-holding context are adjacent gaps; employer and pay are unpublished.
-3. **Mars Overseas Baku — Baş mütəxəssis (Mühasibatlıq şöbəsi) — C372 — 84 — Priority A.** Deadline **4 Sep**. ERP functionality, finance-operation controls, accounting-register accuracy and process implementation are strong transfer areas; broader statutory/local accounting ownership remains a gap.
-4. **OBA — Əmək haqqı hesablaması üzrə aparıcı mütəxəssis — C373 — 76 — Priority B.** Current sources show deadlines between **3–17 Sep**. SAP, recurring high-volume calculations, validation, controls and payment execution transfer, but end-to-end payroll plus Azerbaijani payroll tax/DSMF/insurance ownership are real gaps.
-5. **Azercell — SAP Logistics (MM/SD/PM) Specialist — C374 — 72 — Priority C.** Fresh **19 Aug** listing with employer application route. S/4HANA/P2P/testing/documentation fit is strong, but 4–6 years direct MM/SD/PM configuration and lifecycle implementation experience make this a genuine technical stretch.
-6. **Anonymous Company — Data / Finance Manager — C375 — 71 — Priority C.** Deadline **30 Aug**. Payment workflows, banking, controls, reconciliations, Excel/Power Query and data integrity overlap well; investor reporting, budgeting/forecasting, treasury ownership and team leadership make the senior transition gap substantial.
+Added **5** new candidates, C376–C380:
+1. **ABB-İnvest — Aparıcı mühasib — C376 — 86 — Priority A.** Deadline **17 Sep**. Daily accounting, bank payments/transfers, account control and reconciliation are strongly transferable; local/statutory accounting and 1C ownership are the main gaps.
+2. **PASHA Bank — Maliyyə nəzarəti üzrə mütəxəssis — C377 — 83 — Priority A.** Deadline **10 Sep**. Balance/account controls, month-end checks, mismatch tracking, remediation verification and automation fit well; bank-product knowledge and SQL are gaps.
+3. **PMD Projects — Satınalmalar üzrə aparıcı mütəxəssis — C379 — 78 — Priority B.** Deadline **11 Sep**. Supplier evaluation, purchase-request/document flows, bid comparison and contract-support documentation transfer from P2P/vendor work; direct sourcing/tender ownership is missing.
+4. **Veysəloğlu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis — C378 — 77 — Priority B.** Deadline **17 Sep**. ERP finance operations, month-end, expenses and payment planning fit; budgeting/management reporting/local-law requirements are material gaps.
+5. **SOCAR — İşçi qüvvəsi planlaması üzrə mütəxəssis — C380 — 74 — Priority C.** Deadline reported **23 Aug**. Excel/data/process strengths create a plausible analytics transition, but direct workforce-planning/HR analytics experience is not established.
 
 ## Screened out this run
-- **Azera Holding — Aparıcı Mühasib:** fresh/current deadline around **29–30 Aug**, but published pay starts at **1,500 AZN** and the role is broad statutory/tax/payroll accounting; rejected on economics and scope.
-- **Kontakt Home — Kreditor:** exact recent requisition expired **19–20 Aug**; not re-added despite aggregator residue.
-- **Capital Logistics — Accounts Payable:** rediscovered but already rejected earlier for **1,500 AZN + KPI**, late shifts to 01:00 and fluent-English requirement.
-- **Baku Electronics — ERP Specialist:** rediscovered; already present in the candidate history, so no duplicate.
+- **Company — Mühasib:** 800 AZN net; rejected on compensation.
+- **Strata — Mühasib:** 1,500 AZN; rejected on compensation.
+- **Retinalab — Satınalma üzrə kiçik mütəxəssis:** 600–800 AZN + KPI and Saturday work; rejected on economics.
+- **Xalq Bank — Daxili Nəzarət / Monitorinq:** requires master's plus 2 years direct bank credit-monitoring experience; rejected on transition gap.
+- **Baku Electronics — Planlama və satınalma:** rediscovered but already in candidate history; no duplicate added.
+- **PASHA Bank — Məhsul üzrə Mütəxəssis (Hesab və ödəniş xidmətləri):** rediscovered; already in candidate history.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -39,11 +40,11 @@ Added **6** new candidates, C370–C375:
 7. **Bolt — Operations Manager — 71**.
 
 ## NEXT ACTION
-1. Urgently re-open/application-check **ADA University — Specialist, Accounts Payable** before **23 Aug**, **Finance / Data Associate — C371** before **23 Aug**, **Veysəloğlu — Supplier Orders Lead** before **24 Aug**, and **Marpro Logistics — AP/AR Controller** before **27–28 Aug**.
-2. Continue a focused scan of **payment execution / settlements / treasury operations / banking back-office** roles because transferability from AP/payment operations remains strong.
-3. Search fresh **direct AP/AR/controller, SAP/ERP functional support, contract/commercial administration, master data, business-process automation and P2P/procurement analytics** roles.
-4. Prefer employer career pages and current ATS/application routes; use aggregators primarily for discovery and deadline triangulation.
-5. Continue international search only for explicit Azerbaijan eligibility, worldwide remote, or lawful contractor/EOR/relocation routes.
+1. Re-check the very near-deadline **ADA University — Specialist, Accounts Payable**, **Finance / Data Associate — C371**, **SOCAR workforce planning — C380**, **Veysəloğlu Supplier Orders Lead**, and **Marpro Logistics — AP/AR Controller** before their deadlines.
+2. Continue focused scans of **AP/AR, payment execution / settlements / treasury operations, bank back-office, finance controls and reconciliations**.
+3. Continue fresh **SAP/ERP functional support, master data, contract/commercial administration, business-process automation and P2P/procurement analytics** searches.
+4. Prefer employer career pages and current ATS routes; use aggregators mainly for discovery/deadline triangulation.
+5. Continue international search only where Azerbaijan is explicitly eligible, worldwide remote is stated, or a lawful contractor/EOR/relocation route is plausible.
 6. Keep compensation filtering strict; clearly sub-target published pay goes to rejected history.
 7. Preserve browser verification separation: `VACANCIES.csv` changes only on user/browser-confirmed exact live evidence.
 8. Treat payroll/local tax, SQL/APIs, formal BPM/BA, SAP module configuration, budgeting/FP&A, direct procurement/tendering and specialist audit/risk/compliance as real gaps unless demonstrated otherwise.
