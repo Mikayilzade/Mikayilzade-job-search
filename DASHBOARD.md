@@ -1,47 +1,29 @@
 # Job Search Dashboard
 
-> **Candidate pool: 333 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 339 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Manual Run #48.
+> Updated: 2026-08-22 after Autonomous Run #49.
 >
-> Counter note: candidate IDs now reach `C334`, but historical `C158` is absent, so the true unique total is **333**.
->
-> Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
+> Candidate IDs now reach `C340`; historical `C158` is absent, so the true unique total is **339**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C331–C334
+## Latest additions — C335–C340
 
-| Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
+| Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **83** | ADJACENT | IKTEX — Vendor, Bid / Tender Manager | Unknown | Baku / **7 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/iktex-vendor-bid-tender-manager-147921)** |
-| A | **81** | DIRECT | Bridge Group — Financial Reporting Specialist | Interview-based | Baku / **4 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/bridge-group-of-companies-financial-reporting-specialist-147526)** |
-| B | **77** | DIRECT | Master Blend — Mühasib (Accountant) | **1,800–2,000 AZN** | Baku / **29 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/master-blend-ru-muhasib-accountant-147161)** |
-| B | **76** | ADJACENT | Mars Overseas Baku — Büdcə və hesabatlıq üzrə aparıcı mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/mars-overseas-baku-budce-ve-hesabatliq-uzre-aparici-mutexessis-148587)** |
+| A | **83** | ADJACENT | TABIA Group — Internal Control Specialist | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/daxili-nezaret-uzre-mutexessis/daxili-nezaret-uzre-mutexessis-tabia-group-llc-e96bfe)** |
+| B | **80** | ADJACENT | Landau Education Group — Expense Control Specialist | Unknown | Baku / **17–18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/landau-education-group-xerclere-nezaret-uzre-mutexessis-148664)** |
+| B | **80** | ADJACENT | Fregat LLC — Procurement Specialist | Interview-based | Baku / current | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://umano.az/?prop_item=31480&vacancy_type=1)** |
+| B | **77** | ADJACENT | Europark MMC — Aparıcı Mühasib | Unknown | Baku / **16 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/vacancies/europark-mmc-aparici-muhasib-148634)** |
+| C | **72** | STRETCH | AGRO-WEST DC — 1C Data Admin | **2,500–3,000 AZN** | Baku / current | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/companies-en/agro-west-dc-llc-3/vacancies)** |
+| C | **71** | ADJACENT | Company — Payroll Specialist | Competitive / amount unknown | Baku / **27 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-payroll-specialist-146912?hl=en)** |
 
 ### Best new fits
 
-**IKTEX — Vendor, Bid / Tender Manager — 83/100.** Vendor onboarding, quotation/payment-term control, compliance documentation, approvals, deadline tracking and finance/legal coordination transfer well from vendor-master and P2P operations. Direct tender ownership and ICT commercial experience are the main gaps.
+**TABIA Group — Internal Control Specialist — 83/100.** ERP, financial/process checks, Excel, process optimization and internal-control work map well to reconciliations, audit support and exception handling. The main gap is direct internal-control ownership.
 
-**Bridge Group — Financial Reporting Specialist — 81/100.** Vendor bills, supplier-document checks, bank postings and intercompany reconciliations are unusually close to existing AP/month-end work. The biggest issue is that ACCA F3 is explicitly required.
+**Landau — Expense Control Specialist — 80/100.** Expense analysis, stock controls, discrepancy investigation and purchased-item document/price checks fit finance controls and P2P strengths. Catering cost control, recipe costing, IIKO and 1C are direct gaps.
 
-**Master Blend — Accountant — 77/100.** The transactional side is strong: invoices, AP/AR, bank payments, reconciliations and ERP. The score is capped because the role also owns payroll, tax filings, fixed assets and full statutory reporting.
-
-## Previous strong additions — Run #47
-
-| Score | Company / Role | Salary | Deadline |
-|---:|---|---|---|
-| **87** | Apertech — ERP Consultant | Unknown | **18 Sep** |
-| **84** | PASHA Insurance — Business Process Management Lead/Chief Specialist | Unknown | **18 Sep** |
-| **82** | Respublika Diaqnostika Mərkəzi — Transformation Specialist | Interview-based | **6 Sep** |
-| **80** | IRES — Receivables Accountant | **1,500–1,800 AZN net** | **14 Sep** |
-| **79** | Baltic Transline Azerbaijan — Debt Collection Manager | Unknown | **29 Aug** |
-
-## User-found live vacancies — 22 Aug
-
-| Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
-|---|---:|---|---|---|---|---|---|
-| B | **79** | ADJACENT | OBA — Maliyyə üzrə Analtik (Logistika üzrə) | Unknown | Baku / **11 Sep** | ✅ USER_BROWSER_LIVE | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-maliyye-uzre-analtik-logistika-uzre-33864807?isLocal=true)** |
-| C | **74** | ADJACENT | Tabaterra — Aparıcı mühasib | Unknown | Baku / **18 Sep** | ✅ USER_BROWSER_LIVE | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/bas-muhasib/aparici-muhasib-tabaterra-mmc-b56b96)** |
-| C | **72** | ADJACENT | OBA — BI & SQL Reporting Specialist (Lead) | Unknown | Baku / **12 Sep** | ✅ USER_BROWSER_LIVE | **[Open ↗](https://jobs.glorri.com/vacancies/oba/oba-bi-sql-reporting-specialist-lead-30821625?isLocal=true)** |
+**Fregat — Procurement Specialist — 80/100.** Supplier evaluation, quotations/payment terms, POs, audit records, cost analysis and finance/warehouse coordination are a strong P2P/vendor bridge; sourcing and negotiation ownership remain the main transition gap.
 
 ## Browser-confirmed live subset
 
@@ -58,13 +40,12 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN48.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN49.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN45.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN49.csv`**
 
 ## Verification rule
 
-- ✅ `USER_BROWSER_LIVE` — exact vacancy opened/found by the user and confirmed available.
-- ❌ `USER_BROWSER_CLOSED` — user confirmed closed/removed; exclude from active pool.
-- 🟡 `TOOL_SNAPSHOT` — promising/current-looking discovery evidence, not a guarantee of exact browser availability.
-- Always re-open the exact link immediately before tailoring a CV or applying.
+- ✅ `USER_BROWSER_LIVE` — exact vacancy opened by the user and confirmed available.
+- ❌ `USER_BROWSER_CLOSED` — user confirmed closed/removed.
+- 🟡 `TOOL_SNAPSHOT` — current-looking search evidence; re-open exact link immediately before tailoring a CV or applying.
