@@ -2,30 +2,28 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #62 — 2026-08-22 around 20:35 AZT**.
-- **Candidate pool: 409 unique total.**
+- Last completed run: **Autonomous Run #63 — 2026-08-22 around 21:32 AZT**.
+- **Candidate pool: 415 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Additive candidate ledgers continue through `CANDIDATES_RUN62.csv`; rejected ledgers through `REJECTED_RUN62.csv`.
-- Counter reconciliation: candidate IDs reach `C410`, but historical `C158` is absent, so true unique count is 409.
+- Additive candidate ledgers continue through `CANDIDATES_RUN63.csv`; rejected ledgers through `REJECTED_RUN63.csv`.
+- Counter reconciliation: candidate IDs reach `C416`, but historical `C158` is absent, so true unique count is 415.
 
 ## User override
 Continue open-ended search until the user explicitly stops. Former 100-candidate cap is retired.
 
 ## Latest run result
-Added **5** new candidates, C406–C410:
-1. **Starcom — Accountant — C406 — 86 — Priority A.** Deadline **7 Sep**. Daily accounting, invoices, reconciliations, bank payments, AR, month-end, audit support, ERP/Excel and process improvement are a strong match. Local tax/accounting procedures plus journals/accruals are the main gaps.
-2. **Bank of Baku — Əməliyyat bölməsinin kiçik eksperti — C407 — 82 — Priority B.** Deadline **22 Aug**. Document checks, transaction execution, account opening/maintenance and payment-routing support transfer well from ERP finance operations. Credit-accounting workflow and junior-title economics are the main risks; this needs immediate browser/application check.
-3. **Rabitəbank — Korporativ əməliyyatçı — C408 — 79 — Priority B.** Deadline **18 Sep**. Corporate-account operations, statements, service-fee transactions, payment intake, reporting and document discipline transfer well. Direct bank-sector/corporate-banking experience is the main gap.
-4. **ABB — Xəzinə bölməsinin meneceri - Zərbad — C409 — 75 — Priority B.** Deadline **20 Sep**. Treasury transaction controls and document/compliance discipline fit, but physical vault/cash/FX/branch-treasury experience is a substantial gap.
-5. **Bank Respublika — Bakı və Regionlar üzrə Portfel keyfiyyətinə nəzarət mütəxəssisi — C410 — 71 — Priority C.** Deadline **18 Sep**. Payment follow-up, exception monitoring and Excel analysis transfer; collections/credit focus plus regional travel reduce fit.
+Added **6** new candidates, C411–C416:
+1. **PASHA Bank — RPA üzrə Kiçik Mütəxəssis — C413 — 84 — Priority A.** Deadline **12 Sep** in fresh indexed repost. Process automation, requirements gathering, documentation, cost-benefit review, testing, user support and continuous improvement map strongly to the existing automation/process profile. Direct RPA-platform and formal BA/RPA experience are the key gaps.
+2. **Xalq Bank — Bank sistemlərinin fəaliyyətinə dəstək şöbəsi — C415 — 84 — Priority A.** Employer career page currently lists the role; Banco reports deadline **10 Sep**. Requirements, as-is/to-be modelling, testing, post-automation control, system troubleshooting, user support and process automation are a strong bridge from S4/MDG/finance systems. Banking-system experience is the main gap.
+3. **Kapital Bank — Proseslər üzrə ekspert — C411 — 82 — Priority B.** Deadline **13 Sep**. Process analysis, identifying manual activities/delays and AI/digital optimization are highly transferable from Excel/VBA/process-improvement work; formal Agile/product-process ownership is the main gap.
+4. **Xalq Bank — Ödəniş sistemləri üzrə aparıcı / baş mütəxəssis — C414 — 82 — Priority A.** Employer page currently lists it; Banco reports deadline **11 Sep**. Payment-system reporting, analytical work, processing-center/payment-system coordination, Excel and Power Query are relevant; direct card-business experience is required and is a material gap.
+5. **PASHA Bank — Layihələrin İdarə edilməsi üzrə Kiçik Layihə Rəhbəri — C412 — 76 — Priority B.** Fresh August posting; sources report deadline between **29 Aug and 10 Sep**, so browser verification is recommended. Strong stakeholder/process/project-coordination transfer, but formal project ownership is missing.
+6. **Xalq Bank — Maliyyə təhlili və idarəedici hesabatlılıq üzrə baş mütəxəssis — C416 — 71 — Priority C.** Deadline **11 Sep**. Useful Excel/dashboard/automation overlap, but product costing, profitability and management-reporting ownership are substantial gaps.
 
 ## Screened out this run
-- **Massi — Kredit mütəxəssisi:** 1,500–2,000 AZN plus collections/repossessions/travel; rejected on economics/scope.
-- **TABİA Group — Risk Specialist:** requires 4+ years direct risk/internal controls plus hotel-operations experience; rejected on fit.
-- **Gen Pharma — Junior In-Process Control Specialist:** chemistry/pharma laboratory background required; rejected on fit.
-- **ABB — Kart mərkəzinin fəaliyyətinə dair asisstent:** primarily physical card/document delivery; rejected on seniority/economic fit.
-- **Bank of Baku — Satışa dəstək şöbəsinin təcrübəçisi:** internship/outbound-credit-sales scope; rejected on seniority/economic fit.
+- **PASHA Bank — Mühasibatlıq və Vergi üzrə Baş mütəxəssis:** fresh role but dominated by specialist Azerbaijan tax calculation/returns/compliance; rejected on fit.
+- **Xalq Bank — Ödəniş texnologiyalarına dəstək mütəxəssisi:** detailed versions require Java/JavaScript/SQL/PLSQL, APIs and CMS administration; rejected on technical gap.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -37,9 +35,9 @@ Added **5** new candidates, C406–C410:
 7. **Bolt — Operations Manager — 71**.
 
 ## NEXT ACTION
-1. Urgently re-check **Bank of Baku Operations Junior Expert (C407)** because its listed deadline is **22 Aug 2026**.
-2. Prioritize freshness/compensation checks for **Starcom Accountant (C406)**, **Kapital Bank Settlements (C401)** and **PASHA Bank Payment Execution (C402)**.
-3. Continue fresh AP/P2P, settlements/payment execution, bank back-office, finance controls, reconciliation, treasury-operations and transaction-control searches.
-4. Continue SAP/ERP support, master-data, process automation/BPM, process/product operations and implementation-support roles where the bridge from S4/MDG/Excel automation is credible.
+1. Prioritize exact browser/freshness checks for **PASHA Bank RPA (C413)**, **Xalq Bank Bank Systems Support (C415)**, **Xalq Bank Payment Systems (C414)** and **Kapital Bank Process Expert (C411)**.
+2. Re-check **Bank of Baku Operations Junior Expert (C407)** immediately if still open because the listed deadline is **22 Aug 2026**.
+3. Continue fresh AP/P2P, settlements/payment execution, finance controls, reconciliations, bank back-office and transaction-control searches.
+4. Continue SAP/ERP support, master data, process automation/BPM, RPA-adjacent, implementation support and product/process operations roles where the bridge from S4/MDG/Excel automation is credible.
 5. Keep compensation filtering strict; do not change `VACANCIES.csv` without browser-confirmed live evidence.
 6. Continue until explicit user stop.
