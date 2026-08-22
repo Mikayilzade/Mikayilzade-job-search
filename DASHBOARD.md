@@ -1,29 +1,29 @@
 # Job Search Dashboard
 
-> **Candidate pool: 356 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 362 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #52.
+> Updated: 2026-08-22 after Autonomous Run #53.
 >
-> Candidate IDs now reach `C357`; historical `C158` is absent, so the true unique total is **356**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status; `STATUS_CONFLICT` means evidence conflicts and needs manual re-open before applying.
+> Candidate IDs now reach `C363`; historical `C158` is absent, so the true unique total is **362**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C352–C357
+## Latest additions — C358–C363
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **93** | CORE | Marpro Logistics — Accounts Payable & Receivable Controller | Competitive / market-based | Baku / **27–28 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/internship-program/marpro-logistics-debitor-ve-kreditor-borclari-uzre-nezaretci-apar-controller-147044)** |
-| A | **92** | CORE | ADA University — Specialist, Accounts Payable | Unknown | Baku / **23 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.ada.edu.az/en/jobs/119-specialist-accounts-payable)** |
-| A | **83** | ADJACENT | Enermus — Tender üzrə mütəxəssis | Agreement-based | Baku / fresh Aug listing | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/enermus-tender-uzre-mutexessis-148848)** |
-| B | **80** | ADJACENT | Baku Electronics — Daxili audit üzrə kiçik mütəxəssis | Agreement-based | Baku / **6 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://webapp.bakuelectronics.az/az/vacancies/832)** |
-| B | **79** | ADJACENT | Aqrar Tədarük və Təchizat ASC — Satınalma üzrə mütəxəssis / aparıcı / baş mütəxəssis | Agreement-based | Baku / **28 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrin.az/vakansiya/satinalma-uzre-mutexessis-42330)** |
-| B | **77** | ADJACENT | Fancy Group MMC — Uçot və inzibati işlər üzrə mütəxəssis | Competitive / experience-based | Baku / **13–14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/fancy-group-mmc-ucot-ve-inzibati-isler-uzre-mutexessis-144813)** |
+| A | **87** | CORE | Radisson — Accounts Receivable | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/radisson-baku-hotel-accounts-receivable-148494)** |
+| A | **86** | CORE | Royale Sea Breeze MMC — Accountant | Competitive | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsearch.az/vacancies/royale-sea-breeze-mmc-accountant-148170)** |
+| B | **82** | ADJACENT | Veysəloğlu — Tədarükçü sifarişləri üzrə aparıcı mütəxəssis | Competitive / market-based | Baku / **24 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/logistika-ve-satinalma/satinalma-uzre-mutexessis/tedarukcu-sifarisleri-uzre-aparici-mutexessis-veyseloglu-3ceb4c)** |
+| B | **80** | ADJACENT | IRES — Procurement Specialist | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/logistika-ve-satinalma/satinalma-uzre-mutexessis/procurement-specialist-ires-767a5e)** |
+| B | **76** | ADJACENT | Aviation Services Group — Cost Controller | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/aviation-services-group-cost-controller-148116)** |
+| C | **72** | STRETCH | Xalq Bank — Payment Tools / Operations Monitoring Specialist | Unknown | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/asc-xalq-bank-odenis-aletleri-idaresinin-reqemsal-deleduzluqla-mubarize-uzre-is-sobesinin-mutexessisi-emeliyyat-monitorinqi-uzre-148757)** |
 
 ### Best new fits
 
-**Marpro Logistics — AP/AR Controller — 93/100.** AP/AR control, payment planning, creditor/debtor management, cash coordination, overdue follow-up, ERP/Excel and stakeholder escalation are an exceptionally direct progression from AP/reconciliation/payment operations. The main tradeoff is a stronger collections/credit-control component and higher-pressure stakeholder conversations.
+**Radisson — Accounts Receivable — 87/100.** Daily receivables and payment tracking, invoice review, overdue monitoring, reporting and cross-functional coordination are extremely close to the current AP/reconciliation/payment skill set. Main gaps are direct AR ownership and 1C.
 
-**ADA University — Specialist, Accounts Payable — 92/100.** This is one of the most direct vacancies in the pool: AP/accounting operations, audit support, documentation, advanced Excel and multi-level stakeholder interaction. Local tax legislation and IFRS/GAAP are meaningful gaps; the **23 Aug** deadline makes verification/application urgent.
+**Royale Sea Breeze MMC — Accountant — 86/100.** Daily accounting operations, source documents, bank reconciliations, AP/AR, bank-operation registers, KYB documentation and Excel are strong matches. Payroll plus VAT/tax/statutory support broaden the role beyond the current core.
 
-**Enermus — Tender Specialist — 83/100.** Supplier orders, ERP/1C entries, finance-operation tracking, invoices, acceptance acts and contract/document control map well to P2P/vendor strengths. Direct tender ownership and 2+ years procurement/tender experience are the main gaps.
+**Veysəloğlu — Supplier Orders Lead — 82/100.** Supplier-order processes, ERP, Excel, deadline control and operational coordination map well to P2P/vendor strengths. Direct procurement/logistics tenure is the main transition gap; the **24 Aug** deadline is near.
 
 ## Browser-confirmed live subset
 
@@ -40,13 +40,12 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN52.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN53.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN52.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN53.csv`**
 
 ## Verification rule
 
 - ✅ `USER_BROWSER_LIVE` — exact vacancy opened by the user and confirmed available.
 - ❌ `USER_BROWSER_CLOSED` — user confirmed closed/removed.
 - 🟡 `TOOL_SNAPSHOT` — current-looking search evidence; re-open exact link immediately before tailoring a CV or applying.
-- 🟠 `STATUS_CONFLICT` — current evidence conflicts; manual re-open is required before application.
