@@ -1,31 +1,31 @@
 # Job Search Dashboard
 
-> **Candidate pool: 301 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 307 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #42.
+> Updated: 2026-08-22 after Autonomous Run #43.
 >
-> Counter note: candidate IDs now reach `C302`, but historical `C158` is absent, so the true unique total is **301**.
+> Counter note: candidate IDs now reach `C308`, but historical `C158` is absent, so the true unique total is **307**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest autonomous additions — C297–C302
+## Latest autonomous additions — C303–C308
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **85** | CORE | Starcom — Accountant | Negotiable | Baku / **7 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/starcom-accountant-147859)** |
-| A | **82** | ADJACENT | PASHA Bank — Maliyyə nəzarəti üzrə mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-maliyye-nezareti-uzre-mutexessis-148024)** |
-| B | **77** | ADJACENT | Bank Respublika — Biznesə dəstək şöbəsinin kiçik mütəxəssisi/mütəxəssisi | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/bank-respublika-asc-biznese-destek-sobesinin-kicik-mutexessisimutexessisi-148665)** |
-| B | **75** | ADJACENT | PASHA Bank — Layihələrin İdarə edilməsi üzrə Kiçik Layihə Rəhbəri | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-layihelerin-idare-edilmesi-uzre-kicik-layihe-rehberi-148049)** |
-| C | **73** | ADJACENT | PASHA Bank — Digital Fraud Operations Junior Specialist | Unknown | Baku / **6 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-reqemsal-deleduzluq-emeliyyatlar-qrupu-uzre-kicik-mutexessis-147777)** |
-| C | **72** | STRETCH | Undisclosed employer via jobU — GRC Lead Specialist | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/grc-muhendisi/idareetme-risk-ve-komplayens-grc-sobesinin-aparici-mutexessisi-jobu-2a4c8d)** |
+| A | **81** | ADJACENT | Carlsberg Azerbaijan — Planning & Delivery Specialist for Raw & Packaging Materials | Base + bonus, amount unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/carlsberg-azerbaijan-planning-delivery-specialist-for-raw-packaging-materials-rpm-148252?hl=en)** |
+| B | **78** | ADJACENT | Veysəloğlu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis | Unknown | Baku / Sep | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/veyseloglu-sirketler-qrupu-budce-ve-muhasibat-ucotu-uzre-aparici-mutexessis-148586?hl=en)** |
+| B | **78** | ADJACENT | Ikma Machinery — Sales Support Manager | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/satis/satis-emeliyyatlari-uzre-mutexessis/sales-support-manager-ikma-machinery-8a13d8)** |
+| B | **76** | ADJACENT | Ram Holding — Satınalma üzrə baş mütəxəssis | Unknown | Baku / **6 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/ram-holding-satinalma-uzre-bas-mutexessis-147728)** |
+| B | **75** | ADJACENT | PMD Projects — Satınalmalar üzrə aparıcı mütəxəssis | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pmd-projects-llc-satinalmalar-uzre-aparici-mutexessis-148214?hl=en)** |
+| C | **73** | ADJACENT | Novex Group — Satınalma üzrə baş mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/logistika-ve-satinalma/satinalma-meneceri/satinalma-uzre-bas-mutexessis-novex-group-a75a56)** |
 
 ### Best new fits
 
-**Starcom — Accountant — 85/100.** Strong overlap with daily accounting operations, invoices, reconciliations, bank payments, month-end support, audit requests, Excel/ERP and process improvement. Local tax/accounting procedures and broader journals/accruals/AR are the main gaps.
+**Carlsberg Azerbaijan — Planning & Delivery Specialist — 81/100.** ERP purchase orders, supplier coordination, invoice/supporting-document checks, inventory control, cost/budget monitoring and advanced Excel create a strong P2P/operations bridge. The real gaps are direct production-material planning, customs/import operations and 3–5 years relevant supply-chain experience.
 
-**PASHA Bank — Financial Control Specialist — 82/100.** Account-balance checks, reconciliation/control routines, non-standard entry monitoring, discrepancy tracking and process automation map unusually well to finance-operations controls experience. SQL and direct banking-product knowledge are the key gaps.
+**Veysəloğlu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis — 78/100.** Daily ERP finance transactions, month-end expense accounting, payment planning/execution and cash-balance reporting overlap well. Financial-statement preparation, budgeting ownership and local statutory/tax accounting remain material gaps.
 
-**Bank Respublika — Business Support Specialist — 77/100.** Business reporting, process analysis/testing, optimization, digitalization and cross-functional coordination fit well. The main limitation is the explicit 1–2 years of banking/corporate-banking experience.
+**Ikma Machinery — Sales Support Manager — 78/100.** Excel, project/order coordination, logistics support, stakeholder follow-up and detail-heavy operations are transferable. Direct commercial/sales-support ownership is the main transition gap.
 
 ## User-found live vacancies — 22 Aug
 
@@ -50,9 +50,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN42.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN43.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN40.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN43.csv`**
 
 ## Verification rule
 
