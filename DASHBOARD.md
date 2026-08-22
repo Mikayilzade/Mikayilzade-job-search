@@ -1,29 +1,28 @@
 # Job Search Dashboard
 
-> **Candidate pool: 374 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 379 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #55.
+> Updated: 2026-08-22 after Autonomous Run #56.
 >
-> Candidate IDs now reach `C375`; historical `C158` is absent, so the true unique total is **374**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C380`; historical `C158` is absent, so the true unique total is **379**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C370–C375
+## Latest additions — C376–C380
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **88** | ADJACENT | Kontakt Home — Biznes prosesləri üzrə mütəxəssis | Unknown | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/kontakt-home-biznes-prosesleri-uzre-mutexessis-148863)** |
-| A | **85** | ADJACENT | Anonymous employer — Finance / Data Associate | Unknown | Azerbaijan / **23 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/maliyye-analitiki-2/finance-data-associate-anonim-isegoturen-1b81a4)** |
-| A | **84** | ADJACENT | Mars Overseas Baku — Baş mütəxəssis (Mühasibatlıq şöbəsi) | Unknown | Baku / **4 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/mars-overseas-baku-bas-mutexessis-muhasibatliq-sobesi-147536)** |
-| B | **76** | ADJACENT | OBA — Əmək haqqı hesablaması üzrə aparıcı mütəxəssis | Unknown | Baku / source conflict **3–17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/oba-marketler-shebekesi-emek-haqqi-hesablamasi-uzre-aparici-mutexessis-148638)** |
-| C | **72** | STRETCH | Azercell — SAP Logistics (MM/SD/PM) Specialist | Agreement-based | Baku / hybrid / fresh 19 Aug | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.azercell.com/job/Baku-SAP-Logistics-%28MMSDPM%29-Specialist-%28StaffITHybrid%29/1369567457/)** |
-| C | **71** | STRETCH | Anonymous Company — Data / Finance Manager | Unknown | Baku / **30 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/company-data-finance-manager-145834)** |
+| A | **86** | CORE | ABB-İnvest — Aparıcı mühasib | Agreement-based | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/abb-invest-investisiya-sirketi-qsc-aparici-muhasib-148680)** |
+| A | **83** | ADJACENT | PASHA Bank — Maliyyə nəzarəti üzrə mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-maliyye-nezareti-uzre-mutexessis-148024)** |
+| B | **78** | ADJACENT | PMD Projects — Satınalmalar üzrə aparıcı mütəxəssis | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pmd-projects-llc-satinalmalar-uzre-aparici-mutexessis-148214?hl=en)** |
+| B | **77** | ADJACENT | Veysəloğlu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/veyseloglu-sirketler-qrupu-budce-ve-muhasibat-ucotu-uzre-aparici-mutexessis-148586)** |
+| C | **74** | STRETCH | SOCAR — İşçi qüvvəsi planlaması üzrə mütəxəssis | Unknown | Baku / **23 Aug** reported | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobs.socar.az/job/Alunitdag-%C4%B0nsan-resurslar%C4%B1-%C3%BCzr%C9%99-m%C3%BCt%C9%99x%C9%99ssis-%28%C4%B0%C5%9F%C3%A7i-q%C3%BCvv%C9%99si-planlamas%C4%B1-%C3%BCzr%C9%99%29-Az%C9%99r/1417754933/)** |
 
 ### Best new fits
 
-**Kontakt Home — Business Process Specialist — 88/100.** AS-IS/TO-BE mapping, GAP analysis, ERP integration points, automation/AI potential and cross-functional process improvement are unusually close to the existing SAP/S4 finance-process and VBA automation profile. Formal BPM/BA tooling plus SQL/API basics are the main gaps.
+**ABB-İnvest — Aparıcı mühasib — 86/100.** Daily accounting operations, bank payments/transfers, account controls and reconciliation discipline are very close to the existing finance-operations profile. Broader local/statutory accounting and 1C ownership remain the main risks.
 
-**Finance / Data Associate — 85/100.** Reconciliations, treasury/deposit tracking, data validation, Excel, dashboards, ERP familiarity and deadline-driven recurring finance work transfer very well. Investment-holding context and basic budget/P&L reporting are adjacent rather than direct experience. Deadline is **23 Aug**.
+**PASHA Bank — Maliyyə nəzarəti üzrə mütəxəssis — 83/100.** Balance/account controls, month-end control checks, non-standard-posting monitoring, mismatch follow-up, corrective-action verification and process automation align strongly with reconciliations, controls and SAP/S4 process experience. SQL and banking-product knowledge are the main gaps.
 
-**Mars Overseas — Accounting Department Chief Specialist — 84/100.** ERP functionality, accounting controls, finance-operation accuracy and implementation/process work fit strongly. Broader statutory/local accounting ownership is the primary risk.
+**PMD Projects — Procurement Lead Specialist — 78/100.** Supplier evaluation, purchase requests, document completeness, bid comparison, contract-support documentation and cross-functional coordination transfer well from P2P/vendor work, though direct sourcing/tendering ownership is a real gap.
 
 ## Browser-confirmed live subset
 
@@ -40,9 +39,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN55.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN56.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN55.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN56.csv`**
 
 ## Verification rule
 
