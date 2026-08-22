@@ -1,28 +1,26 @@
 # Job Search Dashboard
 
-> **Candidate pool: 379 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 382 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #56.
+> Updated: 2026-08-22 after Autonomous Run #57.
 >
-> Candidate IDs now reach `C380`; historical `C158` is absent, so the true unique total is **379**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C383`; historical `C158` is absent, so the true unique total is **382**. The former 100-candidate milestone is retired. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C376–C380
+## Latest additions — C381–C383
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **86** | CORE | ABB-İnvest — Aparıcı mühasib | Agreement-based | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/abb-invest-investisiya-sirketi-qsc-aparici-muhasib-148680)** |
-| A | **83** | ADJACENT | PASHA Bank — Maliyyə nəzarəti üzrə mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pasha-bank-maliyye-nezareti-uzre-mutexessis-148024)** |
-| B | **78** | ADJACENT | PMD Projects — Satınalmalar üzrə aparıcı mütəxəssis | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pmd-projects-llc-satinalmalar-uzre-aparici-mutexessis-148214?hl=en)** |
-| B | **77** | ADJACENT | Veysəloğlu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis | Unknown | Baku / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/veyseloglu-sirketler-qrupu-budce-ve-muhasibat-ucotu-uzre-aparici-mutexessis-148586)** |
-| C | **74** | STRETCH | SOCAR — İşçi qüvvəsi planlaması üzrə mütəxəssis | Unknown | Baku / **23 Aug** reported | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobs.socar.az/job/Alunitdag-%C4%B0nsan-resurslar%C4%B1-%C3%BCzr%C9%99-m%C3%BCt%C9%99x%C9%99ssis-%28%C4%B0%C5%9F%C3%A7i-q%C3%BCvv%C9%99si-planlamas%C4%B1-%C3%BCzr%C9%99%29-Az%C9%99r/1417754933/)** |
+| A | **91** | CORE | North West Construction — Maliyyə üzrə kiçik mütəxəssis | Agreement-based | Baku / fresh 19 Aug | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://smartjob.az/index.php/vacancy/84317-maliyye-uzre-kicik-mutexessis)** |
+| B | **82** | ADJACENT | ERPGo — ERP Support Consultant | Unknown | Baku / employer application form | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://www.erpgo.az/en_GB/jobs/apply/erp-support-consultant-12)** |
+| C | **72** | ADJACENT | Madina Group — Maliyyə mütəxəssisi | Interview-based | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/madina-group-maliyye-mutexessisi-148821)** |
 
 ### Best new fits
 
-**ABB-İnvest — Aparıcı mühasib — 86/100.** Daily accounting operations, bank payments/transfers, account controls and reconciliation discipline are very close to the existing finance-operations profile. Broader local/statutory accounting and 1C ownership remain the main risks.
+**North West Construction — Maliyyə üzrə kiçik mütəxəssis — 91/100.** Processing invoices for goods/services, payment and transaction records, supplier queries, payment schedules, procurement/receiving documentation, AP ledger maintenance and audit support are almost a direct match to the existing AP/P2P skill set. The main issue is economic: salary is unpublished and the junior title may suppress the range.
 
-**PASHA Bank — Maliyyə nəzarəti üzrə mütəxəssis — 83/100.** Balance/account controls, month-end control checks, non-standard-posting monitoring, mismatch follow-up, corrective-action verification and process automation align strongly with reconciliations, controls and SAP/S4 process experience. SQL and banking-product knowledge are the main gaps.
+**ERPGo — ERP Support Consultant — 82/100.** A credible transition from SAP S/4/MDG and finance operations into ERP support/implementation: process troubleshooting, user support, testing, master-data discipline and process improvement all transfer. The employer-hosted application form is available, but detailed requirements/pay and current browser freshness need confirmation.
 
-**PMD Projects — Procurement Lead Specialist — 78/100.** Supplier evaluation, purchase requests, document completeness, bid comparison, contract-support documentation and cross-functional coordination transfer well from P2P/vendor work, though direct sourcing/tendering ownership is a real gap.
+**Madina Group — Maliyyə mütəxəssisi — 72/100.** Useful finance/Excel/process overlap, but this is deliberately scored as a stretch because annual budgeting, financial planning and cash-flow forecasting are core responsibilities rather than minor extras.
 
 ## Browser-confirmed live subset
 
@@ -39,9 +37,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN56.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN57.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN56.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN57.csv`**
 
 ## Verification rule
 
