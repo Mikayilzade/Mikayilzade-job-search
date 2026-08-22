@@ -1,31 +1,31 @@
 # Job Search Dashboard
 
-> **Candidate pool: 307 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 313 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-22 after Autonomous Run #43.
+> Updated: 2026-08-22 after Autonomous Run #44.
 >
-> Counter note: candidate IDs now reach `C308`, but historical `C158` is absent, so the true unique total is **307**.
+> Counter note: candidate IDs now reach `C314`, but historical `C158` is absent, so the true unique total is **313**.
 >
 > The former 100-candidate milestone is retired. Continue adding strong options until an explicit stop. `TOOL_SNAPSHOT` means current-looking discovery evidence only; re-open the exact link before tailoring a CV or applying.
 
-## Latest autonomous additions — C303–C308
+## Latest autonomous additions — C309–C314
 
 | Pri | Score | Type | Company / Role | Salary | Access / deadline | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| A | **81** | ADJACENT | Carlsberg Azerbaijan — Planning & Delivery Specialist for Raw & Packaging Materials | Base + bonus, amount unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/carlsberg-azerbaijan-planning-delivery-specialist-for-raw-packaging-materials-rpm-148252?hl=en)** |
-| B | **78** | ADJACENT | Veysəloğlu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis | Unknown | Baku / Sep | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/veyseloglu-sirketler-qrupu-budce-ve-muhasibat-ucotu-uzre-aparici-mutexessis-148586?hl=en)** |
-| B | **78** | ADJACENT | Ikma Machinery — Sales Support Manager | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/satis/satis-emeliyyatlari-uzre-mutexessis/sales-support-manager-ikma-machinery-8a13d8)** |
-| B | **76** | ADJACENT | Ram Holding — Satınalma üzrə baş mütəxəssis | Unknown | Baku / **6 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/ram-holding-satinalma-uzre-bas-mutexessis-147728)** |
-| B | **75** | ADJACENT | PMD Projects — Satınalmalar üzrə aparıcı mütəxəssis | Unknown | Baku / **11 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/pmd-projects-llc-satinalmalar-uzre-aparici-mutexessis-148214?hl=en)** |
-| C | **73** | ADJACENT | Novex Group — Satınalma üzrə baş mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/logistika-ve-satinalma/satinalma-meneceri/satinalma-uzre-bas-mutexessis-novex-group-a75a56)** |
+| A | **83** | CORE | Landau Education Group — Aparıcı mühasib | Unknown | Baku / **8 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/aparici-muhasib-landau-education-group-e2ea94)** |
+| A | **81** | ADJACENT | BAT — Corporate Finance Analyst | Competitive + annual bonus, amount unknown | Baku / current | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/maliyye-analitiki-2/corporate-finance-analyst-bat-c6ef65)** |
+| B | **78** | ADJACENT | Baku Electronics — Planlama və satınalma üzrə mütəxəssis / aparıcı mütəxəssis | Unknown | Azerbaijan / **17 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/ru/vakansii/logistika-i-zakupki/specialist-po-zakupkam/planlama-ve-satinalma-uzre-mutexessis-aparici-mutexessis-baku-electronics-b94cb6)** |
+| B | **78** | CORE | Qalan AZ — Senior Mühasib | Unknown | Baku / short window | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/sirketler/qalan-az)** |
+| B | **77** | ADJACENT | SOCAR Downstream Management — Maliyyə nəzarəti üzrə aparıcı mütəxəssis | Unknown | Baku / current | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/maliyye-nezareti-uzre-aparici-mutexessis-socar-downstream-management-53b5a4)** |
+| C | **72** | STRETCH | Qaya Nəqliyyat — Baş Mühasib | **3,000–5,000 AZN/month** | Azerbaijan / current | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/ru/navyki/audit-coordination)** |
 
 ### Best new fits
 
-**Carlsberg Azerbaijan — Planning & Delivery Specialist — 81/100.** ERP purchase orders, supplier coordination, invoice/supporting-document checks, inventory control, cost/budget monitoring and advanced Excel create a strong P2P/operations bridge. The real gaps are direct production-material planning, customs/import operations and 3–5 years relevant supply-chain experience.
+**Landau Education Group — Aparıcı mühasib — 83/100.** Bank/payment monitoring, receivables, 1C transaction accounting, Excel and cross-functional accounting operations are close to the existing finance-operations base. Main negatives are 1C rather than SAP, AR/sales-accounting focus and possible broader local-accounting expectations.
 
-**Veysəloğlu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis — 78/100.** Daily ERP finance transactions, month-end expense accounting, payment planning/execution and cash-balance reporting overlap well. Financial-statement preparation, budgeting ownership and local statutory/tax accounting remain material gaps.
+**BAT — Corporate Finance Analyst — 81/100.** AR operations, month-end validation, variance analysis and multinational finance-process work transfer well. The job also offers stated competitive salary plus annual performance bonus, but direct forecasting and Overheads/CAPEX budget ownership are real FP&A gaps.
 
-**Ikma Machinery — Sales Support Manager — 78/100.** Excel, project/order coordination, logistics support, stakeholder follow-up and detail-heavy operations are transferable. Direct commercial/sales-support ownership is the main transition gap.
+**Baku Electronics — Planning & Procurement — 78/100.** Procurement planning, data/file maintenance, financial-statement reading, Excel and P2P/vendor coordination overlap well. Direct 2–4 years planning/procurement experience and logistics knowledge are the main gaps.
 
 ## User-found live vacancies — 22 Aug
 
@@ -50,9 +50,9 @@
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN43.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN44.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN43.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN44.csv`**
 
 ## Verification rule
 
