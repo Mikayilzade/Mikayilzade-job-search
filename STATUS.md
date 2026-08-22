@@ -2,27 +2,27 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #40 — 2026-08-22 around 03:45 AZT**.
+- Last completed run: **Autonomous Run #41 — 2026-08-22 around 04:45 AZT**.
 - Last manual vacancy review: **2026-08-22 — Tabaterra / Target Logistics**.
-- **Candidate pool: 289 unique total.**
+- **Candidate pool: 295 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN40.csv`.
+- Historical master candidates remain in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN41.csv`.
 - Rejected history is in `REJECTED.csv` plus additive ledgers through `REJECTED_RUN39.csv`.
 - Repository remains the sole persistent source of truth.
-- Counter reconciliation: candidate IDs reach `C290`, but historical `C158` is absent, so the true unique count is 289.
+- Counter reconciliation: candidate IDs reach `C296`, but historical `C158` is absent, so the true unique count is 295.
 
 ## User override
 On 2026-08-20 the user explicitly removed the previous 100-candidate cap. Continue autonomous search and add new high-quality options until the user explicitly stops the process.
 
 ## Latest run result
-Added **6** new candidates, C285–C290:
-1. **Pizza Mizza — Kreditor borclar və ödənişləri üzrə mühasib — C285 — 89 — CORE / Priority A.** Direct AP ownership, invoice processing, three-way matching, weekly payments, supplier balances and expense coding are an unusually close functional match. Deadline **5 Sep 2026**. Main unknown is compensation.
-2. **Milli Aviasiya Akademiyası — Sənədlərə nəzarət üzrə mütəxəssis — C286 — 83 — ADJACENT / Priority A.** Fresh role published 20 Aug. Document governance, revision history, approval workflows, audit support and control discipline transfer strongly. Main gap is aviation-specific ICAO/EASA compliance/document-control knowledge.
-3. **Enermus — Tender üzrə mütəxəssis — C287 — 80 — ADJACENT / Priority B.** Supplier orders, ERP entry, finance coordination, payment tracking and contract closeout map well to vendor/P2P strengths. Deadline **19 Sep**. Direct tender/procurement ownership is the main gap.
-4. **İnnovasiya və Rəqəmsal İnkişaf Agentliyi — Daxili Audit üzrə Aparıcı mütəxəssis — C288 — 79 — ADJACENT / Priority B.** Process flow, control testing, risk points, evidence, findings and remediation tracking fit well, but direct internal-audit experience is requested. Current sources conflict slightly on close date (30 Aug vs 5/6 Sep), so browser-check before applying.
-5. **PASHA Insurance — Arxiv işi üzrə baş mütəxəssis — C289 — 76 — ADJACENT / Priority B.** Records governance, registration, retention, accessibility and process continuity transfer reasonably well. Deadline around **10–11 Sep**. Formal archive-law/records-management specialization is the gap.
-6. **Veysəloğlu Şirkətlər Qrupu — Büdcə və mühasibat uçotu üzrə Aparıcı Mütəxəssis — C290 — 74 — ADJACENT / Priority C.** ERP accuracy, month-end, expense analysis, payment planning and Excel transfer, but financial-statement preparation, budget control and local tax/accounting-law knowledge are material gaps.
+Added **6** new candidates, C291–C296:
+1. **Hyatt Regency — Accounts Payable Clerk — C291 — 88 — CORE / Priority A.** Very close direct AP fit: invoices, vendors, reconciliations, expense allocation and payment/billing controls. Current indexed posting is dated 10 Aug with deadline **10 Sep 2026**. Main unknown is compensation and employer-page freshness.
+2. **PRODATA — ERP üzrə mütəxəssis — C292 — 86 — ADJACENT / Priority A.** Strong bridge from SAP/S4 finance operations into ERP support: user requests, issue triage, module testing and process optimization. Posted **17 Aug 2026**. Main gaps are formal ERP-support ownership and SQL.
+3. **AzəriMed MMC — Proqram Layihəsinə Dəstək üzrə Mütəxəssis — C293 — 80 — ADJACENT / Priority B.** Ticket intake, first-line analysis, escalation, user support, documentation and reporting transfer well from systems/process work. More technical than current finance role, so support-depth expectations need checking.
+4. **Sea Breeze Health Valley — Business & Strategy Analyst — C294 — 74 — STRETCH / Priority C.** Analytical reporting, research, stakeholder management and process thinking transfer, but strategy/investment assessment and direct business-analysis experience are real gaps. Deadline **10 Sep**.
+5. **OBA — Əmək haqqı hesablaması üzrə aparıcı mütəxəssis — C295 — 73 — ADJACENT / Priority C.** SAP/data validation/payment/reconciliation strengths transfer, but end-to-end payroll and Azerbaijan payroll legislation are substantial gaps. Deadline **11 Sep**.
+6. **Eden Agro — Büdcə və hesabatlılıq üzrə kiçik mütəxəssis — C296 — 72 — ADJACENT / Priority C.** Excel/ERP/cost-control support fits, but budgeting/rolling forecasts and financial-report analysis are genuine gaps; junior title creates salary risk.
 
 ## Browser-confirmed live subset
 1. **Xsolla — Finance Coordinator — 86**.
@@ -35,10 +35,10 @@ Added **6** new candidates, C285–C290:
 
 ## NEXT ACTION
 1. Continue open-ended search; target roughly 6–10 genuinely useful new candidates per run when the market supports it, but keep fewer when quality/economics do not justify more.
-2. Prioritize direct AP/Finance Ops, SAP/S4/MDG/master data, finance systems/ERP, treasury/payments/settlements, controls/reporting, process automation/RPA and data quality/governance.
-3. Re-check **Pizza Mizza AP** and **ADA University AP** first; both are close functional matches, and ADA has a near-term 23 Aug deadline.
+2. Re-check **Hyatt Regency AP**, **PRODATA ERP**, **Pizza Mizza AP**, and **ADA University AP** first; these are among the strongest functional matches, and ADA has a near-term 23 Aug deadline.
+3. Prioritize direct AP/Finance Ops, SAP/S4/MDG/master data, finance systems/ERP, treasury/payments/settlements, controls/reporting, process automation/RPA and data quality/governance.
 4. Keep searching employer-specific pages and Glorri/HRX/JobSearch because fresh roles continue to appear there before broader indexes catch up.
-5. Search more AP/AR controller, finance-operations, payroll/process support and ERP implementation/support roles.
+5. Search more AP/AR controller, finance-operations, payment operations, ERP implementation/support and business-application support roles.
 6. Search Azerbaijan-eligible international remote roles and selective Baku international-organization/embassy roles where published compensation and transferable operations skills justify a title change.
 7. Search business-side SAP/ERP and payment operations roles rather than technical Basis/ABAP/DBA/payment-engineering roles.
 8. Continue early compensation filtering and do not inflate scores for unpublished local salaries; verify economics before application where title/pay risk exists.
