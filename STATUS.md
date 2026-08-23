@@ -2,41 +2,40 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #74 — 2026-08-23 around 08:40 AZT**.
-- **Candidate pool: 477 unique total.**
+- Last completed run: **Autonomous Run #75 — 2026-08-23 around 09:40 AZT**.
+- **Candidate pool: 483 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Additive candidate ledgers continue through `CANDIDATES_RUN74.csv`; rejected ledgers remain through `REJECTED_RUN72.csv`.
-- Counter reconciliation: candidate IDs reach `C478`, but historical `C158` is absent, so true unique count is 477.
+- Additive candidate ledgers continue through `CANDIDATES_RUN75.csv`; rejected ledgers remain through `REJECTED_RUN72.csv`.
+- Counter reconciliation: candidate IDs reach `C484`, but historical `C158` is absent, so true unique count is 483.
 
 ## User override
 Continue open-ended search until the user explicitly stops. Former 100-candidate cap is retired.
 
 ## Latest run result
-Added **6** new candidates, C473–C478.
-1. **KPMG — Accounting Specialist / Junior Accounting Specialist — C473 — 84 — Priority B.** Official KPMG Huntflow current-openings page exposes an exact Baku application. Bookkeeping, bank operations, invoices and debtor/creditor settlements map strongly to AP/P2P. Main gaps: local tax/statutory reporting and 1C; junior wording may create compensation risk.
-2. **Norm OJSC — Əsas Vəsaitlər və İnventar üzrə Kiçik Mühasib — C474 — 84 — Priority B.** Deadline **31 Aug**. SAP ERP asset/inventory controls, wrong-posting correction, inventory differences, PR/PO/contracts, Excel and audit support transfer well. Direct fixed-assets/inventory accounting is the main gap; junior title and Qaradag commute are risks.
-3. **Kontakt Home — Biznes prosesləri üzrə mütəxəssis — C475 — 80 — Priority B.** Deadline **19 Sep**. AS-IS/TO-BE, GAP analysis, ERP/corporate systems, process automation, documentation and AI/RPA potential fit the automation/process-improvement profile. BPMN, API/JSON/SQL, Bizagi/Agile and formal BPM/BA experience are real gaps.
-4. **Aviation Services Group — Cost Controller — C476 — 78 — Priority B.** Deadline **10 Sep**. Month-end, reconciliations, internal controls, inventory counts, procurement/logistics collaboration and advanced Excel transfer well; direct cost allocation/calculation, inventory accounting, local tax and 1C/Dynamics are material gaps.
-5. **A+CO ASC — Əsas vəsaitlərin uçotu üzrə mühasib — C477 — 78 — Priority B.** Deadline **12 Sep**. Asset transactions, CAPEX, inventory analysis, reporting and procedure/control improvement are a plausible adjacent finance route. Direct fixed-assets experience, Logo Tiger and IAS 16 are gaps.
-6. **Decoliv — Əsas vəsaitlər və icarələr üzrə mühasib — C478 — 77 — Priority B.** Current JobSearch/Jobway snapshots report **11–12 Sep** deadlines, but an older third-party copy had an August deadline, so browser freshness is flagged. Asset/lease accounting, inventory differences, reports and audit documentation transfer; IFRS 16, Logo Tiger and direct fixed-assets experience are gaps.
+Added **6** new candidates, C479–C484.
+1. **FleyLab — Tətbiq və Təlim üzrə Mütəxəssis — C479 — 82 — Priority B.** Deadline **10 Sep**. ERP/corporate systems, finance/accounting background, testing, troubleshooting, user training, documentation and process-improvement strengths make this a strong implementation/support bridge. Gaps: direct implementation title, SQL/API/log basics and regular travel; salary unpublished.
+2. **Azərbaycan Hava Yolları (AZAL) — Satınalmalar idarəsi, Əməliyyat təchizatı üzrə mütəxəssis — C480 — 82 — Priority B.** Deadline **13 Sep**. Supplier/P2P coordination, purchasing documentation, procurement reporting, Excel and cross-functional follow-up transfer strongly. Direct procurement/sourcing and negotiation ownership remain gaps.
+3. **Yalama Agropark — Satınalma üzrə mütəxəssis — C482 — 80 — Priority B.** Deadline **14 Sep**. Supplier research, commercial/payment terms, ERP preference and finance/warehouse coordination fit well; Incoterms/import/customs/logistics and direct sourcing remain material gaps.
+4. **Novex Group — Satınalma üzrə baş mütəxəssis — C481 — 79 — Priority B.** Deadline **10 Sep**. End-to-end purchasing, ERP/1C, supplier analysis, cost optimization and reporting overlap with P2P/vendor strengths, but 5 years direct procurement and team/sourcing ownership are gaps.
+5. **Mars Overseas Baku — Satınalma üzrə baş mütəxəssis — C483 — 79 — Priority B.** Deadline **12 Sep**. Tender comparison, supplier/contract management, market analysis and documentation are a plausible adjacent route; direct procurement/tender ownership is missing.
+6. **PASHA Insurance — Hesabatlıq üzrə Mütəxəssis — C484 — 77 — Priority B.** Employer-hosted application page still exposes Apply. Financial data collection, analytical reporting and software/process automation fit, while IFRS and direct financial-reporting/insurance analysis are meaningful gaps.
 
-## Screened / freshness notes this run
-- **Carlsberg — Financial Planning, Reporting & Cost Control Specialist:** exact dated JobSearch route expired **15 Aug 2026** despite some current-looking indexes; not added.
-- **Avromed — Junior Procurement Specialist:** stale current index surfaced it, but the exact dated requisition was already expired **20 Aug**; not added.
-- **PASHA Insurance — Bank Channels role:** stale index; exact dated vacancy had already expired **17 Aug**; not added.
-- **Aviation Services Group — Deputy Chief Accountant:** fresh deadline **5 Sep**, but statutory/tax/IFRS ownership, senior-accounting title and leadership requirements create too large a transition gap for the current profile.
-- Clearly sub-target accounting roles encountered again were not used to pad the pool.
+## Freshness / screening notes this run
+- **BlackWell Procurement Specialist (C435)** still appears on the current JobSearch route with deadline **24 Aug 2026**. It remains a near-deadline watch because direct Oil & Gas/Industrial procurement experience is mandatory.
+- **IRES Receivables Accountant** surfaced again with salary **1,500–1,800 AZN net**, below the economic target; it was not re-added because it has already been handled in prior search history.
+- **Company — Maliyyə hesabatı üzrə mütəxəssis** is fresh to **20 Sep**, but consolidated/IFRS financial-statement ownership is central and the transition gap is too large for the current threshold.
+- No new user-browser live confirmation was available, so `VACANCIES.csv` remains unchanged.
 
 ## Browser-confirmed live subset
-Remains **7**. `VACANCIES.csv` was not changed because no new user/browser confirmation was available.
+Remains **7**.
 
 ## NEXT ACTION
-1. Re-check **BlackWell Procurement Specialist (C435)** before **24 Aug** and **Sabah Capital Partners AP/AR roles (C443/C444)** before **26–27 Aug**.
-2. Prioritize exact freshness/compensation checks for **KPMG Accounting Specialist (C473)** and **Norm fixed-assets/inventory (C474)**; KPMG has an employer-hosted current application route, while Norm has both fresh aggregator and employer evidence.
+1. Re-check **BlackWell Procurement Specialist (C435)** before **24 Aug**, and **Sabah Capital Partners AP/AR roles (C443/C444)** before **26–27 Aug**.
+2. Prioritize exact freshness/compensation checks for **FleyLab Implementation & Training (C479)** and **AZAL Operational Supply (C480)**; both are attractive adjacent transitions with current September deadlines.
 3. Continue AP/P2P, AR/O2C, payment execution/settlements, reconciliations, finance controls and bank back-office searches.
-4. Continue SAP/ERP support, master data, MIS/reporting, process automation/BPM/RPA and implementation-support roles where S4/MDG/Excel automation provides a credible bridge.
-5. Expand carefully into fixed-assets/inventory/control roles only where ERP/reconciliation/process overlap is strong; keep local tax, IFRS, 1C/Logo and direct asset-accounting gaps explicit.
-6. Continue procurement/supply planning/supplier operations where ERP, PO/invoice/document and vendor skills transfer strongly.
+4. Continue SAP/ERP support, implementation/training, master data, MIS/reporting, process automation/BPM/RPA and user-support roles where S4/MDG/Excel automation provides a credible bridge.
+5. Continue procurement/supply planning/supplier operations where ERP, PO/invoice/document and vendor skills transfer strongly; keep sourcing/tender/Incoterms/import gaps explicit.
+6. Keep financial-reporting/FP&A roles calibrated conservatively where IFRS, budgeting, forecasting or statutory ownership is central.
 7. Keep compensation filtering strict and `VACANCIES.csv` unchanged without browser-confirmed live evidence.
 8. Continue until explicit user stop.
