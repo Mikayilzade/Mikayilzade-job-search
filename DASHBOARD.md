@@ -1,36 +1,35 @@
 # Job Search Dashboard
 
-> **Candidate pool: 483 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 488 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-23 after Autonomous Run #75.
+> Updated: 2026-08-23 after Autonomous Run #76.
 >
-> Candidate IDs now reach `C484`; historical `C158` is absent, so the true unique total is **483**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C489`; historical `C158` is absent, so the true unique total is **488**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C479–C484
+## Latest additions — C485–C489
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| B | **82** | ADJACENT | FleyLab — Tətbiq və Təlim üzrə Mütəxəssis | Unknown | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://alljobsinone.com/en/vacancy/tetbiq-ve-telim-uzre-mutexessis-148039)** |
-| B | **82** | ADJACENT | AZAL — Əməliyyat təchizatı üzrə mütəxəssis | Unknown | Baku / **13 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/azerbaycan-hava-yollari-satinalmalar-idaresi-emeliyyat-techizati-uzre-mutexessis/)** |
-| B | **80** | ADJACENT | Yalama Agropark — Satınalma üzrə mütəxəssis | Unknown | Baku / **14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/yalama-agropark-satinalma-uzre-mutexessis/)** |
-| B | **79** | ADJACENT | Novex Group — Satınalma üzrə baş mütəxəssis | Agreement-based | Baku / **10 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobsite.az/vakansiya-is-elani/satinalma-uzre-bas-mutexessis-25528)** |
-| B | **79** | ADJACENT | Mars Overseas Baku — Satınalma üzrə baş mütəxəssis | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobu.az/job/mars-overseas-baku-satinalma-uzre-bas-mutexessis/)** |
-| B | **77** | ADJACENT | PASHA Insurance — Hesabatlıq üzrə Mütəxəssis | Unknown | Baku / employer application page | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://career.pasha-insurance.az/jobs/7224290-hesabatliq-uzr-mut-x-ssis)** |
+| A | **90** | CORE | Expro Group — Accounts Assistant | Unknown | Baku / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/expro-group-accounts-assistant-office-based-147357?hl=az)** |
+| A | **84** | ADJACENT | Altair Technologies — Satınalma və Logistika üzrə mütəxəssis | Unknown | Baku / fresh | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/altair-technologies-satinalma-ve-logistika-uzre-mutexessis-148988)** |
+| B | **82** | ADJACENT | Enermus — Tender üzrə mütəxəssis | Agreement-based | Baku / fresh | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/enermus-tender-uzre-mutexessis-148848)** |
+| B | **78** | ADJACENT | Abu-life Group — Satınalma və Kateqoriya üzrə Kiçik Mütəxəssis | Unknown | Baku / published 15 Aug | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/ru/vakansii/logistika-i-zakupki/specialist-po-zakupkam/satinalma-ve-kateqoriya-uzre-kicik-mutexessis-abu-life-group-03998b)** |
+| B | **76** | ADJACENT | AzCİS — Dövlət Satınalmaları üzrə Mütəxəssis | Interview-based | Baku / current route | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://classic.jobsearch.az/vacancies/azcis-dovlet-satinalmalari-uzre-mutexessis-147798)** |
 
 ### Best new fits
 
-**FleyLab — Implementation & Training Specialist — 82/100.** ERP/corporate systems exposure, finance/accounting background, testing, troubleshooting, user support/training, documentation and process-improvement strengths make this a credible route from SAP/S4/MDG operations into implementation/support. The main gaps are direct implementation experience plus basic SQL/API/log knowledge; the role also involves regular business travel.
+**Expro Group — Accounts Assistant — 90/100.** This is the strongest addition of the run: a direct accounting/finance support route in an international environment where invoice/transaction discipline, reconciliations, controls, Excel/ERP and audit-ready documentation should transfer strongly. Salary is unpublished and the junior-ish title is the main economic uncertainty.
 
-**AZAL — Operational Supply Specialist — 82/100.** Procurement reporting, supplier coordination, Excel, purchase documentation and cross-functional follow-up transfer strongly from AP/P2P/vendor operations. Direct sourcing/negotiation and two years of procurement ownership remain the main gaps.
+**Altair Technologies — Procurement & Logistics Specialist — 84/100.** ERP purchase orders, supplier documentation, cost calculation, finance handoff, issue resolution and cross-functional coordination are closely related to existing P2P/vendor/SAP work. Direct import/customs/broker/logistics ownership is the major gap.
 
-**Yalama Agropark — Procurement Specialist — 80/100.** Supplier research, payment/commercial terms, ERP preference, finance/warehouse coordination and analytical documentation overlap well with P2P experience. Incoterms, import/customs/logistics and direct sourcing are meaningful transition gaps.
+**Enermus — Tender Specialist — 82/100.** Supplier orders, ERP entries, invoices, finance-operation tracking, Excel, acceptance/closing documentation and accounting coordination create a useful bridge. The role still asks for direct tender/procurement experience, so it remains adjacent rather than core.
 
 ## Near-deadline watch
 
-- **BlackWell — Procurement Specialist (C435):** deadline **24 Aug**; current JobSearch route still shows the vacancy, but the employer requires 3 years Oil & Gas/Industrial procurement.
+- **BlackWell — Procurement Specialist (C435):** deadline **24 Aug**; current route still appears indexed, but direct Oil & Gas/Industrial procurement experience is mandatory.
 - **Sabah Capital Partners — AP/AR roles (C443/C444):** approximately **26–27 Aug**.
 - **Norm — Fixed Assets & Inventory Junior Accountant (C474):** deadline **31 Aug**.
-- **KPMG — Accounting Specialist (C473):** employer ATS exposes the application route; compensation should be checked.
+- **Expro Group — Accounts Assistant (C485):** deadline **31 Aug**.
 
 ## Browser-confirmed live subset
 
@@ -39,7 +38,7 @@ Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed beca
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN75.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN76.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
 - Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through `REJECTED_RUN72.csv`
 
