@@ -2,47 +2,43 @@
 
 ## Current state
 - Phase: **SEARCH ACTIVE / OPEN-ENDED EXPANSION**.
-- Last completed run: **Autonomous Run #78 — 2026-08-23 around 12:40 AZT**.
-- **Candidate pool: 501 unique total.**
+- Last completed run: **Autonomous Run #79 — 2026-08-23 around 13:40 AZT**.
+- **Candidate pool: 504 unique total.**
 - **Browser-confirmed live subset: 7.**
 - User-facing interface: `DASHBOARD.md`.
-- Historical master remains in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN78.csv`.
-- Rejected history remains in `REJECTED.csv`; additive rejected ledgers continue through `REJECTED_RUN78.csv`.
-- Counter reconciliation: candidate IDs reach `C502`, but historical `C158` is absent, so true unique count is 501.
+- Historical master remains in `CANDIDATES.csv`; additive candidate ledgers continue through `CANDIDATES_RUN79.csv`.
+- Rejected history remains in `REJECTED.csv`; additive rejected ledgers continue through `REJECTED_RUN79.csv`.
+- Counter reconciliation: candidate IDs reach `C505`, but historical `C158` is absent, so true unique count is 504.
 
 ## User override
 Continue open-ended search until the user explicitly stops. Former 100-candidate cap is retired.
 
 ## Latest run result
-Added **6** new candidates, C497–C502.
-1. **Caspian Cable Systems — Əməliyyatçı mühasib — C497 — 88 — Priority A.** Deadline **5 Sep**. Debtor/creditor accounting, internet-banking payments including international transfers, invoices/sales documents and reconciliations are very close to the current AP/finance-operations profile; 1C/local accounting and compensation are the main unknowns.
-2. **AzerGold — Procurement Specialist / Satınalmalar sektoru — C498 — 80 — Priority B.** Fresh 14 Aug posting. Supplier research, price analysis, procurement documentation, reporting and ERP discipline transfer well; direct state-procurement/e-procurement and 1C are gaps.
-3. **Aviation Services Group — Lead Procurement Specialist — C499 — 79 — Priority B.** Deadline **12 Sep**. Strong P2P/vendor/PO/document/process overlap; direct procurement category experience and lead-level ownership are gaps.
-4. **Klaxon Ltd — Marketinq və əməliyyatlar üzrə koordinator — C500 — 79 — Priority B.** Deadline **11 Sep**. Supplier/client/internal-team coordination, process tracking, documentation and deadline management transfer well from finance operations; marketing/commercial coordination is new.
-5. **Mars Overseas Baku — Büdcə və hesabatlıq üzrə aparıcı mütəxəssis — C501 — 74 — Priority C.** Deadline **17 Sep**. Excel, accounting-data analysis and audit support fit, but budgeting/FP&A/reporting ownership and ACCA F2/F3 are material gaps.
-6. **PASHA Bank — B2B Açıq Bankçılıq qrupunun Məhsul sahibi — C502 — 73 — Priority C.** Deadline **11 Sep**. Payment-services domain, KPI/process monitoring and stakeholder coordination create a plausible stretch bridge; formal product ownership/open-banking depth is a large gap.
+Added **3** new candidates, C503–C505. Fresh scans were duplicate-heavy, so quality was kept above count.
+1. **Ram Holding — Satınalma üzrə baş mütəxəssis — C503 — 76 — Priority B.** Deadline **6 Sep**. Supplier sourcing, purchase requests, offer comparison, tender/process discipline, Excel and vendor coordination transfer well from P2P/AP operations; direct procurement experience, 1C and sourcing/tender ownership are gaps.
+2. **AzCİS — Dövlət Satınalmaları üzrə Mütəxəssis — C504 — 72 — Priority C.** Deadline **6 Sep**. Procurement documentation, tender monitoring, proposal preparation and system/deadline control fit transferable document/process strengths; direct state-procurement/e-tender knowledge is a material gap.
+3. **Aznof — Mühasib — C505 — 70 — Priority C.** Deadline **4 Sep**. Supplier/subcontractor reconciliations, transaction control and Excel fit, but 1C/construction accounting and a 6-day workweek make it a lower-priority stretch.
 
 ## Screened out this run
-- **Azerimed — Mühasib-operator:** 600–700 AZN; rejected on compensation and tax-heavy scope.
-- **MR Collector — Problemli kreditlər üzrə kiçik mütəxəssis:** 450 AZN + bonus and 6-day schedule; rejected on economics/lifestyle.
-- **ASEL Kredit — Audit üzrə Mütəxəssis:** 800–1,000 AZN; rejected on compensation.
-- **Strata — Mal-material üzrə mühasib:** 1,500–2,000 AZN plus construction-accounting/1C requirements; rejected on economics and fit.
-- **Homebridge Hotel Apartments — Accounting Specialist:** exact listing deadline was **22 Aug**; rejected as expired.
-- **Norm Fixed Assets & Inventory, ABB Procurement Reporting, Baku Electronics Planning/Procurement, IRES Procurement, Harvesso and BlackWell:** rediscovered but already in candidate/history; no duplicates added.
+- **IRES — Accountant:** fresh role but published **1,500 AZN gross**; rejected on compensation.
+- **Norm — Kapital Xərclərin İdarə Edilməsi üzrə Baş Mütəxəssis:** strong ERP/reporting elements, but 5+ years CAPEX/engineering/construction ownership and technical degree make the gap too large.
+- **Caspian Industry — Satınalma və Satış Meneceri:** requires 8–10 years direct procurement/supply-chain/sales plus 5 years management and oil-gas/import-export leadership; rejected on fit.
+- **Baku Electronics planning/procurement, ABB-İnvest accounting, Holcim Cost Controller, IRES procurement and several previously screened accounting roles:** rediscovered duplicates; no new IDs added.
 
 ## Near-deadline verification
-- **Agro-West DC (C490), Facet (C494), AMASS (C495):** public web snapshots still expose the roles with **23 Aug** deadlines, but this is not browser-confirmed live evidence; keep as urgent manual checks rather than changing `VACANCIES.csv`.
-- **BlackWell Procurement Specialist (C435):** exact public listing still shows deadline **24 Aug**; urgent check before applying.
+- **Agro-West DC (C490), Facet (C494), AMASS (C495):** deadline **23 Aug**; user/browser check remains urgent because tool snapshots are not browser-live proof.
+- **BlackWell Procurement Specialist (C435):** deadline **24 Aug**; urgent browser check.
+- **Sabah Capital Partners AP/AR (C443/C444):** approximately **26–27 Aug**.
+- **Expro Group Accounts Assistant (C485):** **31 Aug**.
 
 ## Browser-confirmed live subset
 Remains **7**; no new user-browser confirmation was available, so `VACANCIES.csv` remains unchanged.
 
 ## NEXT ACTION
-1. Urgently verify browser status for **Agro-West DC (C490)**, **Facet (C494)**, **AMASS (C495)** and **BlackWell (C435)** because their deadlines are 23–24 Aug.
-2. Prioritize **Caspian Cable Systems — Əməliyyatçı mühasib (C497)** for exact application-route and compensation checks; it is the strongest new direct fit.
-3. Continue AP/P2P, AR/O2C, payment execution/settlements, reconciliations, finance controls and bank back-office searches.
-4. Continue SAP/ERP support, implementation/training, master data, MIS/reporting, process automation/BPM/RPA and user-support roles where S4/MDG/Excel automation provides a credible bridge.
-5. Continue procurement/supply planning/supplier operations where ERP, PO/invoice/document and vendor skills transfer strongly; keep sourcing/tender/Incoterms/import gaps explicit.
-6. Continue unusual operations/product roles only where process ownership, payments, controls, data and stakeholder coordination create a defensible bridge.
-7. Keep compensation filtering strict and `VACANCIES.csv` unchanged without browser-confirmed live evidence.
-8. Continue until explicit user stop.
+1. Continue urgent freshness checks around near-deadline AP/procurement roles, especially BlackWell, Sabah Capital AP/AR and Expro.
+2. Continue direct-fit AP/P2P, AR/O2C, payments, settlements, reconciliations, finance controls and bank back-office searches.
+3. Continue SAP/ERP support, implementation/training, master data, MIS/reporting, process automation/BPM/RPA and user-support roles where S4/MDG/Excel automation gives a credible bridge.
+4. Continue procurement/supply planning/supplier operations where ERP, PO/invoice/document and vendor skills transfer strongly; keep sourcing/tender/Incoterms/import gaps explicit.
+5. Prefer employer careers/ATS pages and current exact application routes; keep tool snapshots labelled honestly.
+6. Keep compensation filtering strict and `VACANCIES.csv` unchanged without user/browser-confirmed live evidence.
+7. Continue until explicit user stop.
