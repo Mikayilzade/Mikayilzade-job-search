@@ -1,35 +1,36 @@
 # Job Search Dashboard
 
-> **Candidate pool: 459 unique total — SEARCH CONTINUES**  
+> **Candidate pool: 465 unique total — SEARCH CONTINUES**  
 > **Browser-confirmed live: 7**  
-> Updated: 2026-08-23 after Autonomous Run #71.
+> Updated: 2026-08-23 after Autonomous Run #72.
 >
-> Candidate IDs now reach `C460`; historical `C158` is absent, so the true unique total is **459**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
+> Candidate IDs now reach `C466`; historical `C158` is absent, so the true unique total is **465**. `TOOL_SNAPSHOT` means current-looking discovery evidence, not guaranteed browser-live status.
 
-## Latest additions — C455–C460
+## Latest additions — C461–C466
 
 | Pri | Score | Type | Company / Role | Salary | Deadline / access | Evidence | Link |
 |---|---:|---|---|---|---|---|---|
-| B | **84** | ADJACENT | Tabaterra — Böyük Maliyyə Mütəxəssisi | Unknown | Baku / **2 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/maliyye-analitiki-2/boyuk-maliyye-mutexessisi-tabaterra-mmc-a7a14d)** |
-| B | **81** | ADJACENT | IDDA — Texnoparklarla iş əməliyyatları üzrə mütəxəssis | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/logistika-ve-satinalma/emeliyyatlar-uzre-mutexessis/texnoparklarla-is-emeliyyatlari-uzre-mutexessis-innovasiya-ve-reqemsal-inkisaf-a-4f07f7)** |
-| B | **78** | ADJACENT | IRES — Procurement Specialist | Unknown | Baku / **13–14 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/logistika-ve-satinalma/satinalma-uzre-mutexessis/procurement-specialist-ires-767a5e)** |
-| B | **77** | STRETCH | m10 — IT Business Analyst, Payment Platforms Tribe | Competitive + bonus / amount unpublished | Baku / **19 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/mehsul-ve-layihe/biznes-analitik/it-business-analyst-payment-platforms-tribe-m10-44702c)** |
-| C | **74** | STRETCH | OBA — Layihə rəhbəri (Satış) | Unknown | Baku / **18 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/mehsul-ve-layihe/layihe-meneceri/layihe-rehberi-satis-oba-marketler-sebekesi-92c209)** |
-| C | **72** | STRETCH | Birmarket — Tribe Performance Lead (Scrum Master) | Competitive + bonus / amount unpublished | Baku / **4 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/mehsul-ve-layihe/scrum-master/tribe-performance-lead-scrum-master-birmarket-8ff2ec)** |
+| B | **82** | ADJACENT | Cənnət Bağı — Cost Control Specialist | Unknown | Baku / **30 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/xerclere-nezaretci/cost-control-specialist-otel-ve-restoran-cennet-bagi-sirketler-qrupu-b750f5)** |
+| C | **74** | STRETCH | Bank of Baku — Menecment informasiya sistemləri şöbəsinin eksperti | Unknown | Baku / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bankofbaku.com/az/vacancies)** |
+| C | **73** | STRETCH | Bank of Baku — Texniki şöbənin eksperti (Ödəniş sistemləri) | Unknown | Baku / **31 Aug** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://careers.bankofbaku.com/az/)** |
+| C | **71** | ADJACENT | Baku Steel Company — Accountant | Unknown | Baku / fresh 17 Aug | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/accountant-baku-steel-company-cjsc-dec440)** |
+| C | **70** | ADJACENT | SAMİRAMİS — Baş mühasib müavini | Unknown | Baku / **12 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://hrx.az/is-elanlari/maliyye-ve-banklar/muhasib/bas-muhasib-muavini-xidmet-sahesi-uzre-samiramis-128850)** |
+| C | **70** | STRETCH | Milli Aviasiya Akademiyası — Personalın təlimləri üzrə auditor | Unknown | Baku / **20 Sep** | 🟡 TOOL_SNAPSHOT | **[Open ↗](https://jobs.glorri.com/)** |
 
 ### Best new fits
 
-**Tabaterra — Böyük Maliyyə Mütəxəssisi — 84/100.** AP/AR exposure, internal controls, audit support, ERP-based workflows and explicit process/automation improvement make this a strong finance-operations expansion role. Budgeting, cost analysis, financial reporting and liquidity/tax ownership are the main gaps.
+**Cənnət Bağı — Cost Control Specialist — 82/100.** This is much closer to AP/P2P than the title first suggests: PO/GRN/invoice checks, supplier AP monitoring and reconciliation, payment planning, inventory control and Excel. Main gaps are hotel/restaurant cost-control specifics, food/beverage costing and Opera PMS.
 
-**IDDA — Texnoparklarla iş əməliyyatları üzrə mütəxəssis — 81/100.** Request/case management, issue follow-up, database/CRM accuracy, reporting, documentation and multi-stakeholder coordination match operational ownership and master-data/process strengths unusually well. Direct client-facing account management and base tax/corporate-law knowledge are the main gaps.
+**Bank of Baku — Menecment informasiya sistemləri şöbəsinin eksperti — 74/100.** Business-request analysis, reporting requirements, BI delivery, issue investigation and testing form a credible bridge from advanced Excel/VBA reporting and process automation. SQL/PLSQL and Oracle BI are the real technical gaps.
 
-**IRES — Procurement Specialist — 78/100.** Purchase requisitions, POs, ERP/1C, supplier comparisons, contracts and payment-term coordination are highly transferable from P2P/vendor operations. Direct sourcing, bidding and commercial negotiation remain real gaps.
+**Bank of Baku — Payment Systems Technical Expert — 73/100.** Payments-domain familiarity and operational controls transfer, but this is deliberately kept as a stretch because Oracle administration, SQL/PLSQL and acquiring/issuing system knowledge are explicit requirements.
 
 ## Near-deadline watch
 
-- **ADA University — Specialist, Accounts Payable:** deadline **23 Aug 2026** — already in candidate history; re-check before applying.
+- **ADA University — Specialist, Accounts Payable:** deadline **23 Aug 2026** — re-check exact route today.
 - **BlackWell — Procurement Specialist (C435):** deadline **24 Aug**.
-- **Sabah Capital Partners — Kreditor mühasib / Receivable Accountant (C443/C444):** approximately **26–27 Aug**.
+- **Sabah Capital Partners — AP/AR roles (C443/C444):** approximately **26–27 Aug**.
+- **Cənnət Bağı — Cost Control Specialist (C461):** deadline **30 Aug**.
 
 ## Browser-confirmed live subset
 
@@ -38,9 +39,9 @@ Browser-confirmed live count remains **7**; `VACANCIES.csv` was not changed beca
 ## Full ledgers
 
 - Historical master: **[CANDIDATES.csv](./CANDIDATES.csv)**
-- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN71.csv`**
+- Additive candidate ledgers: `CANDIDATES_RUN15.csv` … **`CANDIDATES_RUN72.csv`**
 - Browser-confirmed live: **[VACANCIES.csv](./VACANCIES.csv)**
-- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN71.csv`**
+- Closed / rejected / low-pay history: **[REJECTED.csv](./REJECTED.csv)** + additive ledgers through **`REJECTED_RUN72.csv`**
 
 ## Verification rule
 
